@@ -62,8 +62,8 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Cyber Security Enthusiast."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Email"
+      icon: "fas fa-inbox"
       url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
