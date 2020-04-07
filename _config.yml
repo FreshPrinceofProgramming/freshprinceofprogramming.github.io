@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Taylor Breland"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/pic.jpg"
   bio    : "Cyber Security Enthusiast."
   links:
     - label: "Email"
