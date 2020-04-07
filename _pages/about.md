@@ -2,7 +2,5 @@
 permalink: /about/
 title: "About"
 ---
+My name is Taylor, and I'm a Cyber Security enthusiast that is trying to learn as much as I can in order to become a penetration tester. I really didn't know at first how I wanted to structure this site, but I knew I wanted a mix of my own experiences as well as use this as an opportunity to teach people about cyber security and why it's important. I've always felt like there isn't much transparency between the end user and the various security programs/platforms that we use every day. Cyber Security is a field that has grown tremendously, and it is always constantly changing. Hopefully you, the reader, can walk away knowing a little bit more and be able to speak about cyber security in a way that's more that just, "well it works."
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
-
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
