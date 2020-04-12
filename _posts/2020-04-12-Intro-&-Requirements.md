@@ -15,7 +15,7 @@ Instead we're talking about a challenge that is all about hacking your way throu
 
 # Pentesting?
 
-Pentesting on the other hand is the actual profressional application of hacking in a real life controlled scenario that is meant to test network and system security. You can think of this like an audit, but for your cyber assets within your company. 
+Pentesting on the other hand is the actual profressional application of hacking in a real life controlled scenario that is meant to test network and system security. You can think of this like an audit, but for your existing cyber security posture.
 
 Penetration Testers (Pentesters for short), are tasked with finding as many security loopholes as possible in a network and on systems within the network. This job is legitimate professional hacking, or ethical hacking. The benefits of these pentests for companies is that they are able to see how a malicious hacker could potentially infiltrate their network. This kind of knowledge is very valuable for security teams, and it shows how they can improve their security posture. 
 
