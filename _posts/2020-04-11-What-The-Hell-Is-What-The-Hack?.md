@@ -9,4 +9,14 @@ header:
 
 Judging by Nick Young's face, he's confused too...
 
-This section is going to be dedicated to a different topic in each post that has to do with something cyber security related. 
+This section is going to be dedicated to a different topic in each post that has to do with something cyber security related, or loosely based. I'm always taking suggestions, but topics will include (but not limited to):
+
+1) What is a VPN?
+
+2) What is Tor?
+
+3) What is Encryption?
+
+4) (insert your suggestion)
+
+The main goal is to break down these different topics and explain them at a high level. I encourage you to do outside research on these topics as well, but these posts will get you started with the basics.
