@@ -19,4 +19,4 @@ Pentesting on the other hand is the actual profressional application of hacking 
 
 Penetration Testers (Pentesters for short), are tasked with finding as many security loopholes as possible in a network and on systems within the network. This job is legitimate professional hacking, or ethical hacking. The benefits of these pentests for companies is that they are able to see how a malicious hacker could potentially infiltrate their network. This kind of knowledge is very valuable for security teams, and it shows how they can improve their security posture. 
 
-Remember, pentests are real life scenarios within an environment. There are no flags to capture, hints or walkthroughs. However, capture the flag challenges usually serve as great practice tools for pentesters to keep their skills sharp. 
+Remember, pentests are real life scenarios within an environment. There are no flags to capture, hints or walkthroughs. However, capture the flag challenges serve as great practice environments for pentesters to keep their skills sharp. 
