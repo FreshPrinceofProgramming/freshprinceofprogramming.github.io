@@ -4,7 +4,7 @@ categories:
   - What The Hack
 tagline: "another test"
 header:
-  image: assets/images/nickyoung.jpg
+  overlay_image: assets/images/nickyoung.jpg
   
 ---
 
