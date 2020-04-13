@@ -29,7 +29,7 @@ Here are the areas of technical knowledge you'll need to know in order to be a s
 * Web Application Security
 * Mobile App Security
 * Coding skills
-* moderate to advanced linux skills
+* Moderate to advanced linux skills
 
 Each of these disciplines could have their own semesters in a college course. We don't have that kind of time on this website, but I definitely encourage you to look up each of these topics and explore around. This guide should get you at least heading in that direction, and you'll see these different disciplines appear at different points.
 
