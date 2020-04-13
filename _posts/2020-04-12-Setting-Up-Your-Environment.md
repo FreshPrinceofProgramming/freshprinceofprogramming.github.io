@@ -20,6 +20,6 @@ What is virtulization? Essentially, this is way to emulate other operating syste
 
 If you go to the [Virtual Box downloads page](https://www.virtualbox.org/wiki/Downloads), you will be presented with this page:
 
-![virtual box downloads]({{ site.url }}{{ site.baseurl }}/assets/images/virtualboxdownload.png)
+![virtual box downloads]({{ site.url }}{{ site.baseurl }}/assets/images/virtualboxdownload.png){: .full}
 
 
