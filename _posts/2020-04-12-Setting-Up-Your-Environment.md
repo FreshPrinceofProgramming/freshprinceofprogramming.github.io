@@ -26,4 +26,15 @@ Download the appropriate version for your computer and follow the instructions t
 
 ![virtual box main]({{ site.url }}{{ site.baseurl }}/assets/images/virtualboxmain.png){: .full}
 
+As you can see I already have kali and parrot set up, as well as a practice vm. 
+
+### Setting up Kali Linux
+
+Now we'll need to downlaod our security pentesting platform. 
+
+What is Kali Linux? Kali Linux is an all purpose pentesting linux distribution created by Offensive Security. It comes pre-packaged with hundreds of tools that pentesters use in real life engagements. This makes this distro very powerful and it can definitely be used maliciously or stupidly, depending on the user. If you want to get your feet wet with linux, I reccommend starting with a distro like Ubuntu. You will need to know basic linux commands to be able to properly set up/maintain the distribution, as well as use the various tools. 
+
+You have a couple of different ways to install Kali linux, but the easiest way is to download the virtual box file and import it into your virtual box program. You can get to the downloads page for virtual box [here](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/). I downloaded the 64 bit program because I'm running 64 bit on my operating system, which most up to date ystems should be running. 
+
+
 
