@@ -44,6 +44,6 @@ Leave all of the default options on and click "import."
 
 After finishing, you should be able to see your imported machine. Run the machine to make sure it turns on and you can get to the home page. By default, the username and password is kali/kali. This is different than previous versions where the username and password were root/toor. You no longer have root privileges on the newest versions of Kali. 
 
-
+![kali main]({{ site.url }}{{ site.baseurl }}/assets/images/kalimain.png){: .full}
 
 
