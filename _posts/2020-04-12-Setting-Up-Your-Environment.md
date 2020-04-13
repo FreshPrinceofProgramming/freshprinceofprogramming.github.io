@@ -22,4 +22,8 @@ If you go to the [Virtual Box downloads page](https://www.virtualbox.org/wiki/Do
 
 ![virtual box downloads]({{ site.url }}{{ site.baseurl }}/assets/images/virtualboxdownload.png){: .full}
 
+Download the appropriate version for your computer and follow the instructions to complete the installation. You may also be prompted to download the extensions pack, which you should do. Once everything is installed, you should be looking at a GUI like this:
+
+![virtual box main]({{ site.url }}{{ site.baseurl }}/assets/images/virtualboxmain.png){: .full}
+
 
