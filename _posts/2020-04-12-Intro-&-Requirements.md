@@ -30,4 +30,6 @@ Here are the areas of technical knowledge you'll need to know in order to be a s
 * Mobile App Security
 * Coding 
 
-Each of these disciplines could have their own semesters in a college course. We don't have that kind of time on this website, but I definitely encourage you to look up each of these topics and explore around. This guide should get you at least heading in that direction, and you'll see these different disciplines appear at different points. 
+Each of these disciplines could have their own semesters in a college course. We don't have that kind of time on this website, but I definitely encourage you to look up each of these topics and explore around. This guide should get you at least heading in that direction, and you'll see these different disciplines appear at different points.
+
+Now let's set up your environment...
