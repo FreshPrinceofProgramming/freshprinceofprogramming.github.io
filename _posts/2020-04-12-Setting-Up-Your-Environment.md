@@ -34,7 +34,16 @@ Now we'll need to downlaod our security pentesting platform.
 
 What is Kali Linux? Kali Linux is an all purpose pentesting linux distribution created by Offensive Security. It comes pre-packaged with hundreds of tools that pentesters use in real life engagements. This makes this distro very powerful and it can definitely be used maliciously or stupidly, depending on the user. If you want to get your feet wet with linux, I reccommend starting with a distro like Ubuntu. You will need to know basic linux commands to be able to properly set up/maintain the distribution, as well as use the various tools. 
 
-You have a couple of different ways to install Kali linux, but the easiest way is to download the virtual box file and import it into your virtual box program. You can get to the downloads page for virtual box [here](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/). I downloaded the 64 bit program because I'm running 64 bit on my operating system, which most up to date ystems should be running. 
+You have a couple of different ways to install Kali linux, but the easiest way is to download the virtual box file and import it into your virtual box program. You can get to the downloads page for virtual box [here](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/). I downloaded the 64 bit program because I'm running 64 bit on my operating system, which most up to date systems should be running. 
+
+Once you've downloaded Kali, open up virtual box and click on File -> Import Appliance. Click on the file icon and find where you downloaded the kali image. You will end up at a screen like this:
+
+![import kali]({{ site.url }}{{ site.baseurl }}/assets/images/kaliimport.png){: .full}
+
+Leave all of the default options on and click "import." 
+
+After finishing, you should be able to see your imported machine. Run the machine to make sure it turns on and you can get to the home page. By default, the username and password is kali/kali. This is different than previous versions where the username and password were root/toor. You no longer have root privileges on the newest versions of Kali. 
+
 
 
 
