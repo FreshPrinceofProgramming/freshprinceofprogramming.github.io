@@ -59,7 +59,7 @@ First, go to your "settings" tab of the kali vm. From the new menu, click on the
 
 ![settings]({{ site.url }}{{ site.baseurl }}/assets/images/settings.png){: .full}
 
-Where you see "Attached to:" is the place you're going to click on and a drop-down menu will appear. There's a lot of options, all which have their own purpose. If you know networking to a decent extent, you should recognize or at least understand each networking type. For our purposes, we're going to want A) connectivity to the internet for our vm, and B) connectivity to each additional vm we have running. This is most easily done by choosing "bridged mode." 
+Where you see "Attached to:" is the place you're going to click on and a drop-down menu will appear. There are a lot of options, all which have their own purpose. If you know networking to a decent extent, you should recognize or at least understand each networking type. For our purposes, we're going to want A) connectivity to the internet for our vm, and B) connectivity to each additional vm we have running. This is most easily done by choosing "bridged mode." 
 
 TL;DR: Bridged mode will make it look like our virtual machine is a seperate device on the network, while being able to connect to the outside internet that our host machine (the computer running the virtual software) is using. Pretty neat, huh? As a separate device on our network, we can communicate with whoever else is on the network, including other guest vm's with the same network setting. MISSION ACCOMPLISHED!
 
