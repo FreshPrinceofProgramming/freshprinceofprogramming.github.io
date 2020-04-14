@@ -42,8 +42,30 @@ Once you've downloaded Kali, open up virtual box and click on File -> Import App
 
 Leave all of the default options on and click "import." 
 
-After finishing, you should be able to see your imported machine. Run the machine to make sure it turns on and you can get to the home page. By default, the username and password is kali/kali. This is different than previous versions where the username and password were root/toor. You no longer have root privileges on the newest versions of Kali. 
+After finishing, you should be able to see your imported machine. Run the machine to make sure it turns on and you can get to the home page. By default, the username and password is kali/kali (you can change this. you should change this. please change this). This is different than previous versions where the username and password were root/toor. You no longer have root privileges on the newest versions of Kali. 
 
 ![kali main]({{ site.url }}{{ site.baseurl }}/assets/images/kalimain.png){: .full}
+
+Yay! Kali is installed, but we're still not done....
+
+### Networking mode 
+
+This step is probably one of the most overlooked and consequently most frustrating down the line when you actually start downloading vm's. We need to now make sure that our kali vm and any vm we downlaod are able to communicate with each other.
+The power of virutalization is not just the fact that we can emulate other operating systems, but we can also create entirely new simple or complex networks filled with many different virual machines. Luckliy for us, we're only going to need 1-3 machines running at the same time, so that isn't too hard to manage.
+
+*shut down your kali vm before you do this
+
+First, go to your "settings" tab of the kali vm. From the new menu, click on the "network" sidebar tab. You should have a screen similar to this:
+
+![settings]({{ site.url }}{{ site.baseurl }}/assets/images/settings.png){: .full}
+
+Where you see "Attached to:" is the place you're going to click on and a drop-down menu will appear. There's a lot of options, all which have their own purpose. If you know networking to a decent extent, you should recognize or at least understand each networking type. For our purposes, we're going to want A) connectivity to the internet for our vm, and B) connectivity to each additional vm we have running. This is most easily done by choosing "bridged mode." 
+
+TL;DR: Bridged mode will make it look like our virtual machine is a seperate device on the network, while being able to connect to the outside internet that our host machine (the computer running the virtual software) is using. Pretty neat, huh? As a separate device on our network, we can communicate with whoever else is on the network, including other guest vm's with the same network setting. MISSION ACCOMPLISHED!
+
+*If you're curious, here's a picture of the different networking modes and what's posisble
+
+![networking]({{ site.url }}{{ site.baseurl }}/assets/images/networking.png){: .full}
+
 
 
