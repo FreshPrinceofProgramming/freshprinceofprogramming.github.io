@@ -15,7 +15,11 @@ This tool is going to be our swiss army knife for performing reconnaisance on a 
 
 A lot of movies and tv shows (Mr. Robot excluded) make hacking into networks and devices seem very simple. You click on a button, and BAM, you've "made it passed the firewall." However, in real life hacking these things take time, and it's important that we have a good understanding of where and how we're going to approach a target machine. The more information we have, the better off we'll be in the long run.
 
-Port and service detection is where we're going to focus our attention for CTF 
+Port and service detection is where we're going to focus our attention. I have a post on ports and protocols that supplements this, so please go look at that for a more detailed explanation. I'm going to assume you've either read that or already have prior knowledge. 
+
+There are so many other applications of nmap that it's pretty hard to explain everything that it can do. I recommend visiting the [website](https://www.nmap.org).
+
+
 
 
 
