@@ -19,7 +19,7 @@ Port and service detection is where we're going to focus our attention. I have a
 
 There are so many other applications of nmap that it's pretty hard to explain everything that it can do. I recommend visiting the [website](https://www.nmap.org).
 
-Do NOT use nmap to scan random networks and systems. While not neccesarily "illegal," your nmap scans can leave a digital footprint of who you are (there are ways to evade this). Better to be safe than sorry and explain to your boss, police, or some legal authority figure why you were snooping around. Think of an nmap scan like walking around a house and making notes of all the potential entry points (windows, doors, etc.). Walking is not illegal, but you might draw attention to yourself and be asked what you are doing. 
+Do NOT use nmap to scan random networks and systems. While not neccesarily "illegal," your nmap scans can leave a digital footprint of who you are (there are ways to evade this). Better to be safe than sorry and explain to your boss, police, or some legal authority figure why you were snooping around. Think of an nmap scan like walking around a house and making notes of all the potential entry points (windows, locks, doors, etc.). Walking is not illegal, but you might draw attention to yourself and be asked what you are doing. 
 
 
 
