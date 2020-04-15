@@ -67,5 +67,5 @@ TL;DR: Bridged mode will make it look like our virtual machine is a seperate dev
 
 ![networking]({{ site.url }}{{ site.baseurl }}/assets/images/networking.png){: .full}
 
-
+In the next post we're going to look at the various tools you'll be using in kali to hack! 
 
