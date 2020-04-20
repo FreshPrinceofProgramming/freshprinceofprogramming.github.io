@@ -45,7 +45,7 @@ Netcat is another powerful tool that will allow us to read and write data across
 
 ## Nikto
 
-Nikto is another type of scanner that will specifically scan web servers for potential vulnerabilities. This is very useful to us because it allows us to gather information about a web server
+Nikto is another type of scanner that will specifically scan web servers for potential vulnerabilities. This is very useful to us because it allows us to gather information about a web server for use in a later stage. 
 
 
 
