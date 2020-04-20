@@ -33,7 +33,19 @@ Similar to nmap, there is A LOT you can do with Metasploit. I recommend going [h
 
 WPScan is short for "Wordpress Scanner." Yes, Wordpress the online site management platform where you can create blogs, websites, etc. is going to be one of the areas we're going to focus on. I've seen quite a few CTF challenges use Wordpress in some way as an entry point into the target system.
 
-With WPScan, we can identify a potentially vulnerable wordpress page and where those vulnerabilites are. We can also scan for login accounts to see which users might be related to that account. 
+With WPScan, we can identify a potentially vulnerable wordpress page and where those vulnerabilites are. We can also scan for login accounts to see which users might be related to that account.
+
+## John the Ripper
+
+John the Ripper is a password cracking tool that comes in handy quite often. It can perform a variety of different attack methods for various types of encrypted passwords. In beginner CTF challenges, you probably won't be cracking passwords, but it is nice to know about this tool in case it does come up. There are various other password cracking tools in kali, and available for download.
+
+## Netcat
+
+Netcat is another powerful tool that will allow us to read and write data across a network using boh TCP and UDP. In our case, sometimes we will need to be able to create what's called a "listener," which will act as our connection back to a target machine. With Ncat, we can set up a listener over a specific port and have our shell connect back over that specific port. Don't worry if none of this makes sense just yet. 
+
+## Nikto
+
+Nikto is another type of scanner that will specifically scan web servers for potential vulnerabilities. This is very useful to us because it allows us to gather information about a web server
 
 
 
