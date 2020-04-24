@@ -15,11 +15,6 @@ VPN stands for "Virtual Private Network." You may or may not have heard this ter
 
 Right now reading this article you are connected to the internet! Well...duh, right? More specifically, your computer is part of a LAN or Local Area Network. Whether you are connected to the internet at work, home, Starbucks (this is will come up later), etc., you are on a LAN for that particular location. The LAN that you are on has every device that connects to the internet, which is why this logical separation of LAN's make sense depending on your location. For example, your home network is one LAN, whereas your neighbor across the street has a different LAN. The router/modem in your home network is the device that will connect you to the greater internet or WAN (Wide Area Network). 
 
-{% capture fig_img %}
 ![Home LAN]({{ site.url }}{{ site.baseurl }}/assets/images/HomeLan.png){: .full}
-{% endcapture %}
 
-<figure>
-  {{ fig_img | markdownify | remove: "<p>" | remove: "</p>" }}
-  <figcaption>Home Network LAN.</figcaption>
-</figure>
+
