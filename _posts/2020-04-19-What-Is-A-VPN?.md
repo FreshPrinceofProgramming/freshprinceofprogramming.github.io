@@ -37,6 +37,14 @@ So we've already establised that a public IP address is how your devices are see
 Your device with it's public IP connecting to the facebook server
 ![client server]({{ site.url }}{{ site.baseurl }}/assets/images/clientserver.png)
 
+Facebook now knows your public IP, and can track it to you via your ISP. This seems like a very invasive, almost creepy sort of thing that facebook and anyone else potentially can do. What if there was a way to hide your IP address so that you can effectively stay "hidden" on the internet? 
+
+*cue drumroll
+
+YOU CAN DO THIS WITH A VPN!!! :D
+
+
+
 
 
 
