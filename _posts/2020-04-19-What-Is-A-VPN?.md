@@ -49,6 +49,10 @@ A VPN can effectively be used to hide your IP and further encrypt your data (mos
 
 ## Practical Applications of VPN's
 
+Hiding your IP address is just one of many applications for a VPN. I'll have a separate article on anonymity, privacy, and how to stay safe on the internet in the future. For now, I think it's important to just note why VPN's are useful and why you may want to buy one.
+
+
+
 
 
 
