@@ -28,9 +28,13 @@ Your local IP is used to differentiate devices on a LAN. This is to ensure that 
 
 Your public IP is where things get a little tricky. Believe it or not, your LAN (in most cases) only has one public IP that all your devices use to communicate out to the internet. Yes, you read that right. So that means your phone, laptop, tablet, etc. are all indentified on the public internet with the same IP. The entire process for this is called NAT(Network Address translation), and it's the reason why you're able to connect to the internet on your LAN. This is handled by your router, and therefore largely abstracted from the user. Your ISP (Comcast, AT&T, etc.) will asign your router a public IP that is owned by them. I highly recommend looking up how NAT works on a more technical level, if you're interested. 
 
-So now that we've introduced some basic network knowledge, we can finally talk about VPN's! 
+Now that we've introduced some basic network knowledge, we can finally talk about VPN's! 
 
-## What the hell is VPN?...forreal this time
+## So What the hell is VPN??!!...forreal this time
+
+So we've already establised that a public IP address is how your devices are seen on the internet. When you connect to facebook.com, your device sends out some basic information to a facebook server that is hosting the service in the form of packets. These packets include things like source IP (your public IP), destination IP (where is it trying to connect to), and payload (content being sent over in the request). There are many other things sent in packets, but we're keeping it simple. 
+
+
 
 
 
