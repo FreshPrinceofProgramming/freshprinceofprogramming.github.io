@@ -19,4 +19,3 @@ Example of a home network LAN
 ![Home Lan]({{ site.url }}{{ site.baseurl }}/assets/images/HomeLAN3.png)
 
 
-
