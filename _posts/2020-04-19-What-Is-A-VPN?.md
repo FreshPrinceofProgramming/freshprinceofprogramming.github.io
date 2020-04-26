@@ -34,7 +34,7 @@ Now that we've introduced some basic network knowledge, we can finally talk abou
 
 We've already establised that a public IP address is how your devices are seen on the internet. When you connect to facebook.com, your device sends out some basic information to a facebook server that is hosting the service, in the form of network packets. These packets include things like source IP (your public IP), destination IP (where is it trying to connect to), and payload (content being sent over in the request). There are many other things sent in packets, but we're keeping it simple. We will call this the client-server model. The client is your device, and the server is the destination that is hosting the content you want to access.
 
-Your device with it's public IP connecting to the facebook server
+Your device with its public IP connecting to the facebook server
 ![client server]({{ site.url }}{{ site.baseurl }}/assets/images/clientserver.png)
 
 Facebook now knows your public IP, and can track it to you via your ISP. This seems like a very invasive, almost creepy sort of thing that facebook and anyone else potentially can do. What if there was a way to hide your IP address so that you can effectively stay "hidden" on the internet? 
