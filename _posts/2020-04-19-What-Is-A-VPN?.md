@@ -43,6 +43,8 @@ Facebook now knows your public IP, and can track it to you via your ISP. This se
 
 YOU CAN DO THIS WITH A VPN!!! :D
 
+A VPN can effectively be used to hide your IP and further encrypt your data from source to destination (and vice versa). 
+
 
 
 
