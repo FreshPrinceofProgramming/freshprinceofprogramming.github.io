@@ -47,6 +47,8 @@ A VPN can effectively be used to hide your IP and further encrypt your data (mos
 
 ![client vpn server]({{ site.url }}{{ site.baseurl }}/assets/images/clientvpnserver.png)
 
+## Practical Applications of VPN's
+
 
 
 
