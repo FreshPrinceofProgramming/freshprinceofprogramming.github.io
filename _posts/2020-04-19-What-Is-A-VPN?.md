@@ -43,7 +43,9 @@ Facebook now knows your public IP, and can track it to you via your ISP. This se
 
 YOU CAN DO THIS WITH A VPN!!! :D
 
-A VPN can effectively be used to hide your IP and further encrypt your data from source to destination (and vice versa). 
+A VPN can effectively be used to hide your IP and further encrypt your data (most of the time). With a VPN, all of your internet traffic is routed through a VPN server that is designated with some external IP which will now be yours to use. Before a VPN, connecting to facebook.com exposed our device's IP. Now with a VPN, facebook only sees the public address of the VPN server.
+
+![client vpn server]({{ site.url }}{{ site.baseurl }}/assets/images/clientvpnserver.png)
 
 
 
