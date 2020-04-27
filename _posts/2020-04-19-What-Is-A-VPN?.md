@@ -82,7 +82,7 @@ One thing that is important for any VPN to have is a strong encryption standard.
 
 This seems to be the million dollar question. I would say that overall no matter your level of internet activity and what information you send out online, VPN's will always add benefit to your security stack. With that said, you as a user of the internet also need to be aware of the dangers and how to protect yourself regardless of any extra security tools. VPN's are not 100% secure, but neither is anything else. It's said that if you want to have ultimate security, turn off your computer and never use it. Obviously, this isn't ideal or practical. 
 
-VPN's also cost money, usually in the form of a monthly/yearly subscription. Every VPN provider is going to market that they have the best secure VPN, and that this is why it costs X per year for the service. I would do research prior to committing to a VPN service, and see what they are offering. Here's what I'd look for:
+VPN's also cost money, usually in the form of a monthly/yearly subscription. Every VPN provider is going to market that they have the best secure VPN, and that this is why it costs X per year for the service. They aren't typically super expensive, but I would do research prior to committing to a VPN service and see what they are offering. Here's what I'd look for:
 
 1. Price
 2. Do they keep logs of activity? (very important)
@@ -91,4 +91,4 @@ VPN's also cost money, usually in the form of a monthly/yearly subscription. Eve
 
 Here is a list of [the top VPN services out right now](https://www.techradar.com/vpn/best-vpn)
 
-
+Thanks for reading! :D
