@@ -47,11 +47,14 @@ Netcat is another powerful tool that will allow us to read and write data across
 
 Nikto is another type of scanner that will specifically scan web servers for potential vulnerabilities. This is very useful to us because it allows us to gather information about a web server for use in a later stage. 
 
+## Dirb/Dirbuster
 
+Both of these tools will scan a web server for file directories based on a wordlist you provide. For example, you may be able to find a hiden path in a directory that you didn't even know existed. 
 
+## Wireshark
 
+Wireshark is a powerful network packet analyzing tool that can be used to monitor traffic over a wifi/ethernet connection. You'll be able to see in depth what a particular packet contains based on various metrics of that packet. You may be even able to see sensitive information, such as passwords, cc info, etc. 
 
+## Burpsuite
 
-
-
-
+Burpsuite is a tool that lets us test web applications. We can test them in a variety of ways which include looking at all requests and responses between your browser the target application.
