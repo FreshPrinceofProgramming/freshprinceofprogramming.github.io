@@ -67,7 +67,7 @@ It is not uncommon for content on the internet to be region locked. In fact, Net
 
 We've all used public wifi before, but what devices are actually on that public wifi LAN? At home it's more or less easy to know what devices are part of your home network, but in public places, this constantly changes. Think about the hundreds, if not thousands of people going in and out of coffe shops, airports, malls, etc. This presents to us a security risk.
 
-Let's suppose someone were able to sit on a public wifi and "listen" to all of the traffic over it. What information could they see? TheY could potentially see what websites you are visiting, and any personal information being sent over wifi that is not encrypted. 
+Let's suppose someone were able to sit on a public wifi and "listen" to all of the traffic over it. What information could they see? They could potentially see what websites you are visiting, and any personal information being sent over wifi that is not encrypted. 
 
 **Warning:** You should always always always make sure that you are connecting to websites with "https" and not "http."
 {: .notice--warning} 
