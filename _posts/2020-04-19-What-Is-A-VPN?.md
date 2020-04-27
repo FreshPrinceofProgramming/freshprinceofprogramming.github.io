@@ -78,7 +78,9 @@ It's a lot easier than you'd think. Remember, information over the internet and 
 
 One thing that is important for any VPN to have is a strong encryption standard. VPN's will use a variety of ways to further encrypt traffic, which for us is important if we want to be able to stay secure on non-safe networks. VPN's will encrypt our data before reaching the VPN server itself. Any attempt to sniff the traffic will be seen as giberrish, and might deter a hacker from attempting to target your machine. 
 
+## Should I Buy a VPN?
 
+This seems to be the million dollar question. I would say that depending on your current 
 
 
 
