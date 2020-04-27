@@ -51,7 +51,17 @@ A VPN can effectively be used to hide your IP and further encrypt your data (mos
 
 Hiding your IP address is just one of many applications for a VPN. I'll have a separate article on anonymity, privacy, and how to stay safe on the internet in the future. For now, I think it's important to just note why VPN's are useful and why you may want to buy one.
 
-In the beginning of this article, I mentioned that a lot of people are now working from home due to COVID-19.
+#### Access Of Internal Resources
+
+As mentioned at the beginning of this article, a lot of people are now working from home. Companies around the world now have had to shift their workforce into a virtual space. Employees still need to be able to potentially access internal resources that are otherwise available outside of their work's LAN. If we can mimmick another public IP on the internet, why can't we do the same for a LAN that we want to be a part of remotely? VPN's are exactly how you solved this problem.
+
+A company could set up a VPN server somewhere within the company, usually on the firewall or internal network, and have their employees connect to that VPN. The VPN server would be set up in a way that devices connected to it are allowed to interact and be part of the internal LAN. This way you can still access your companies internal resources from the comfort of your own home. No long commute required to be in the building to do the same thing! 
+
+#### Access Region-locked Content
+
+Remember, your public IP address is how you are identified on the internet. When your ISP assigns you a public IP, that IP is usually in proximity to where you are currently located. Yes, your IP can give away your geographical location! With this in mind, I think it's becoming clear what exactly a public IP is and why it's so important. With a VPN we can actually pretend to be in a different part of the world.
+
+Depending on where the VPN server is hosted, it will adopt that region along with the public IP it has. This means that if you connect to a VPN server in London, your device's public IP is going to look like it's coming from London! 
 
 
 
