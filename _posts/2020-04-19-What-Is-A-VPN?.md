@@ -63,7 +63,7 @@ Remember, your public IP address is how you are identified on the internet. When
 
 Depending on where the VPN server is hosted, it will adopt that region along with the public IP it has. This means that if you connect to a VPN server in London, your device's public IP is going to look like it's coming from London! It is not uncommon for content on the internet to be region locked. In fact, Netflix is a great example of content that is given to the user based on region. The Netflix people in the United States access is different from the Netflix people in Korea access. There may be exclusive content to both sides that neither can access in a normal situation because they are tied to their regional public IP. VPN's solve this issue. Say goodbye to region locked content on Netflix! 
 
-
+#### Protection on Public Wifi
 
 
 
