@@ -53,17 +53,28 @@ Hiding your IP address is just one of many applications for a VPN. I'll have a s
 
 #### Access Of Internal Resources
 
-As mentioned at the beginning of this article, a lot of people are now working from home. Companies around the world now have had to shift their workforce into a virtual space. Employees still need to be able to potentially access internal resources that are otherwise available outside of their work's LAN. If we can mimmick another public IP on the internet, why can't we do the same for a LAN that we want to be a part of remotely? VPN's are exactly how you solved this problem.
+As mentioned at the beginning of this article, a lot of people are now working from home. Companies around the world now have had to shift their workforce into a virtual space. Employees still need to be able to potentially access internal resources that are otherwise not available outside of their work's LAN. If we can mimmick another public IP on the internet, why can't we do the same for a LAN that we want to be a part of remotely? VPN's are exactly how you solved this problem.
 
 A company could set up a VPN server somewhere within the company, usually on the firewall or internal network, and have their employees connect to that VPN. The VPN server would be set up in a way that devices connected to it are allowed to interact and be part of the internal LAN. This way you can still access your companies internal resources from the comfort of your own home. No long commute required to be in the building to do the same thing! 
 
 #### Access Region-locked Content
 
-Remember, your public IP address is how you are identified on the internet. When your ISP assigns you a public IP, that IP is usually in proximity to where you are currently located. Yes, your IP can give away your geographical location! With this in mind, I think it's becoming clear what exactly a public IP is and why it's so important. With a VPN we can actually pretend to be in a different part of the world.
+Remember, your public IP address is how you are identified on the internet. When your ISP assigns you a public IP, that IP is usually in proximity to where you are currently located. Yes, your IP can give away your geographical location. With a VPN we can actually pretend to be in a different part of the world if we wanted to. This means that if you connect to a VPN server in London, your device's public IP is going to look like it's coming from London! 
 
-Depending on where the VPN server is hosted, it will adopt that region along with the public IP it has. This means that if you connect to a VPN server in London, your device's public IP is going to look like it's coming from London! It is not uncommon for content on the internet to be region locked. In fact, Netflix is a great example of content that is given to the user based on region. The Netflix people in the United States access is different from the Netflix people in Korea access. There may be exclusive content to both sides that neither can access in a normal situation because they are tied to their regional public IP. VPN's solve this issue. Say goodbye to region locked content on Netflix! 
+It is not uncommon for content on the internet to be region locked. In fact, Netflix is a great example of content that is given to the user based on region. There are shows in other parts of the world that we cannot access here in the United States. VPN's solve this issue. Say goodbye to region locked content on Netflix! 
 
 #### Protection on Public Wifi
+
+We've all used public wifi before, but what devices are actually on that public wifi LAN? At home it's more or less easy to know what devices are part of your home network, but in public places, this constantly changes. Think about the hundreds, if not thousands of people going in and out of coffe shops, airports, malls, etc. This presents to us a security risk.
+
+Let's suppose someone were able to sit on a public wifi and "listen" to all of the traffic over it. What information could they see? TheY could potentially see what websites you are visiting, and any personal information being sent over wifi that is not encrypted. 
+
+You're probably thinking, "How the hell is that possible?" 
+
+It's a lot easier than you'd think. Remember, information over the internet and beyond is sent in network packets. These packets effectively contain all of the information associated with the content you are either sending or receiving. From a network management perpsective, it would be nice to be able to see these packets in transit in order to see what is actually going during these connections. There are packet analyzing tools for this exact purpose. A hacker could use one of these tools to sniff traffic over wifi and steal information. 
+
+I'll have an article for this in the future, but for now let's shift back to VPNs. One thing that is important for any 
+
 
 
 
