@@ -58,3 +58,5 @@ Wireshark is a powerful network packet analyzing tool that can be used to monito
 ## Burpsuite
 
 Burpsuite is a tool that lets us test web applications. We can test them in a variety of ways which include looking at all requests and responses between your browser the target application.
+
+I could go on for quite awhile with how many tools there are. However, I think we are ready to dive into a box to hack! 
