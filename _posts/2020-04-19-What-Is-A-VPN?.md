@@ -69,11 +69,14 @@ We've all used public wifi before, but what devices are actually on that public 
 
 Let's suppose someone were able to sit on a public wifi and "listen" to all of the traffic over it. What information could they see? TheY could potentially see what websites you are visiting, and any personal information being sent over wifi that is not encrypted. 
 
+**Warning:** You should always always always make sure that you are connecting to websites with "https" and not "http."
+{: .notice--warning} 
+
 You're probably thinking, "How the hell is that possible?" 
 
-It's a lot easier than you'd think. Remember, information over the internet and beyond is sent in network packets. These packets effectively contain all of the information associated with the content you are either sending or receiving. From a network management perpsective, it would be nice to be able to see these packets in transit in order to see what is actually going during these connections. There are packet analyzing tools for this exact purpose. A hacker could use one of these tools to sniff traffic over wifi and steal information. 
+It's a lot easier than you'd think. Remember, information over the internet and beyond is sent in network packets. These packets effectively contain all of the information associated with the content you are either sending or receiving. From a network management perpsective, it would be nice to be able to see these packets in transit in order to see what is actually going during these connections. There are packet analyzing tools for this exact purpose. A hacker could use one of these tools to sniff traffic over wifi and steal information. I'll have an article about this in the future, but for now let's shift back to VPNs. 
 
-I'll have an article for this in the future, but for now let's shift back to VPNs. One thing that is important for any 
+One thing that is important for any VPN to have is a strong encryption standard. VPN's will use a variety of ways to further encrypt traffic, which for us is important if we want to be able to stay secure on non-safe networks. VPN's will encrypt our data before reaching the VPN server itself. Any attempt to sniff the traffic will be seen as giberrish, and might deter a hacker from attempting to target your machine. 
 
 
 
