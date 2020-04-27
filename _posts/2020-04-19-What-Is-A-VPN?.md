@@ -84,10 +84,10 @@ This seems to be the million dollar question. I would say that overall no matter
 
 VPN's also cost money, usually in the form of a monthly/yearly subscription. Every VPN provider is going to market that they have the best secure VPN, and that this is why it costs X per year for the service. I would do research prior to committing to a VPN service, and see what they are offering. Here's what I'd look for:
 
-1) Price
-2) Do they keep logs of activity? (very important)
-3) What kind of encryption do they use? (also very important)
-4) Misc. offers within the subscription (support for UDP, double VPN, TOR, etc.)
+1. Price
+2. Do they keep logs of activity? (very important)
+3. What kind of encryption do they use? (also very important)
+4. Misc. offers within the subscription (support for UDP, double VPN, TOR, etc.)
 
 Here is a list of [the top VPN services out right now](https://www.techradar.com/vpn/best-vpn)
 
