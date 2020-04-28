@@ -30,7 +30,7 @@ Your public IP is where things get a little tricky. Believe it or not, your LAN 
 
 Now that we've introduced some basic network knowledge, we can finally talk about VPN's! 
 
-**Info notice** If you're interested in knowing both your IP addresses, here's how to do so: 
+**Info notice:** If you're interested in knowing both your IP addresses, here's how to do so: 
 Local IP
 1. Mac/Linux: open terminal and type "ipconfig getifaddr en0" (without quotes). Change to "en1" if you are using a wired connection.
 2. Windows: open the command prompt and type "ipconfig". You should be able to see your local IP on both ethernet and wireless.
