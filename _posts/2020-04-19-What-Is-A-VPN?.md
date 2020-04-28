@@ -30,13 +30,15 @@ Your public IP is where things get a little tricky. Believe it or not, your LAN 
 
 Now that we've introduced some basic network knowledge, we can finally talk about VPN's! 
 
-**Info notice:**  
+##### Find your IP Address
+
 Local IP
 1. Mac/Linux: open terminal and type "ipconfig getifaddr en0" (without quotes). Change to "en1" if you are using a wired connection.
 2. Windows: open the command prompt and type "ipconfig". You should be able to see your local IP on both ethernet and wireless.
+
 Public IP
 The easiest way to do this on all systems is to just type in "What is my ip?" on google and it will show you
-{: .notice--info}
+
 
 ## So What the hell is a VPN??!!...forreal this time
 
