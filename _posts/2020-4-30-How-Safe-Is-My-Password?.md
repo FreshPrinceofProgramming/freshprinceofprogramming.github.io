@@ -8,3 +8,4 @@ This question is probably one that is most asked when it comes to ensuring your 
 
 ### Is my password safe? 
 
+I think we can best answer this question first with how your passwords are actually stored in databases. When you create a new account on a website, it asks you to create a password. Once you create the password and fill out the rest, your account is now active. But what happened in the background with your password?
