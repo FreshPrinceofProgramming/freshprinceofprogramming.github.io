@@ -30,17 +30,6 @@ Your public IP is where things get a little tricky. Believe it or not, your LAN 
 
 Now that we've introduced some basic network knowledge, we can finally talk about VPN's! 
 
-##### Find your IP Address
-
-If you're interested in how to get your local and public IP, here's how:
-
-Mac/Linux: open a terminal window and type "ipconfig getifaddr en0" (without quotes). Change to "en1" if you are using a wired connection. This will show you your local IP for both. 
-
-Windows: open the command prompt and type "ipconfig". You should be able to see your local IP on both ethernet and wireless.
-
-For your public IP, if you type into google, "What is my ip?", there are tons of website that will be able to show you what it is.
-
-
 ## So What the hell is a VPN??!!...forreal this time
 
 We've already establised that a public IP address is how your devices are seen on the internet. When you connect to facebook.com, your device sends out some basic information to a facebook server that is hosting the service, in the form of network packets. These packets include things like source IP (where it's coming from), destination IP (where it's going to), and payload (content being sent over in the request). There are many other things sent in packets, but we're keeping it simple. We will call this the client-server model. The client is your device, and the server is the destination that is hosting the content you want to access.
