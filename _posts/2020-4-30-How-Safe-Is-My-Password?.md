@@ -10,7 +10,9 @@ This question is probably one that is most asked when it comes to ensuring your 
 
 I think we can all agree that using "password" for your password is not a good idea. Most websites won't even let you use that password without throwing in some numbers and symbols. But how are hackers able to figure out your password? It seems every other month there is a major security breach at a company, and millions of peoples' information is compromised. How is the website actually storing these passwords for protection?
 
-When you create a new account on a website, it asks you to create a password. Once you create the password and fill out the rest, your account is now active. But what's happenning in the background? Where did your password go? 
+When we talk about cyber security, one aspect of it that we are concerned about is the integrity of data. This means that we expect the orginal data that was sent, to be the exact same data that is received on the other end. If you've played the game "Telephone" as a kid in school, this is exactly the purpose of the game. The orginal phrase is passed down from kid to kid, and the last person has to relay the same information to see if the orginal phrase held true. Sounds easy, right? If you've played before, you'll know that was sarcasm :P
+
+Similar to how kids will purposely alter the phrase to be funny, it's not uncommon for hackers to alter data in mid transit to corrupt the integrity of the data for their personal benefit. 
 
 
 
