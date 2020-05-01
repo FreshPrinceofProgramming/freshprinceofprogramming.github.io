@@ -14,6 +14,8 @@ When we talk about cyber security, one aspect of it that we are concerned about 
 
 What does this have to do with passwords though? 
 
+If we can manage to come up with a way to maintain the integrity of data in cyber space, we can effectively ensure that the data is kept in its original form without fear of being altered. We can do the same for passwords, but the use case is slightly different. 
+
 
 
 
