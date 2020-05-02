@@ -16,7 +16,7 @@ What does this have to do with passwords though?
 
 If we can manage to come up with a way to maintain the integrity of data in cyber space, we can effectively ensure that the data is kept in its original form without fear of it being altered OR diciphered. Let's talk about hashing...
 
-### befd1ea261d11ae5ba4f3f0363313c52 
+### Password: befd1ea261d11ae5ba4f3f0363313c52 
 
-
+If you can't tell what the password is, then good. As a matter of fact, this is what your password is converted to when it is stored on the database. This gibberish is called a "hash." A hash is string (usually alphanumeric), that is a literal representation of a piece of data. 
 
