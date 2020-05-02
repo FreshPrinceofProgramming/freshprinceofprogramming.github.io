@@ -18,5 +18,5 @@ If we can manage to come up with a way to maintain the integrity of data in cybe
 
 ### Password: befd1ea261d11ae5ba4f3f0363313c52 
 
-If you can't tell what the password is, then good. As a matter of fact, this is what your password is converted to when it is stored on the database. This gibberish is called a "hash." A hash is string (usually alphanumeric), that is a literal representation of a piece of data. 
+If you can't tell what the password is, then good. As a matter of fact, this is what your password is converted to when it is stored on the database. This gibberish is called a "hash." A hash is string (usually alphanumeric), that is a literal representation of a piece of data.
 
