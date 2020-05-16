@@ -22,8 +22,8 @@ If you can't tell what the password is, then good(Hint: it's 'password'). As a m
 
 Hashes have important properities that they must abide by in order to be considered secure:
 
-1) Given a hash, it should be difficult to decipher the original message. Remember, hashes are one way functions.
-2) Hashing should always produce unique strings. This means that give 2 unique messages, the hashes produced should not be the same.
+* Given a hash, it should be difficult to decipher the original message. Remember, hashes are one way functions.
+* Hashing should always produce unique strings. This means that give 2 unique messages, the hashes produced should not be the same.
 
 There are other properties to hashes, but we will focus on these 2.
 
