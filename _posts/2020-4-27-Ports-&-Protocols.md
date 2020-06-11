@@ -17,4 +17,6 @@ Here's a list of the most common ports and what services/protocols they are asso
 ![Ports]({{ site.url }}{{ site.baseurl }}/assets/images/ports.png)
 
 
+See any you recognize? HTTP is over port 80, while HTTPS is over port 443. We can also see a wide varierty of other popular services. Overall, there are 65,536 ports that a computer can use. Realistically, you can serve any protocol over any port, which makes tracking network activity potentially difficult. In CTF exercises, we're going to be trying to see which port and service we can exploit in order to gain access to the target system. This is why it's important to know what a protocol is/does. For example, it might be more feasible to attack a webserver on port 80 first, than it is to attack LDAP over port 389. 
 
+I highly recommend to look up what each of these protocols do and how they work on a more techincal level.
