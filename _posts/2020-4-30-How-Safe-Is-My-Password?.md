@@ -23,11 +23,19 @@ If you can't tell what the password is, then good(Hint: it's 'password'). As a m
 Hashes have important properities that they must abide by in order to be considered secure:
 
 * Given a hash, it should be difficult to decipher the original message. Remember, hashes are one way functions.
-* Hashing should always produce unique strings. This means that give 2 unique messages, the hashes produced should not be the same.
+* Hashing should ALWAYS produce unique strings. This means that given 2 different inputs, the hashes produced should not be the same.
 
 There are other properties to hashes, but we will focus on these 2.
 
+### Password: BruteForce/DictionaryAttack45@@@
 
+The first property seems pretty straightforward. Nobody should be able to dicipher the orginal message given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and compare known hash values to their corresponding plaintext strings. 
+
+Let's say a hacker was able to obtain hundreds of hashed passwords from a database. The goal is to try to crack these passwords in order to obtain the true password for a given username. Typical hacker business. The hacker sees the hash for 'password' (5f4dcc3b5aa765d61d8327deb882cf99) in the database. How do they crack it? Well, one thing they could do is generate hashes in real time of every possible combination of letters/symbols. They then could compare the hash that they're trying to crack with one of the hashes they just generated. When it matches, they can see which plaintext combination caused the hit. This is called a brute force attack. It's exactly how it sounds. You're going to try EVERY single combination in order to eventually get the result you want. 
+
+In our example, a hacker could generate hashes for all 8 character lower case strings without symbols. Eventually, they will generate the hash for "password". This assumes a lot of prior knowledge of the password beforehand, most notably length, which is definitely not something hackers always have. Can you imagine if the hacker didn't have this knowledge? They would have to start with 1 character and work their way up to 8 characters of ALL POSSIBLE COMBINATIONS. Grab some coffee and put on a movie, because this is going to take a long time. As we can see, we trade off time for plausibility of cracking the password. Let's be clear, brute force will always work, but there's no gurantee it will be in a reasonable amount of time. Hence, this is why difficulty of deciphering the original message from a hash is an important property. There has to be a potentially faster way of doing this, and the hacker is in luck because there is....
+
+Let's go back to our example. So brute forcing is out of the picture because it takes too long. 
 
 
 
