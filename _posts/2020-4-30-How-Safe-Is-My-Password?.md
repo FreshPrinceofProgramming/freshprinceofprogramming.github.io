@@ -45,14 +45,14 @@ The second property to hashing also seems pretty straigtforward, but maybe while
 
 In order to make the second property hold, we need to get a bit creative. We know a couple of things about hashes already that can help us out. We know that any slight change to a string is going to dramatically change the entire hash. We also know that from the first property it should be difficult to decipher the orginal message. In the case where two people have the same password, which is more common than you think, the original hashes produced will be the same.
 
-*Alice's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
-*Bob's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
+* Alice's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
+* Bob's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 
 If a hacker compromised this database and saw two or more matching hashes, they know that if they crack the hash they now have access to an X amount of accounts. In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. What we could do to change the hashes is add a bit of salt(some pre-computed value) to the original password in order to change the hash entirely. We can prepend OR append this value to the original password.
 
-*Salt value: dontcrackme3456
-*Alice's password with salt: (dontcrackme3456password) 760271f1349c0484a4ecaf53e161253e
-*Bob's password with salt: (passworddontcrackme3456) 94ccd5cc971a0ffd0745cd5672452d84
+* Salt value: dontcrackme3456
+* Alice's password with salt: (dontcrackme3456password) 760271f1349c0484a4ecaf53e161253e
+* Bob's password with salt: (passworddontcrackme3456) 94ccd5cc971a0ffd0745cd5672452d84
 
 As we can now see, we've effectively solved the problem of two people sharing the same password. In Alice's case, the salt value was prepended to her password, whereas Bob's was appended. Both hashes are different, and there's no way a hacker would be able to know these two people shared the same password, let alone use a dictionary or brute force attack in any reasonable time to crack the password. Take that statement with a grain of salt...haha ;) 
 
