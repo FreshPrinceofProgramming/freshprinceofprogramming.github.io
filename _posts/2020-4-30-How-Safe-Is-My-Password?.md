@@ -35,7 +35,13 @@ Let's say a hacker was able to obtain hundreds of hashed passwords from a databa
 
 In our example, a hacker could generate hashes for all 8 character lower case strings without symbols. Eventually, they will generate the hash for "password". This assumes a lot of prior knowledge of the password beforehand, most notably length, which is definitely not something hackers always have. Can you imagine if the hacker didn't have this knowledge? They would have to start with 1 character and work their way up to 8 characters of ALL POSSIBLE COMBINATIONS. Grab some coffee and put on a movie, because this is going to take a long time. As we can see, we trade off time for plausibility of cracking the password. Let's be clear, brute force will always work, but there's no gurantee it will be in a reasonable amount of time. Hence, this is why difficulty of deciphering the original message from a hash is an important property. There has to be a potentially faster way of doing this, and the hacker is in luck because there is....
 
-Let's go back to our example. So brute forcing is out of the picture because it takes too long. 
+Let's go back to our example. So brute forcing is out of the picture because it takes too long. What if the hacker already has a list of thousands of different strings? They could just run through the list, compute the hashes for every entry and then compare it to the hash they're trying to crack. Seems easy right? This is called a dictionary attack. The hacker is using a list or dictionary of values that they believe may be one of the passwords. This is much faster than generating our own string combinations in real time. The downside to this attack is that it assumes the password is in the list the hacker has. If it's not in the list, then this attack is not going to work. This is why when perfomring a dictionary attack it's important to have a good password list. Believe it or not, there are lists you can find on the internet of common passwords that people use. The attack can only be as good as the dictionary used. Though this can be faster than brute force attacks, the hacker could also find it very difficult and time intensive to use many different dictionaries to find the password.
+
+Wow that was just the first property. All this hacking and failing may leave the hacker a bit salty...
+
+### Password: CanYouPassTheSalt?156*&
+
+
 
 
 
