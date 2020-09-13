@@ -48,7 +48,17 @@ In order to make the second property hold, we need to get a bit creative. We kno
 Alice's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 Bob's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 
-If a hacker compromised this database and saw two or more matching hashes, they know that if they crack the hash they now have access to an X amount of accounts. In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. 
+If a hacker compromised this database and saw two or more matching hashes, they know that if they crack the hash they now have access to an X amount of accounts. In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. What we could do to change the hashes is add a bit of salt(some pre-computed value) to the original password in order to change the hash entirely. We can prepend OR append this value to the original password.
+
+Salt value: dontcrackme3456
+Alice's password with salt: (dontcrackme3456password) 760271f1349c0484a4ecaf53e161253e
+Bob's password with salt: (passworddontcrackme3456) 94ccd5cc971a0ffd0745cd5672452d84
+
+As we can now see, we've effectively solved the problem of two people sharing the same password. In Alice's case, the salt value was prepended to her password, whereas Bob's was appended. Both hashes are different, and there's no way a hacker would be able to know these two people shared the same password, let alone use a dictionary or brute force attack in any reasonable time to crack the password. Take that statement with a grain of salt...haha ;) 
+
+This example was pretty simple and defintely not any kind of industry standard for actual salt + hashing techniques for safely storing passwords. However, this is what happens to your password, HOPEFULLY, when you create one and use it on a website. Different salts are used for every user and are generated randomly and securely. This is why password cracking is incredibly difficult. 
+
+
 
 
 
