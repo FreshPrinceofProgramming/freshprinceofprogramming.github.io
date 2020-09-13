@@ -58,6 +58,23 @@ As we can now see, we've effectively solved the problem of two people sharing th
 
 This example was pretty simple and defintely not any kind of industry standard for actual salt + hashing techniques for safely storing passwords. However, this is what happens to your password, HOPEFULLY, when you create one and use it on a website. Different salts are used for every user and are generated randomly and securely. This is why password cracking is incredibly difficult. 
 
+### Ok...but is my password safe?
+
+Whew...ok now we get to the actual point of the article. The answer is, it depends....
+
+In the attacks for cracking passwords, I mentioned that length of your password was something that hackers don't always have prior knowledge of. This is very important. As computing power becomes more powerful and accessible to the public, password cracking is becoming faster. It's not a coincidence that websites have requirements for passwords such as 8 characters upper and lower case + numbers + symbols for example. What they're really trying to do is increase the computational complexity that a computer has to go through if it's attempting to generate a hash to crack the passwords. The shorter and less complex your password is, the easier it is to crack. Makes sense right? 
+
+It can be really hard to come up with a long and complex password that you'll A) remember and B) know is secure. This is why it is highly recommened that you get a password manager. Not only will password managers make your life easier in storing all of your passwords, they also can be used to generate secure passwords based on any criteria needed by the user. In our above example with a password of 8 characters, it actually won't take that long to crack that password. Like....2 days at the most, probably less with the right computing power. However, if you use a 14 character mixed password, that password is not getting cracked in this lifetime. Password managers will be able to generate a secure password of that length or more. Consider getting one! 
+
+Some popular password managers:
+
+* KeepassX
+* LastPass
+* 1Password
+
+I recommened looking these up and see which one works for you. Most have free versions and are compatible with most OS's. There may even be a mobile app version as well. 
+
+Thanks for reading! 
 
 
 
