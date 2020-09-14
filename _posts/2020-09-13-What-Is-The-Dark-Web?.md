@@ -19,6 +19,6 @@ You may have heard the term "**deep web**" before. If you haven't, I'm sure you'
 
 You might be thinking, "Wouldn't we want to index everything?" And that's a fair point.
 
-There's actually a lot of content on the deep web that we don't want indexed....like our bank account information. While (insert your bank here) main website may be indexed to be easily found, the content behind your actual account information is considered to be part of the deep web. This is why the deep web accounts for the majority of all web content. I'm sure you can think of other examples of deep web content in your every day use of the web. Considering how powerful google is and the insane amount of information they index, it's interesting to think what truly is out there...
+There's actually a lot of content on the web that we don't want indexed....like our bank account information. While (insert your bank here) main website may be indexed to be easily found, the content behind your actual account information is considered to be part of the deep web. This is why the deep web accounts for the majority of all web content. I'm sure you can think of other examples of deep web content in your every day use of the web. Considering how powerful google is and the insane amount of information they index, it's interesting to think what truly is out there...
 
 ![Internet]({{ site.url }}{{ site.baseurl }}/assets/images/internet.jpg)
