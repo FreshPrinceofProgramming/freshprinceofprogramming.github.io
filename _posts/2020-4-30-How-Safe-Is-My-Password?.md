@@ -50,7 +50,7 @@ In order to make the second property hold, we need to get a bit creative. We kno
 * Alice's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 * Bob's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 
-If a hacker compromised this database and saw two or more matching hashes, they know that if they crack the hash they now have access to an X amount of accounts. In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. What we could do to change the hashes is add a bit of salt(some pre-computed value) to the original password in order to change the hash entirely. We can prepend OR append this value to the original password.
+If a hacker compromised this database and saw two or more matching hashes, they know that if they crack the hash they now have access to an X amount of accounts. In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. What we could do to change the hashes is add a bit of **salt**(some pre-computed value) to the original password in order to change the hash entirely. We can prepend OR append this value to the original password.
 
 * Salt value: dontcrackme3456
 * Alice's password with salt: (dontcrackme3456password) 760271f1349c0484a4ecaf53e161253e
