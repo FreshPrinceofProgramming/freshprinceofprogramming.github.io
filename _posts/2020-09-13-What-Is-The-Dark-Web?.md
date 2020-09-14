@@ -11,4 +11,4 @@ Lately I feel like I've seen and heard the dark web being brought up in more mai
 
 ### Let's Jump In The Deep End
 
-In order to better understand what the dark web is, we have to first understand what the web is. 
+In order to better understand what the dark web is, we have to first understand what the web is. You right now are on the World Wide Web. This is the collection of resources or pages interlinked through the HTTP protocol that are accessible over the internet. The internet and WWW are NOT THE SAME THING. The internet was created almost 50 years ago by the military, whereas the world wide web wasn't invented until 1989 by Tim Berners-Lee. The best analogy for differentiating the internet and WWW is imagining a city. Think of all of various roads, pipes, etc. that are needed to sustain the infrastructure of the city. This is the internet. Now imagine all of the different storefronts, businesses, etc. where people can visit. This is the WWW. You used a "road" on internet to get you to this "storefront," which is this website. 
