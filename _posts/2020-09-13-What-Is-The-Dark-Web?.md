@@ -31,6 +31,9 @@ So we've already established that the deep web is just the non-indexed content o
 
 To keep it short, the dark web can be accessed by using special software that is capable of connecting to the domains that host the illicit content. Most notably, the **TOR browser** is infamous for being the gate keeper to acess this content. I'll have a seperate article on what Tor is in more detail, but for now just imagine the Tor software as a way to access the dark web. This software is free and is available to [download from its main site](https://www.torproject.org/). 
 
+**Watch out!** This paragraph of text has been [emphasized](#) with the `{: .notice--danger}` class.
+{: .notice--danger}
+
 A question to ponder in the meantime, "Why would this software be available to download to the public if it's that bad?" All things will be explained in time...and in another article. 
 
 ### Ok, But Does All This Really Matter?
