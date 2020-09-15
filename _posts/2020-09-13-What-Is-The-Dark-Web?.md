@@ -28,3 +28,9 @@ There's actually a lot of content on the web that we don't want indexed....like 
 If you've made it this far, you're probably pissed how I always leave the good parts for later in articles. Well, too bad. In fact, if you were really mad at me, you could probably hack me and put my information on the dark web to sell, along with potentially millions of other peoples' information. Before you do that, I still have to tell you what the dark web is and how to find it. 5 more minutes of reading, TOPS. I promise ;) 
 
 So we've already established that the deep web is just the non-indexed content out there on world wide web. So what is the dark web specifically? Well, if you've heard the rumors about the content on the dark web, you might guess that it most certainly is not and DOES NOT want to be indexed for everyone to see. It's really just a subset of the deep web, with some special circumstances. Illicit activities ranging from drug sales, hiring hitmen, and purchashing stolen credit information is all fair game on the dark web. In almost a weird way, these people need to be protected too. Cyber security can't exist soley for the good guys. You can bet that the bad people are using whatever advanced cyber security tactics in order to stay hidden and continue to operate efficiently. 
+
+To keep it short, the dark web can be accessed by using special software that is capable of connecting to the domains that host the illicit content. Most notably, the **TOR browser** is infamous for being the gate keeper to acess this content. I'll have a seperate article on what Tor is in more detail, but for now just imagine the Tor software as a way to access the dark web. This software is free and is available to [download from its main site](https://www.torproject.org/). 
+
+A question to ponder in the meantime, "Why would this software be available to download to the public if it's that bad?" All things will be explained in time...and in another article. 
+
+
