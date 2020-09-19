@@ -28,7 +28,7 @@ Look at who this email is from. Very quickly this should raise some alarms. The 
 
 ![Apple1]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_apple1.jpg)
 
-Well...I am poor, but chances are if you're a milennial reading this, you are too. But we're not so poor enough that we can't afford an apple account, which by the way should sound very phishy to begin with. Apple does not charge you for having an apple account(they're free), unless you're paying for apps, buying extra storage for icloud, or purchasing some kind of apple product. If none of these apply to you, and you were to receive this email, you should automatically be warry. Let's give this email from "Apple" the benefit of the doubt though. It looks very legitimate, just like the Amazon email. Let's just get straight to the point and look at who's actually sending this email.
+Well...I am poor, but chances are if you're a milennial reading this, you are too. But we're not so poor enough that we can't afford an apple account, which should sound very phishy to begin with. Apple does not charge you for having an apple account(they're free), unless you're paying for apps, buying extra storage for icloud, or purchasing some kind of apple product. If none of these apply to you, and you were to receive this email, you should automatically be warry. Let's give this email from "Apple" the benefit of the doubt though. It looks very legitimate, just like the Amazon email. Let's just get straight to the point and look at who's actually sending this email.
 
 ![Apple2]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_apple2.jpg)
 
