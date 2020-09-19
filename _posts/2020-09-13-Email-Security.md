@@ -38,7 +38,13 @@ Annnnndddddd there we go. Here's another "no-reply" email, and the address looks
 
 ![Paypal]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_paypal.png)
 
-This phishing email actually looks pretty well done. In this email, "Paypal" is claiming that I've purchased women's shoes. Similar to the other emails, it is structured in a way that is very believable. 
+This phishing email actually looks pretty well done. In this email, "Paypal" is claiming that I've purchased women's shoes from Zappos, which is a shoe supplier. Similar to the other emails, it is structured in a way that is very believable. However, this email is doing something a little different that actually makes this a little more clever than the other two.
+
+I have used Zappos in the past to purchase shoes, but none recently. I also haven't used paypal to purchase anything in a long time as well. Looking at the shipping details, this becomes even more apparent that this appears to be fraudulent. My name isn't Christina, nor is that my billing info. Ok, so did they think I wasn't going to notice this? What's so clever about it? 
+
+If you're not a frequent user of Zappos, like myself, and have a paypal account, this might catch your eye as to an obvious sign that something is wrong. Seeing how legitimate this email seems, it might be tempting to immediately click on the link provided to "verify your information and cancel the order." This is where the phishing step is actually orchastrated. This email was presented to us intentionally as a fraudulent purchase in order to trick us into giving our information to the hackers. Pretty damn clever! Of course we can always check the sender email too.
+
+![Paypal1]({{ site.url }}{{ site.baseurl }}/assets/images/paypal1.jpg)
 
 
 
