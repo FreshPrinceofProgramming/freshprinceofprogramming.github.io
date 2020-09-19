@@ -38,7 +38,7 @@ Annnnndddddd there we go. Here's another "no-reply" email, and the address looks
 
 ![Paypal]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_paypal.png)
 
-This phishing email actually looks pretty well done. In this email, "Paypal" is claiming that I've purchased women's shoes. Similar to the other 
+This phishing email actually looks pretty well done. In this email, "Paypal" is claiming that I've purchased women's shoes. Similar to the other emails, it is structured in a way that is very believable. 
 
 
 
