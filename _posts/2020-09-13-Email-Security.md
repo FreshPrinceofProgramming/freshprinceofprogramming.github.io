@@ -46,7 +46,7 @@ If you're not a frequent user of Zappos, like myself, and have a paypal account,
 
 ![Paypal1]({{ site.url }}{{ site.baseurl }}/assets/images/paypal1.jpg)
 
-This doesn't set off any bells or whistles, so it's unclear whether this could be legitimate or not, although an actual zappos "no-reply" would probably have the name inside. Probably the smartest thing to do would be to check your paypal account to see if there has been any activity. If you are a frequent user of Zappos, check that account as well and make sure any concerns are brought up with an actual representative. 
+This doesn't set off any bells or whistles, so it's unclear whether this could be legitimate or not, although an actual zappos "no-reply" would probably have the name inside. Probably the smartest thing to do would be to check your paypal account to see if there has been any activity. If you are a frequent user of Zappos, check that account as well and make sure any concerns are brought up with an actual representative. EMAIL DELETED
 
 
 
