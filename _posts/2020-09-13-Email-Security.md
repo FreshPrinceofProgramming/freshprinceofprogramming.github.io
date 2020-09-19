@@ -15,7 +15,14 @@ I know, I know. It's not the most exciting platform, and probably the least "coo
 I'm sure you've all seen emails in your inbox that look a bit sketch. They might ask you to click on a link, download an attachment and/or provide some level of information in order to "verify" yourself. Some emails look very convincing, while others are obviously scams. In any case, this is called **phishing**. Phishing is an attempt through email to solicit information or get a user to do X action in order for personal gain. Usually, these attempts will appear to be coming from legitimate sources, such as your bank or any service you have an account with. Phishing attemps are getting harder to spot and defend against. It doesn't matter how good your internal security is, if a user in your company clicks on a link that takes them to a portal where they input sensitive information, the hacker has essentially bypassed all security controls and can now start to do bad things. I'm going to show some examples of what phishing emails may look like, and how you can spot it's fake.
 
 
-![Amazon]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_amazon1.jpg)
+#### Amazon "lock out"
+![Amazon1]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_amazon1.jpg)
+
+Here's an email I received by "Amazon" claiming that I'm locked out of my account because my billing information didn't match what was on my card. That's strange. To check, the first thing I did was log onto my Amazon account from the website itself, and not the link they provided. Not only am I able to log on, but my account information matches everything that is expected when placing an order. Right away this should give some context clues that this email is a scam. However, look at how the email is structured. It's got Amazon's logo at the top and all the right words that you might actually think would come from an Amazon representative. You might be tempted to click on the link provided under, "unlock my account." If you're still not sure whether this is a fake email or not, there's another metric you can check...the actual sender's email address.
+
+![Amazon2]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_amazon2.jpg)
+
+
 
 
 
