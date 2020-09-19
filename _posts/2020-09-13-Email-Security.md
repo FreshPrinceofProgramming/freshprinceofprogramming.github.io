@@ -18,9 +18,24 @@ I'm sure you've all seen emails in your inbox that look a bit sketch. They might
 #### Amazon "lock out"
 ![Amazon1]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_amazon1.jpg)
 
-Here's an email I received from "Amazon" claiming that I'm locked out of my account because my billing information didn't match what was on my card. That's strange. To check, the first thing I did was log onto my Amazon account from the website itself, and not the link they provided. Not only am I able to log on, but my account information matches everything that is expected when placing an order. Right away this should give some context clues that this email is a scam. However, look at how the email is structured. It's got Amazon's logo at the top and all the right words that you might actually think would come from an Amazon representative. You might be tempted to click on the link provided under, "unlock my account." If you're still not sure whether this is a fake email or not, there's another metric you can check...the actual sender's email address.
+Here's an email I received from "Amazon" claiming that I'm locked out of my account because my billing information didn't match what was on my card. That's strange. To check, the first thing I did was log onto my Amazon account from the website itself, and not the link they provided. Not only am I able to log on, but my account information matches everything that is expected when placing an order. Right away this should give some context clues that this email is a scam. However, look at how the email is structured. It's got Amazon's logo at the top and all the right words that you might actually think would come from an Amazon representative. You might be tempted to click on the link provided under, "unlock my account." If you're still not sure whether this is a scam or not, there's another metric you can usually check...the actual sender's email address.
 
 ![Amazon2]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_amazon2.jpg)
+
+Look at who this email is from. Very quickly this should raise some alarms. The "no-reply" address is coming from an unknown email address that does not immediately identify them as amazon in any way. I'd imagine that any kind of attempt to reach out to customers from an actual Amazon domain would be easily indentifiable. In this email, these people were trying to solicit my Amazon account information and potentially any billing info (credit card, billing address, etc.). If I had followed the link, I most likely would have been brought to a page that imitated an Amazon login page. Once I enter my credentials, it's game over. EMAIL DELETED 
+
+#### Apple Thinks I'm Poor
+
+![Apple1]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_apple1.jpg)
+
+Well...I am poor, but chances are if you're a milennial reading this, you are too. But we're not so poor enough that we can't afford an apple account, which by the way should sound very phishy to begin with. Apple does not charge you for having an apple account(they're free), unless you're paying for apps, buying extra storage for icloud, or purchasing some kind of apple product. If none of these apply to you, and you were to receive this email, you should automatically be warry. Let's give this email from "Apple" the benefit of the doubt though. It looks very legitimate, just like the Amazon email. Let's just get straight to the point and look at who's actually sending this email.
+
+![Apple2]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_apple2.jpg)
+
+Annnnndddddd there we go. Here's another "no-reply" email, and the address looks even stranger than the sender from the Amazon email. Look at the ".tk" suffix at the end of the email address. This is indicating the origin location of the email address, often refered to as a TLD or **Top Level Domain**. In this case, it's coming from the country "Tokelau." High key, I had to look where this country was. It's apparently a territory of New Zealand. Clearly, this is not associated with the Apple we all know and love. 
+
+
+
 
 
 
