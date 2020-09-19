@@ -32,7 +32,13 @@ Well...I am poor, but chances are if you're a milennial reading this, you are to
 
 ![Apple2]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_apple2.jpg)
 
-Annnnndddddd there we go. Here's another "no-reply" email, and the address looks even stranger than the sender from the Amazon email. Look at the ".tk" suffix at the end of the email address. This is indicating the origin location of the email address, often refered to as a TLD or **Top Level Domain**. In this case, it's coming from the country "Tokelau." High key, I had to look where this country was. It's apparently a territory of New Zealand. Clearly, this is not associated with the Apple we all know and love. 
+Annnnndddddd there we go. Here's another "no-reply" email, and the address looks even stranger than the sender from the Amazon email. Look at the ".tk" suffix at the end of the email address. This is indicating the origin location of the email address, often refered to as a TLD or **Top Level Domain**. In this case, it's coming from the country "Tokelau." High key, I had to look where this country was. It's apparently a territory of New Zealand. Clearly, this is not associated with the Apple we all know and love. EMAILE DELETED
+
+#### Paypal Shoe Plug
+
+![Paypal]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_paypal.png)
+
+This phishing email actually looks pretty well done. In this email, "Paypal" is claiming that I've purchased women's shoes. Similar to the other 
 
 
 
