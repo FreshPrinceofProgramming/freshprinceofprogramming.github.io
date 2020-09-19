@@ -4,7 +4,7 @@ categories:
   - Privacy, Security & Safety
 ---
 
-Contrary to what you may think, email is actually the most common attack vector for hackers. Depending on the goals of the hacker, they will probably try to use email in some way to either compromise your machine or gain credentials to important accounts. After reading this article, you should have a good understanding of what these methods are, and how you can stay safe on your email platform.
+Contrary to what you may think, email is actually the most common attack vector for hackers. Depending on the goals of the hacker, they will probably try to use email in some way to either compromise your machine and/or gain credentials to important accounts. After reading this article, you should have a good understanding of what these methods are, and how you can stay safe on your email platform.
 
 ### Really, email? 
 
@@ -12,7 +12,10 @@ I know, I know. It's not the most exciting platform, and probably the least "coo
 
 ### Let's go phishing
 
-I'm sure you've all seen emails in your inbox that look a bit sketch. They might ask you to click on a link, download an attachment and/or provide some level of information in order to "verify" yourself. Some emails look very convincing, while others are obviously scams. In any case, this is called **phishing**. Phishing is an attempt to solicit information or get a user to do X action in order for personal gain. Usually, these attempts will appear to be coming from legitimate sources, such as your bank or any service you have an account with. Phishing attemps are getting harder to spot and defend against. It doesn't matter how good your internal security is, if a user in your company clicks on a link that takes them to a portal where they input sensitive information, the hacker has essentially bypassed all security controls and can now start to do bad things. 
+I'm sure you've all seen emails in your inbox that look a bit sketch. They might ask you to click on a link, download an attachment and/or provide some level of information in order to "verify" yourself. Some emails look very convincing, while others are obviously scams. In any case, this is called **phishing**. Phishing is an attempt to solicit information or get a user to do X action in order for personal gain. Usually, these attempts will appear to be coming from legitimate sources, such as your bank or any service you have an account with. Phishing attemps are getting harder to spot and defend against. It doesn't matter how good your internal security is, if a user in your company clicks on a link that takes them to a portal where they input sensitive information, the hacker has essentially bypassed all security controls and can now start to do bad things. I'm going to show some examples of what phishing emails may look like, and how you can spot it's fake.
+
+
+![Amazon]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_amazon1.jpg)
 
 
 
