@@ -40,7 +40,7 @@ Annnnndddddd there we go. Here's another "no-reply" email, and the address looks
 
 This phishing email actually looks pretty well done. In this email, "Paypal" is claiming that I've purchased women's shoes from Zappos, which is a shoe supplier. Similar to the other emails, it is structured in a way that is very believable. However, this email is doing something a little different that actually makes this a little more clever than the other two.
 
-I have used Zappos in the past to purchase shoes, but none recently. I also haven't used paypal to purchase anything in a long time as well. Looking at the shipping details, this becomes even more apparent that this appears to be fraudulent. My name isn't Christina, nor is that my billing info. Ok, so did they think I wasn't going to notice this? What's so clever about it? 
+I have used Zappos in the past to purchase shoes, but none recently. However, I do use paypal on occasion. Looking at the shipping details, this becomes even more apparent that this appears to be fraudulent. My name isn't Christina, nor is that my billing info. Ok, so did they think I wasn't going to notice this? What's so clever about it? 
 
 If you're not a frequent user of Zappos, like myself, and have a paypal account, this might catch your eye as to an obvious sign that something is wrong. Seeing how legitimate this email seems, it might be tempting to immediately click on the link provided to "verify your information and cancel the order." This is where the phishing step is actually orchastrated. This email was presented to us intentionally as a fraudulent purchase in order to trick us into giving our information to the hackers. Pretty damn clever! Of course we can always check the sender email too as in the previous examples.
 
@@ -48,6 +48,11 @@ If you're not a frequent user of Zappos, like myself, and have a paypal account,
 
 This doesn't set off any bells or whistles, so it's unclear whether this could be legitimate or not, although an actual zappos "no-reply" would probably have the name inside. Probably the smartest thing to do would be to check your paypal account to see if there has been any activity. If you are a frequent user of Zappos, check that account as well and make sure any concerns are brought up with an actual representative. EMAIL DELETED
 
+### How to Stay Safe
+
+The three examples above are just a small amount of the kinds of phishing attempts out there. In more sophisticated attacks, you may see an email come from somone you know and trust. This attempt is called a **spoof**. The attackers are trying to pretend to be someone you know in order to increase their chances of you clicking on the email. You'll typically see these kinds of attacks on companies, which may target high profile people in order to gain very sensitive information. Here are some things you can do to protect yourself on email to stay safe.
+
+* Do not click on
 
 
 
