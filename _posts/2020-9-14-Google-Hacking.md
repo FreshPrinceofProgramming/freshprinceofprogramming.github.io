@@ -18,5 +18,7 @@ Well, no. And not because the information isn't out there. You just typed it in 
 
 ### Try Searching For...
 
-Let's back up for a second and talk about normal searches.
+Let's back up for a second and talk about normal searches. When we go to google, we generally have an idea of what we want to search for, but what if we want to be more specific with our search? 
+
+For example, if I 
 
