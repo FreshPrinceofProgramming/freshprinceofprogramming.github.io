@@ -8,5 +8,7 @@ What if I told you that you've been searching on google the wrong way all this t
 
 ### You're such a Dork
 
-It's no secret that google is one of the largest and most popular search engines in the world. People rely on google every second to find resources related to their search queries. What other search engine can find you the best cat memes or best places to download $100+ textbooks for free? I miss college...but I digress. If you've read my [dark web](https://freshprinceofhacking.github.io/what%20the%20hack/What-Is-The-Dark-Web/) article, you'll remember that google and every other search engine are just indexing the various pages it finds, and organizes them for us to view. I hinted at the notion of how much actual information is actually indexed on the web for us to be able to simply search for. Hmm...this could be very valuable for hackers.
+It's no secret that google is one of the largest and most popular search engines in the world. People rely on google every second to find resources related to their search queries. What other search engine can find you the best cat memes or best places to download $100+ textbooks for free? I miss college...but I digress. If you've read my [dark web](https://freshprinceofhacking.github.io/what%20the%20hack/What-Is-The-Dark-Web/) article, you'll remember that google and every other search engine are just indexing the various pages it finds, and organizes them for us to view. I hinted at the notion of how much actual information is actually indexed on the web for us to be able to simply search for. Hmm...this could be very valuable for hackers, but how?
+
+
 
