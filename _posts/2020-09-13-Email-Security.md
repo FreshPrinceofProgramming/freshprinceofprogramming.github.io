@@ -68,7 +68,9 @@ The three examples above are just a small amount of the kinds of phishing attemp
 * If the email is malicious/sketchy, report it to the main company through their security team OR your own internal security team if this is within your company
 * Encrypt your emails if necessary, and make sure the other recipient has email encryption as well (may or may not apply to certain platforms)
 
+Hopefully after reading this, you have a good sense of email security and how you can spot certain attacks. 
 
+Thanks for reading! 
 
 
 
