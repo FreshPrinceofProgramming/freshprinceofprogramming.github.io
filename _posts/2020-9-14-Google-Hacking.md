@@ -38,4 +38,5 @@ As silly as that search query may sound, it's not based too far off of what you 
 
 The point of these searches are to find what may be hidden deep in google's indexes. We could easily flip this search and say "filetype:txt @gmail.com username and passwords" This would potentially give us usernames and passwords that are stored in text files relating to gmail.com email addresses. Of course, these sites hosting the information could be malicious in nature and/or old in which the information on it is no longer valid. Realistically, most of the credit card and social security information is going to be on the dark web, but you may find this information with a simple google dork! 
 
+It's safe to say if you're a hacker, google is probably going to be more useful than people give it credit for. In fact, there's a whole "google hacking database" hosted by [exploit-db.com](www.exploit-db.com)
 
