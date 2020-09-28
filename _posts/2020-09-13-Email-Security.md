@@ -48,11 +48,23 @@ If you're not a frequent user of Zappos, like myself, and have a paypal account,
 
 This doesn't set off any bells or whistles, so it's unclear whether this could be legitimate or not, although an actual zappos "no-reply" would probably have the name inside. Probably the smartest thing to do would be to check your paypal account to see if there has been any activity. If you are a frequent user of Zappos, check that account as well and make sure any concerns are brought up with an actual representative. EMAIL DELETED
 
+### Encrypting Your Emails
+
+Now that we've seen some examples of external phishing attempts, let's talk about encrypting our emails and why you may want to start doing so. Let's suppose that now instead of being phished from the outside, the entire email database gets compromised. This would mean that the attacker could intercept the emails coming and going from the organization. Obviously, this isn't ideal and could pose a serious threat. All kinds of sensitive information is sent every day from organizations both internally and externally. However, more than likely if you work for a company, they are encrypting the emails you send internally to each other. If not, you may want to suggest this to the security team! 
+
+What about personal emails though? Can you encrypt personal emails? Of course you can! Encrypting emails is a major part of certain email platforms. For example, google and outlook all provide some level of encryption that can protect emails from being read should they be compromised. This is great because if there is breach, unless the attacker has the proper keys, they won't be able to decipher the email in any readable way. You may also want to consider moving over to a non-standard email platform like **Protonmail**. 
+
+[Protonmail](https://protonmail.com/) is a company based in Switzerland that provides email services, specifically end-to-end encryption. T
+
+
 ### How to Stay Safe
 
-The three examples above are just a small amount of the kinds of phishing attempts out there. In more sophisticated attacks, you may see an email come from somone you know and trust. This attempt is called a **spoof**. The attackers are trying to pretend to be someone you know in order to increase their chances of you clicking on the email. You'll typically see these kinds of attacks on companies, which may target high profile people in order to gain very sensitive information. Here are some things you can do to protect yourself on email to stay safe.
+The three examples above are just a small amount of the kinds of phishing attempts out there. In more sophisticated attacks, you may see an email come from somone you know and trust. This attempt is called a **spoof**. The attackers are trying to pretend to be someone you know in order to increase their chances of you clicking on the email. You'll typically see these kinds of attacks on companies, which may target high profile people in order to gain very sensitive information. Here are some things you can do to protect yourself on email to stay safe:
 
-* Do not click on
+* Do not click on any links or attachments from emails you aren't expecting to receive or that look suspicious
+* Always check the senders email address/email header information if you are suspicious about a particular email
+* If the email is malicious/sketchy, report it to the main company through their security team OR your own internal security team if this is within your company
+* Encrypt your emails if necessary, and make sure the other recipient has email encryption as well
 
 
 
