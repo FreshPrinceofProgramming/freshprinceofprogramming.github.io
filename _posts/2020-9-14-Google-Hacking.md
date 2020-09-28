@@ -42,4 +42,6 @@ It's safe to say if you're a hacker, google is probably going to be more useful 
 
 ![GHD]({{ site.url }}{{ site.baseurl }}/assets/images/ghd.png)
 
+I think this goes without saying, but please do not try to do anything malicious, even unintentionally, by using google dorks to try to access sensitive information. This is purely educational, and I hold no responsibility in what you choose to do with this knowledge. 
+
 Thank you for reading! 
