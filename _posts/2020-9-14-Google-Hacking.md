@@ -32,8 +32,10 @@ If you notice, our search string begins with "site:cnn.com" and then we use our 
 
 As you can see, these operators all have some purpose in enhancing a search. Most of them can be combined as well to provide even greater granularity. With the right amount and set of operators, and a bit of creativity, we can probably imagine how hackers and other curious people could use this for their own benefit.
 
-### site:pentagon.gov filetype:pdf Aliens Exist
+### Site:pentagon.gov Filetype:pdf Aliens Exist
 
+As silly as that search query may sound, it's not based too far off of what you can actually attempt to search for on google. Also I'm not going to jail for putting a real query out there like that. Remember, google indexes **whatever information it can find**, which can sometimes includes government related documents. In this simple search, all we're looking for is any pdf document on pentagon.gov (not a real website btw) that contains anything related to aliens existing. As simple as this search is, we can see how powerful this could be if it were used applicably. 
 
+The point of these searches are to find what may be hidden deep in google's indexes. We could easily flip this search and say "filetype:txt @gmail.com username and passwords" This would potentially give us usernames and passwords that are stored in text files relating to gmail.com email addresses. Of course, these sites hosting the information could be malicious in nature and/or old in which the information on it is no longer valid. Realistically, most of the credit card and social security information is going to be on the dark web, but you may find this information with a simple google dork! 
 
 
