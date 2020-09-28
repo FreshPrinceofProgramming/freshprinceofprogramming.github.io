@@ -54,7 +54,9 @@ Now that we've seen some examples of external phishing attempts, let's talk abou
 
 What about personal emails though? Can you encrypt personal emails? Of course you can! Encrypting emails is a major part of certain email platforms. For example, google and outlook all provide some level of encryption that can protect emails from being read should they be compromised. This is great because if there is breach, unless the attacker has the proper keys, they won't be able to decipher the email in any readable way. You may also want to consider moving over to a non-standard email platform like **Protonmail**. 
 
-[Protonmail](https://protonmail.com/) is a company based in Switzerland that provides email services, specifically end-to-end encryption. T
+[Protonmail](https://protonmail.com/) is a company based in Switzerland that provides email services, specifically end-to-end encryption. If you visit the website they'll explain what services they offer and how you can get started! You may want to consider this email service for your personal emails if you want some added layer of security. Some services may need the recipient to have installed something to make the encryption work both ways. Protonmail does not require that at all. You can send encrypted emails to anyone with a non-protonmail account. 
+
+I'll have a seperate article on encryption and what this all actually does for data protection. For now, being safe on any email platform is going to be what we're focusing on, sans any encryption necessary or not necessary for that particular message. 
 
 
 ### How to Stay Safe
@@ -64,7 +66,8 @@ The three examples above are just a small amount of the kinds of phishing attemp
 * Do not click on any links or attachments from emails you aren't expecting to receive or that look suspicious
 * Always check the senders email address/email header information if you are suspicious about a particular email
 * If the email is malicious/sketchy, report it to the main company through their security team OR your own internal security team if this is within your company
-* Encrypt your emails if necessary, and make sure the other recipient has email encryption as well
+* Encrypt your emails if necessary, and make sure the other recipient has email encryption as well (may or may not apply to certain platforms)
+
 
 
 
