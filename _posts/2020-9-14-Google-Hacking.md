@@ -22,7 +22,7 @@ Let's back up for a second and talk about normal searches. When we go to google,
 
 ![Search1]({{ site.url }}{{ site.baseurl }}/assets/images/search1.png)
 
-As you'd expect, there are numerous hits from a variety of sources that all have election coverage. This isn't unlike any search we've all done before. Now let's suppose that we only wanted results from a specific website. Yes, you can do this. We might enter this search below...
+As you'd expect, there are numerous hits from a variety of sources that all have election coverage. This isn't unlike any search we've all done before. Now let's suppose that we only wanted results from a specific website. We might enter this search below...
 
 ![Search2]({{ site.url }}{{ site.baseurl }}/assets/images/search2.png)
 
