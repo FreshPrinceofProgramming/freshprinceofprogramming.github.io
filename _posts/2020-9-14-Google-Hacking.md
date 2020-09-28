@@ -40,4 +40,6 @@ The point of these searches are to find what may be hidden deep in google's inde
 
 It's safe to say if you're a hacker, google is probably going to be more useful than people give it credit for. In fact, there's a whole "google hacking database" hosted by [exploit-db.com](https://www.exploit-db.com/google-hacking-database) This website has a section that has user submitted google dorks that all do something different. The website also contains information about any recent exploits found by security researchers/security enthusiasts, as well as other varied cyber security content. I encourage you to take a look through it. 
 
+![GHD]({{ site.url }}{{ site.baseurl }}/assets/images/ghd.png)
+
 Thank you for reading! 
