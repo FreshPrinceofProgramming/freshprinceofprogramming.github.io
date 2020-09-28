@@ -26,5 +26,7 @@ As you'd expect, there are numerous hits from a variety of sources that all have
 
 ![Search2]({{ site.url }}{{ site.baseurl }}/assets/images/search2.png)
 
+If you notice, our search string begins with "site:cnn.com" and then we use our search term we are looking for. This is an example of using one of the advanced operators mentioned above to narrow our search results. Specifically, the "site" operator was used in this example. This operator searches based on the specific website associated with it in the search. In fact, there are tons more of these operators that all serve some kind of purpose. Here they are:
 
+![Dork]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_dork.png)
 
