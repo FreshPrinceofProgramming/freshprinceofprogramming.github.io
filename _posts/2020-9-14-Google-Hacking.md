@@ -14,11 +14,17 @@ Let's think about this. If google simply indexes all of the information it can f
 
 "Wait, wait, wait Taylor. I can't just type in 'usernames and passwords for X site' into google, and it will give me the information."
 
-Well, no. And not because the information isn't out there. You just typed it in the wrong way. Google has advanced search operators or **dorks** that you can enter into a search query, and potentially find you more specific results. This makes sense from a management perspective. Google is a very powerful search engine, and it's completely reasonable that they included advanced search operators in order for people to narrow search results from the billions upon billions of resources out there. Unfortunately, this means that it also applies to finding out sensitive information that is very useful to hackers. 
+Well, no. And not because the information isn't out there. You just typed it in the wrong way. Google has advanced search operators or **dorks** that you can enter into a search query, and potentially find more specific results. This makes sense from a management perspective. Google is a very powerful search engine, and it's completely reasonable that they included advanced search operators in order for people to narrow search results from the billions upon billions of resources out there. Unfortunately, this means that it also applies to finding out sensitive information that is very useful to hackers. 
 
 ### Try Searching For...
 
-Let's back up for a second and talk about normal searches. When we go to google, we generally have an idea of what we want to search for, but what if we want to be more specific with our search? 
+Let's back up for a second and talk about normal searches. When we go to google, we generally have an idea of what we want to search for. Suppose we want to look election news coverage. You might type in "election 2020" on google. Here are the results:
 
-For example, if I 
+![Search1]({{ site.url }}{{ site.baseurl }}/assets/images/search1.png)
+
+As you'd expect, there are numerous hits from a variety of sources that all have election coverage. This isn't unlike any search we've all done before. Now let's suppose that we only wanted results from a specific website. Yes, you can do this. We might enter this search below...
+
+![Search2]({{ site.url }}{{ site.baseurl }}/assets/images/search2.png)
+
+
 
