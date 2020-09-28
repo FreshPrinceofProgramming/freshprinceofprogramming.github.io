@@ -30,3 +30,4 @@ If you notice, our search string begins with "site:cnn.com" and then we use our 
 
 ![Dork]({{ site.url }}{{ site.baseurl }}/assets/images/rsz_dork.png)
 
+As you can see, these operators all have some purpose in enhancing a search. Most of them can be combined as well to provide even greater granularity. 
