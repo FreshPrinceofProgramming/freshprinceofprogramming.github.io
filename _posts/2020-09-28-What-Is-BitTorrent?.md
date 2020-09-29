@@ -19,7 +19,7 @@ This means that when we are also downloading content, we follow this same model.
 
 ### Be Kind To Your Peers
 
-It turns out we're in luck! We notice that the site is also hosting a torrent of the file. All we have to do is download the torrent, fire up our old torrenting software, and BAM we have the 20gb file in only 30 minutes. Ok, the article is done. Thanks for reading! 
+It turns out we're in luck! We notice that the site is also hosting a torrent of the file. All we have to do is download the torrent, fire up our old torrenting software, and BAM we have the 20gb file in only 30 minutes.
 
 "Wait! What happened!? Why was it so fast??" 
 
