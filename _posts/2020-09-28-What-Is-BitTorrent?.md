@@ -19,4 +19,10 @@ This means that when we are also downloading content, we follow this same model.
 
 ### Put A Ring On It
 
-It turns out we're in luck! We notice that the site is also hosting a torrent of the file. All we have to do is download the torrent, fire up our old torrenting software, and BAM we have the 50gb file in only 1 hour. 
+It turns out we're in luck! We notice that the site is also hosting a torrent of the file. All we have to do is download the torrent, fire up our old torrenting software, and BAM we have the 20gb file in only 30 minutes. Ok, I guess the article is done. Thanks for reading! 
+
+"Wait! What happened!?" 
+
+
+
+
