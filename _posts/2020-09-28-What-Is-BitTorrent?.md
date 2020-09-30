@@ -31,6 +31,6 @@ This is where things get interesting. We are now going to switch from the client
 
 ![P2P]({{ site.url }}{{ site.baseurl }}/assets/images/p2p.jpg)
 
-As we can see, each peer is connected to each other for sharing the resource they need to download. P2P networks come in many different forms and can enhance tasks in a variety of ways. One of the most famous P2P type networks is the SETI (Search for Extraterrestrial Intelligence) project. Operated by researchers out of UC Berkeley, this network uses idle computers to contribute their resources for using radio telescopes to listen for signals coming from space. Anyone can contribute to this project! I recommend checking the [website](https://seti.berkeley.edu/) out. It's a lot more complicated than just setting up a normal P2P network, but conceptually this is the driving force behind it. 
+As we can see, each peer is connected to each other for sharing the resource they need to download. P2P networks come in many different forms and can enhance tasks in a variety of ways. One of the most famous P2P type networks is the SETI (Search for Extraterrestrial Intelligence) project. Operated by researchers out of UC Berkeley, this network uses idle computers to contribute their resources for using radio telescopes to listen for signals coming from space. Anyone can contribute to this project! I recommend checking the [website](https://seti.berkeley.edu/) out for more information. It's a lot more complicated than just setting up a normal P2P network, but conceptually this is the driving force behind it. 
 
 
