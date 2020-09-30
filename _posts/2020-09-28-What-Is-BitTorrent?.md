@@ -37,6 +37,6 @@ As we can see, each peer is connected to each other for sharing the resource the
 
 So we can find potential alien life using P2P networks. That's cool! But that doesn't help us understand how Bittorrent works. Now that we have a better overall understanding of how P2P networks work, we can start to talk about Bittorrent.
 
-Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on what protocols were in [one of my articles](https://freshprinceofhacking.github.io/capture%20the%20flag/pentesting/Ports-&-Protocols/).
+Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on what protocols were in [one of my articles](https://freshprinceofhacking.github.io/capture%20the%20flag/pentesting/Ports-&-Protocols/). Essentially, a protocol (in a computer sense) is method or way of communicating with one another. There are tons of protocols out there that devices use to communicater with each other and perform tasks. Bittorent is one of those protocols.
 
 
