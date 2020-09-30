@@ -33,4 +33,10 @@ This is where things get interesting. We are now going to switch from the client
 
 As we can see, each peer is connected to each other for sharing the resource they need to download. P2P networks come in many different forms and can enhance tasks in a variety of ways. One of the most famous P2P type networks is the **SETI** (Search for Extraterrestrial Intelligence) project. Operated by researchers out of UC Berkeley, this network uses idle computers to contribute their resources for using radio telescopes to listen for signals coming from space. Anyone can contribute to this project! I recommend checking the [website](https://seti.berkeley.edu/) out for more information. It's a lot more complicated than just setting up a normal P2P network, but conceptually this is the driving force behind it. 
 
+### I'm Just Following Protocol
+
+So we can find potential alien life using P2P networks. That's cool! But that doesn't help us understand how Bittorrent works. Now that we have a better overall understanding of how P2P networks work, we can start to talk about Bittorrent.
+
+Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on what protocols were in [one of my articles](https://freshprinceofhacking.github.io/capture%20the%20flag/pentesting/Ports-&-Protocols/).
+
 
