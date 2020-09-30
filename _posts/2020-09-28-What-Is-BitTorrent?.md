@@ -31,7 +31,6 @@ This is where things get interesting. We are now going to switch from the client
 
 ![P2P]({{ site.url }}{{ site.baseurl }}/assets/images/p2p.jpg)
 
-
-
+As we can see, each peer is connected to each other for sharing the resource they need to download. 
 
 
