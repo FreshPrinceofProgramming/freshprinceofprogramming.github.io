@@ -60,7 +60,7 @@ While its main use has been based on illegal downloads, the actual protocol itse
 
 ### Why Is My Computer Slow? :(
 
-Suppose you didn't care at all about getting caught and you want to download the latest version of Microsoft Office from a torrent. Everything is going great. There are a bunch of seeders and you get the whole program in no time at all. Once you install the software and run the program for awhile, things start to get a little strange. You may notice a slowdown in your computer speed, as well as unwanted popups that may appear randomly. Well...you're probably infected with malware and/or adware. 
+Suppose you didn't care at all about getting caught and you want to download the latest version of Microsoft Office from a torrent. Everything is going great. There are a bunch of seeders and you get the whole program in no time at all. Once you install the software and run the program for awhile, things start to get a little strange. You may notice a slowdown in your computer speed, as well as unwanted popups that appear randomly. Well...you're probably infected with malware and/or adware. 
 
 
 
