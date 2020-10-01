@@ -56,9 +56,11 @@ At a very high level, this is the process that Bittorent goes through in order f
 
 "Ok, that's interesting, but isn't BitTorrent illegal?"
 
-While its main use has been based on illegal downloads, the actual protocol itself is completely legal. The content you attempt to download is what seperates legal from illegal. It's all about how you use it. I have no doubt that some of you reading this have received "the letter" from either your ISP or educational instituion that they caught you illegally torrenting content. I'd argue that the need for torrenting is mostly phased out due to the amount of content that you have nowadays on various streaming platforms. Why risk getting caught downloading all the seasons of Game of Thrones when you can just pull up an app and watch it? Of course there is other content such as software and video games that might still have a place in the torrenting world, but this is where you might want to be a little weary...
+While its main use has been based on illegal downloads, the actual protocol itself is completely legal. The content you attempt to download is what seperates legal from illegal. It's all about how you use it. I have no doubt that some of you reading this have received "the letter" from either your ISP or educational instituion that they caught you illegally torrenting content. I'd argue that the need for torrenting is mostly phased out due to the amount of content that you have nowadays on various streaming platforms. Why risk getting caught downloading all the seasons of Game of Thrones when you can just pull up an app and watch it? Of course there is other content such as software and video games that still have a place in the torrenting world, but this is where you might want to be a little weary...
 
-### 
+### Why Is My Computer Slow? :(
+
+Suppose you didn't care at all about getting caught and you want to download the latest version of Microsoft Office from a torrent. Everything is going great. There are a bunch of seeders and you get the whole program in no time at all. Once you install the software and run the program for awhile, things start to get a little strange. You may notice a slowdown in your computer speed, as well as unwanted popups that may appear randomly. Well...you're probably infected with malware and/or adware. 
 
 
 
