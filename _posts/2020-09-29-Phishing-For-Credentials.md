@@ -12,9 +12,9 @@ We are notorius hackers that want to gain a users gmail credentials. We want the
 
 ### Tools Used
 
-*Operating System: Kali Linux 
-*VirtualBox for emulation of Kali Linux
-*SET (Social Engineering Toolkit) for creating our phishing scam 
+* Operating System: Kali Linux 
+* VirtualBox for emulation of Kali Linux
+* SET (Social Engineering Toolkit) for creating our phishing scam 
 
 ### The Attack
 
