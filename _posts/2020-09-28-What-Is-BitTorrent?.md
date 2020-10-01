@@ -39,10 +39,11 @@ So we can find potential alien life using P2P networks. That's cool! But that do
 
 Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on what protocols were in [one of my articles](https://freshprinceofhacking.github.io/capture%20the%20flag/pentesting/Ports-&-Protocols/). Essentially, a protocol (in a computer sense) is method or way of communication. There are tons of protocols out there that devices use to communicater with each other and perform tasks. Bittorent is one of these protocols. So how does Bittorent work? First we'll need to explain some key concepts of Bittorrent:
 
-* Seed: This is the originating server that holds the original file to download and splits the file up into many pieces
-* Tracker: The tracker is part of a .torrent file that contains information on where the pieces of the file can be found
-* Swarm: The collection of peers that are currently involved in downloading and uploading the pieces across the P2P network
-* Leech: Non-seeders that do not continue to upload the pieces to other peers in the swarm
+* **Seed**: This is the originating server that holds the original file to download and splits the file up into many pieces
+* **Tracker**: The tracker is part of a .torrent file that contains information on where the pieces of the file can be found
+* **Swarm**: The collection of peers that are currently involved in downloading and uploading the pieces across the P2P network
+* **Leech**: Non-seeders that do not continue to upload the pieces to other peers in the swarm
+
 
 
 
