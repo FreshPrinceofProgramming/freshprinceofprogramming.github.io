@@ -54,7 +54,11 @@ As a small example, let's suppose our 4 computers above in the screenshot were a
 
 At a very high level, this is the process that Bittorent goes through in order for you to get the file you need. The entire protocol is based on the symbiotic relationship needed between peers in order to be most efficient. It only works well if everyone contributes. "The more the merrier" I guess is the right phrase to label this concept. 
 
+"Ok, that's interesting, but isn't BitTorrent illegal?"
 
+While its main use has been based on illegal downloads, the actual protocol itself is completely legal. The content you attempt to download is what seperates legal from illegal. It's all about how you use it. I have no doubt that some of you reading this have received "the letter" from either your ISP or educational instituion that they caught you illegally torrenting content. I'd argue that the need for torrenting is mostly phased out due to the amount of content that you have nowadays on various streaming platforms. Why risk getting caught downloading all the seasons of Game of Thrones when you can just pull up an app and watch it? Of course there is other content such as software and video games that might still have a place in the torrenting world, but this is where you might want to be a little weary...
+
+### 
 
 
 
