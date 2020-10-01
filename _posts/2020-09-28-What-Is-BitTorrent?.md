@@ -72,6 +72,10 @@ This is also a main reason why torrenting is probably not the best practice in g
 
 ![kalicheck]({{ site.url }}{{ site.baseurl }}/assets/images/hashcheck.png)
 
-As we can see here, Kali Linux, an OS that we're using in other parts of this blog, hosts one of its files on the main website. It has a direct download link as well as a torrent file we use. The hash (that long alphanumeric string) is a way to check to see if what we download coincides with what the creators know to be the original form of the file. 
+As we can see here, Kali Linux, an OS that we're using in other parts of this blog, hosts one of its files on the main website. It has a direct download link as well as a torrent file we use. The hash (that long alphanumeric string) is a way to check to see if what we download coincides with what the creators know to be the original form of the file. Pretty legitimate. 
+
+Hopefully after reading this you have a good sense of what Bittorenting is and how it works. I encourage outside research on this as well.
+
+Thanks for reading!
 
 
