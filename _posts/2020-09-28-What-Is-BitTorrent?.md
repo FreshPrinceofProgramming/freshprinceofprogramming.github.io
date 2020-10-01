@@ -64,7 +64,7 @@ Suppose you didn't care at all about getting caught and you want to download the
 
 "How?? This is a legitimate program, not a random unknown file."
 
-Well that's what you in fact just downloaded, a random file. Sure, it may be "Mircrosoft Office," but loaded within that program is a bunch of malicious code that serves to do SOME nefarious purpose. When you think about how hackers can spread viruses and malware, what better way to do that than by loading their code into legitimate applications where they've found **vulnerabilities** to exploit? They then can upload this as torrents, knowing that the whole concept of P2P networks is to share with EVERYONE!  
+Well that's what you in fact just downloaded, a random file. Sure, it may be "Mircrosoft Office," but loaded within that program is a bunch of malicious code that serves to do some nefarious purpose. When you think about how hackers can spread viruses and malware, what better way to do that than by loading their code into legitimate applications where they've found **vulnerabilities** to exploit? They then can upload this as torrents, knowing that the whole concept of P2P networks is to share with EVERYONE!  
 
 
 
