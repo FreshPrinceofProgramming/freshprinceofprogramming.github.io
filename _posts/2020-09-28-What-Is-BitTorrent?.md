@@ -50,6 +50,8 @@ Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on 
 
 3. Once the client device has finished downloading the file entirely, it can continue to still upload the file in pieces. This device will now become a seeder, which can distribute the pieces more efficiently to other peers. Seeding can make or break a particular file download. The more people are seeding the file, the faster the whole process is. If the client device chooses to stop seeding, they become leechers. If there are more leechers than seeders for a torrent, the download will potentially be slower.
 
+At a very high level, this is the process that Bittorent goes through in order to download your file. The entire protocol is based on the symbiotic relationship needed between peers in order to be most efficient. It only works well if everyone contributes. "The more the merrier" I guess is the right phrase to label this concept. 
+
 
 
 
