@@ -68,10 +68,10 @@ Well that's what you in fact just downloaded, a random file. Sure, it may be "Mi
 
 ![Oprah]({{ site.url }}{{ site.baseurl }}/assets/images/oprah.jpg)
 
-This is also a main reason why torrenting is probably not the best practice in general. The amount of bad things that are in files on the internet, which also won't be detected by your antivirus program, is scary as hell. Unless you know the source of the torrent(i.e. hosted by the main website itself), and can confirm the file is legitimate (i.e. checking the **hash** against the main website), then you probably don't need to torrent anything. Here's a quick example of a legitimate torrent:
+This is also a main reason why torrenting is probably not the best practice in general. The amount of bad things that are in files on the internet, which also won't be detected by your antivirus program, is scary as hell. Unless you know the source of the torrent(i.e. hosted by the main website itself), and can confirm the file is legitimate (i.e. checking the **hash** against the main website), then you probably don't need to intentionally torrent anything ever. Here's a quick example of a legitimate torrent:
 
 ![kalicheck]({{ site.url }}{{ site.baseurl }}/assets/images/hashcheck.png)
 
-As we can see here, Kali Linux, an OS that we're using in other parts of this blog, hosts one of its files on the main website. It has a direct download link as well as a torrent file we use. The hash is a way to check to see if what we download coincides with what the creators know to be the original form of the file. 
+As we can see here, Kali Linux, an OS that we're using in other parts of this blog, hosts one of its files on the main website. It has a direct download link as well as a torrent file we use. The hash (that long alphanumeric string) is a way to check to see if what we download coincides with what the creators know to be the original form of the file. 
 
 
