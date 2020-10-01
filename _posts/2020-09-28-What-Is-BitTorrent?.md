@@ -27,7 +27,7 @@ I'm glad you asked! The answer is trusting your peers to help.
 
 I guess that doesn't make a lot of sense from the surface, but bear with me for a bit. Let's imagine a different way to share/download data over the internet. We have the client-server model, although sufficient in most cases, in certain circumstances isn't the most ideal. What if there was a way to share a download with multiple clients so that instead of relying on the website itself to serve the download to us, we can directly get the file from EVERYONE that has it? That might be a faster alternative, but how would we do that?
 
-This is where things get interesting. We are now going to switch from the client-server model to the **Peer-to-Peer**(P2P) model for file sharing and downloads. As the name suggests, we are going to be relying on our "peers"(client devices) to be able to handle the task of sharing the files we want to download. This means that every client also now acts a server. We've decentralized the connection that has to be made to a hosting server for content, and burdened the connections on every peer within our network. So now that 20gb file that was taking forever to download from a main server, is being shared amongst peers and each peer is taking pieces of the file from each other to complete the download. Here's what a P2P network may look like:
+This is where things get interesting. We are now going to switch from the client-server model to the **Peer-to-Peer**(P2P) model for file sharing and downloads. As the name suggests, we are going to be relying on our "peers"(client devices) to be able to handle the task of sharing the files we want to download. This means that every client also now acts a server. We've decentralized the connection that has to be made to a hosting server for content, and burdened the connections on every peer within our network. So now that 20gb file that was taking 4 hours to download from a main server is being shared amongst peers, and each peer is taking pieces of the file from each other to complete the download. Here's what a P2P network may look like:
 
 ![P2P]({{ site.url }}{{ site.baseurl }}/assets/images/p2p.jpg)
 
@@ -37,7 +37,14 @@ As we can see, each peer is connected to each other for sharing the resource the
 
 So we can find potential alien life using P2P networks. That's cool! But that doesn't help us understand how Bittorrent works. Now that we have a better overall understanding of how P2P networks work, we can start to talk about Bittorrent.
 
-Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on what protocols were in [one of my articles](https://freshprinceofhacking.github.io/capture%20the%20flag/pentesting/Ports-&-Protocols/). Essentially, a protocol (in a computer sense) is method or way of communication. There are tons of protocols out there that devices use to communicater with each other and perform tasks. Bittorent is one of these protocols. So how does Bittorent work? 
+Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on what protocols were in [one of my articles](https://freshprinceofhacking.github.io/capture%20the%20flag/pentesting/Ports-&-Protocols/). Essentially, a protocol (in a computer sense) is method or way of communication. There are tons of protocols out there that devices use to communicater with each other and perform tasks. Bittorent is one of these protocols. So how does Bittorent work? First we'll need to explain some key concepts of Bittorrent:
+
+* Seed: This is the originating server that holds the original file to download and splits the file up into many pieces
+* Tracker: The tracker is part of a .torrent file that contains information on where the pieces of the file can be found
+* Swarm: The collection of peers that are currently involved in downloading and uploading the pieces across the P2P network
+* Leech: Non-seeders that do not continue to upload the pieces to other peers in the swarm
+
+
 
 
 
