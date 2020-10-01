@@ -44,7 +44,9 @@ Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on 
 * **Swarm**: The collection of peers that are currently involved in downloading and uploading the pieces across the P2P network
 * **Leech**: Non-seeders that do not continue to upload the pieces to other peers in the swarm
 
-1. The first step in how torrenting works is the client device connects to the Bittorrent network and requests the file from the seed. The seed that is hosting the file will give the client one of the pieces of the file to download. If there is no seed to give the file, the download will not commence. 
+1. The first step in how torrenting works is the client device connects to the Bittorrent network and requests the file from the seed. The seed that is hosting the file will give the client one of the pieces of the file to download. If there is no seed to give the file, the download will not commence. This is why seeding is very important concept in successfully downloading a file via Bittorent
+
+2. The next step is that the client device will then check the tracker to see where other pieces of the file are, and will try to communicate with other peers in network to grab pieces over time. Not only is the device downloading pieces of data from other peers, it is also uploading pieces of the file it has to other peers as well. This is why P2P networks exist. If all the peers are consistently downloading and uploading parts of the file, everyone benefits. 
 
 
 
