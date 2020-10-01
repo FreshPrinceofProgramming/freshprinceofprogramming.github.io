@@ -68,8 +68,8 @@ Well that's what you in fact just downloaded, a random file. Sure, it may be "Mi
 
 ![Oprah]({{ site.url }}{{ site.baseurl }}/assets/images/oprah.jpg)
 
-This is also a main reason why torrenting is probably not the best practice in general. The amount of bad things that are in files on the internet, which also won't be detected by your antivirus program, is scary as hell. Unless you know the source of the torrent(i.e. hosted by the main website itself), and can confirm the file is legitimate (i.e. checking the hash against the main websites), then you probably don't need to torrent anything. 
+This is also a main reason why torrenting is probably not the best practice in general. The amount of bad things that are in files on the internet, which also won't be detected by your antivirus program, is scary as hell. Unless you know the source of the torrent(i.e. hosted by the main website itself), and can confirm the file is legitimate (i.e. checking the hash against the main website), then you probably don't need to torrent anything. Here's a quick example of a legitimate torrent:
 
-
+![kalicheck]({{ site.url }}{{ site.baseurl }}/assets/images/hashcheck.png)
 
 
