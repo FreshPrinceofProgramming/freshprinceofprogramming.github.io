@@ -52,7 +52,7 @@ Bittorent is just a **protocol** that uses P2P to operate. I briefly touched on 
 
 As a small example, let's suppose our 4 computers above in the screenshot were all part of a torrent download. Peer 1 completes the download and is now added to the list of seeders, while Peers 2-4 are still downloading the file. The download speed for those peers rises significantly because they now have Peer 1 to distribute the entire file. If Peer 1 quits uploading, Peers 2-4 now don't have the means to get the file from another source, and have to rely on the original seed (some client somewhere) to once again give them the remaining pieces. 
 
-At a very high level, this is the process that Bittorent goes through in order for you to get the file you need. The entire protocol is based on the symbiotic relationship needed between peers in order to be most efficient. It only works well if everyone contributes. "The more the merrier" I guess is the right phrase to label this concept. 
+At a very high level, this is the process that Bittorent goes through in order for you to get the file you need. The entire protocol is based on the symbiotic relationship needed between peers in order to be most efficient. It only works well if everyone contributes. "The more the merrier" I guess is the right phrase to label this concept. This doesn't mean that Bittorenting or using P2P in general will always be faster than normal downloading, as we've gone over why this may not be the case. We've at least differentiated between the two ways and can see the pros and cons.  
 
 "Ok, that's interesting, but isn't BitTorrent illegal?"
 
@@ -60,7 +60,11 @@ While its main use has been based on illegal downloads, the actual protocol itse
 
 ### Why Is My Computer Slow? :(
 
-Suppose you didn't care at all about getting caught and you want to download the latest version of Microsoft Office from a torrent. Everything is going great. There are a bunch of seeders and you get the whole program in no time at all. Once you install the software and run the program for awhile, things start to get a little strange. You may notice a slowdown in your computer speed, as well as unwanted popups that appear randomly. Well...you're probably infected with malware and/or adware. 
+Suppose you didn't care at all about getting caught and you want to download the latest version of Microsoft Office from a torrent. Everything is going great. There are a bunch of seeders and you get the whole program in no time at all. Once you install the software and run the program for awhile, things start to get a little strange. You notice a slowdown in your computer speed, as well as unwanted popups that appear randomly. Well...you're probably infected with malware and/or adware. 
+
+"How?? This is a legitimate program, not a random unknown file."
+
+Well that's what you in fact just downloaded, a random file. Sure, it may be "Mircrosoft Office," but loaded within that program is a bunch of malicious code that serves to do SOME nefarious purpose. When you think about how hackers can spread viruses and malware, what better way to do that than by loading their code into legitimate applications where they've found **vulnerabilities** to exploit? They then can upload this as torrents, knowing that the whole concept of P2P networks is to share with EVERYONE!  
 
 
 
