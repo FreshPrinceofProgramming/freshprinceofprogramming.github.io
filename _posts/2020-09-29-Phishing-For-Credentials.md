@@ -12,7 +12,9 @@ We want to gain a user's Facebook login credentials. If we get these credentials
 
 ### Concept
 
-**Social engineering** is the art using deception for the purpose of fraudulently gaining sensitive information. An example of social engineering is pretending to be an authority figure to illicit a response. If I'm working in the front building of a company, I may let through a wide variety of people throughout the day. Suppose a hacker came into the building, announced to me that they were trying to get further into the building and find a server room to do their malicious deed. I'm probably not going to let through, and most likely I'm going to call the police. Now let's say this same hacker pretended to be a UPS delivery driver. They could easily walk in and say they have to deliver a package for a certain floor. If I'm not doing my job correctly and verrifying their identity properly, I could let them slip by and then they could 
+**Social engineering** is the art using deception for the purpose of fraudulently gaining sensitive information. An example of social engineering is pretending to be someone in order to illicit a certain response. This can be in real life OR in cyber space. 
+
+Example) If I'm working in the front building of a company, I may let through a wide variety of people throughout the day. Suppose a hacker came into the building, announced to me that they were trying to get further into the building and find a server room to do their malicious deed. I'm probably not going to let through, and most likely I'm going to call the police. Now let's say this same hacker pretended to be a UPS delivery driver. They could easily walk in and say they have to deliver a package for a certain floor. If I'm not doing my job correctly and verrifying their identity properly, I could let them slip by and then they could 
 
 ### Tools Used
 
