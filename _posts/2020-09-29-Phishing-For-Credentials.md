@@ -8,7 +8,7 @@ In this article we're going to see how we can use some hacking tools to create a
 
 ### Scenario
 
-We want to gain a user's Facebook login credentials. If we get these credentials, we can potentially log in (if 2FA isn't enabled), and find out all there is to know about our victim on their facebook page. With this information, we can possibly form more attacks for our benefit at a later stage. 
+We want to gain a user's Facebook login credentials. If we get these credentials, we can potentially log in ([if 2FA isn't enabled](https://freshprinceofhacking.github.io/privacy,%20security%20&%20safety/2FA/)), and find out all there is to know about our victim on their facebook page. With this information, we can possibly form more attacks for our benefit at a later stage. 
 
 ### Concept
 
