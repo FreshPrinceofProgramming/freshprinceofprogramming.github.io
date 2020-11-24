@@ -53,6 +53,10 @@ Ughh another screen with yet more options. This time just select "3" and press e
 
 ![fourth]({{ site.url }}{{ site.baseurl }}/assets/images/fourthpage.png)
 
+We're getting closer! We now have options to specify the different kinds of sites we can choose to try duplicate. Depending on the creativity of the user, they may have a custom site that they want to use for this attack. For us, we're lazy and we just kinda want the tool to do everything for us. So we're going to choose the second option and hit enter on the keyboard.
+
+![fifth]({{ site.url }}{{ site.baseurl }}/assets/images/fifthpage.png)
+
 
 
 
