@@ -31,6 +31,10 @@ Of course there are more clever ways of using social engineering. In this case, 
 
 The first thing we have to do is fire up Kali Linux and make our way to the command line. We're then going to launch SET. The command should just be: "setoolkit" (without quotes). Depending on your version of Kali or whatever OS you're using, you may have to run it as sudo first: "sudo setoolkit"
 
+'''shell
+sudo setoolkit
+'''
+
 You should see this screen when the program starts:
 
 ![SETmain]({{ site.url }}{{ site.baseurl }}/assets/images/setmain.png)
