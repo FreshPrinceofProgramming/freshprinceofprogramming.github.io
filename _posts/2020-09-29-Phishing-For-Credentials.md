@@ -51,7 +51,6 @@ Ughh another screen with yet more options. This time just select "3" and press e
 
 "Are we done with the screens yet?" NO >:(
 
-
 ![fourth]({{ site.url }}{{ site.baseurl }}/assets/images/fourthpage.png)
 
 
