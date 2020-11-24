@@ -35,9 +35,17 @@ You should see this screen when the program starts:
 
 ![SETmain]({{ site.url }}{{ site.baseurl }}/assets/images/setmain.png)
 
-As you can see, SET comes with a bunch of options. We're going to focus on the first option, which is the Social-Engineering attacks. Enter "1" at the prompt and press enter on your keyboard. You should now see this screeen:
+As you can see, SET comes with a bunch of options. We're going to focus on the first option, which is the Social-Engineering attacks. Enter "1" at the prompt and press enter on your keyboard. 
+
+You should now see this screeen:
 
 ![second]({{ site.url }}{{ site.baseurl }}/assets/images/secondpage.png)
+
+Again, we see a lot different options for the different kinds of attacks we can perform. This is a VERY powerful tool, and if you know what you're doing (or don't for that matter), you can do some malicious things. Because we want to focus on a website for this specific attack, we're going to choose the second option on the list. Enter "2" and press enter on your keyboard. 
+
+You will be on this screen next:
+
+![third]({{ site.url }}{{ site.baseurl }}/assets/images/thirdpage.png)
 
 
 
