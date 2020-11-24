@@ -59,6 +59,15 @@ Here is the final screen we need to worry about:
 
 ![fifth]({{ site.url }}{{ site.baseurl }}/assets/images/fifthpage.png)
 
+Now here's where we do the actual cloning of our target site. You'll notice some disclaimers about the IP address you'll need to put in for this part. For our proof of concept, we're not concerned with having a publicly facing cloned site of facebook.com (more on this later). To make a long story short, you'll need to put in the private IP of your kali linux instance. The reason for this is because we need to set up a callback for the cloned site to be routed to, and the private IP of your kali machine will be used for this purpose. The program has been nice enough to get that for us (10.0.0.208). Enter in your machines private IP and then hit enter.
+
+The next piece we'll need to put in is the actual website we want to clone. In this case it's facebook.com. Make sure to enter in the full address for the website (i.e. include the 'https://'). Once you enter in the website, you can hit enter on the keyboard. You'll see notices on the program saying that it's cloning the site. For me this took about a minute to do, but this may take longer for others. You'll know it's complete when you see the "information will be displayed to you as it arrives below" prompt from the program. Now is where the fun starts....
+
+So we just cloned the facebook.com login page. Let's see what it looks like. Take your private IP address and enter it into a browser on any device on your local LAN (will not work if you didn't set up bridged mode for your network settings on your kali machine).
+
+Here is the resulting page:
+
+![sixth]({{ site.url }}{{ site.baseurl }}/assets/images/sixthpage.png)
 
 
 
