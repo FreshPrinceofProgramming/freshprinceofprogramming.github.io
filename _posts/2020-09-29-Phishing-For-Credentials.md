@@ -35,7 +35,11 @@ You should see this screen when the program starts:
 
 ![SETmain]({{ site.url }}{{ site.baseurl }}/assets/images/setmain.png)
 
-As you can see, SET comes with a bunch of options. We're going to focus on the first option, which is the Social-Engineering attacks. 
+As you can see, SET comes with a bunch of options. We're going to focus on the first option, which is the Social-Engineering attacks. Enter "1" at the prompt and press "enter." 
+You should now see this screeen:
+
+![second]({{ site.url }}{{ site.baseurl }}/assets/images/secondpage.png)
+
 
 
 
