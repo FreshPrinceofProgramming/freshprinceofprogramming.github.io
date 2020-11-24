@@ -47,6 +47,15 @@ You will be on this screen next:
 
 ![third]({{ site.url }}{{ site.baseurl }}/assets/images/thirdpage.png)
 
+Ughh another screen with yet more options. This time just select "3" and press enter.
+
+"Are we done with the screens yet?" NO >:(
+
+
+![fourth]({{ site.url }}{{ site.baseurl }}/assets/images/fourthpage.png)
+
+
+
 
 
 
