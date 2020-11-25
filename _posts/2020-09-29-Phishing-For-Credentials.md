@@ -87,7 +87,7 @@ Hopefully now you're able to see how easy it is to set up a fake website to soli
 
 As it stands now, this attack will only work on the LAN that you are on. This means that people that are not connected to the wifi you're on (the greater internet), will not be able to see the site. This isn't very useful if your target isn't in the same geographical location. Here's what an attacker might do to make this look more legitimate:
 
-1. This is the perfect scenario for a phishing attempt. An attacker may buy and/or create a fake email domain that looks like it's coming from facebook. Remember, in social engineering we're trying to pretend to look like a legitimate source. If we someone get a hold of a compromised facebook email or create one that looks good enough, it may be our ticket to getting the victim to trust us. 
+1. This is the perfect scenario for a phishing attempt. An attacker may buy and/or create a fake email domain that looks like it's coming from facebook. Remember, in social engineering we're trying to pretend to look like a legitimate source. If we can get a hold of a compromised facebook email or create one that looks good enough, it may be our ticket to getting the victim to trust us. 
 
 2. The attacker will also probably utilize a bunch of different website domains to shuffle through to point their publicly facing attack server, which can then be used as the connecting site for the victim to go to. Often times for attackers, it's in their advantage to have a variety of website domains to cycle through in case they get shut down for whatever reason. They can also utilize compromised machines to do various activities as well, so the possibilities are endless. 
 
