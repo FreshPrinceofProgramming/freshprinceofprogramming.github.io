@@ -71,7 +71,7 @@ Here is the resulting page:
 
 Wow this looks really good! The site cloner that the program used really made this website look more legitimate than expected, which is great. I've already entered in some fake credentials to the login page for this example.
 
-Remember, what we're trying to do is get password information from this user. At this point in the attack, you will have successfully gotten the victim to get to your fake website. All there is to do is wait until we see them attempt to login. Once they enter in their credentials and login we'll have them trapped. If we look back to the program, some interesting results come in.
+Remember, what we're trying to do is get password information from this user. At this point in the attack, you will have successfully gotten the victim to your fake website. All there is to do is wait until we see them attempt to login. Once they enter in their credentials and login we'll have them trapped. If we look back to the program, some interesting results come in.
 
 Here is the program after the credentials have been entered:
 
