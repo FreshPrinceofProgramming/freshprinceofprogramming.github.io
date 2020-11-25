@@ -77,6 +77,11 @@ Here is the program after the credentials have been entered:
 
 ![seventh]({{ site.url }}{{ site.baseurl }}/assets/images/seventhpage.png)
 
+We can see the email and password used to authenticate to the website. From the victim's perspective, the login did not work and they will be automatically redirected to the real facebook.com login page. Assuming they don't think anything is wrong, they'll just log in again and go about their business. As the attacker, you can leverage this information to attempt to log in as that user. Chances are the victim is probably using this password for other online accounts too. 
+
+We're done! But let's unpack what we just did...
+
+### Conclusion
 
 
 
