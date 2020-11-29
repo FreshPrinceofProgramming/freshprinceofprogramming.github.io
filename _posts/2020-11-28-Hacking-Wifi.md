@@ -8,7 +8,7 @@ Well just like the title says, we're going to hack wifi in this article. It's a 
 
 ### Scenario
 
-We want to hack wifi. Pretty simple. Our target machine sits behind this wifi access point, and we'll need to establish some presense on the network in order to gain access. Once on the network, we can continue our hacking exploits.
+We want to hack wifi. Pretty simple. Our target machine sits behind this wifi access point, and we'll need to establish some presence on the network in order to gain access. Once on the network, we can continue our hacking exploits.
 
 ### Concept
 
