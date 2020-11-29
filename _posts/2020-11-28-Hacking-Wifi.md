@@ -1,4 +1,3 @@
-
 ---
 title: "Let's Hack Wifi"
 categories:
