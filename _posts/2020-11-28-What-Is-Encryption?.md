@@ -12,5 +12,10 @@ Encryption is one of the most fundamental parts of modern computing. It's the re
 
 In order to understand encryption, we first need to understand the greater field of **cryptography.** Cryptography, simply put, is the study/art of writing or solving codes. That's it. This fundamental idea of being able to either write and/or solve codes is the reason why modern computing exists in its current state. However, cryptography has existed thousands of years before any electronic computer was made. In the example above, I used a **ceasar ciper**, which you might guess is named after Julius Ceasar, in order to encrypt the subject title. While it may look cryptic (yes, pun intended), this cipher or encoding method, is very simple to solve.
 
-The way that a ceasar cipher works is through a series of shifts or substitutions of the alphabet to a fixed position. In other words, all you're doing is shifting the alphabet by a certain number of characters to come up with your encoded message. From here on out we will refer to the message we want to encrypt (in its non-encrypted form) as **plaintext**, and the encrypted form of the message as **ciphertext.**
+**Note:** From here on out we will refer to the message we want to encrypt (in its non-encrypted form) as **plaintext**, and the encrypted form of the message as **ciphertext.**
+{: .notice--info}
+
+The way that a ceasar cipher works is through a series of shifts or substitutions of the alphabet to a fixed position. In other words, all you're doing is shifting the alphabet by a certain number of characters to come up with your encoded message. 
+
+
 
