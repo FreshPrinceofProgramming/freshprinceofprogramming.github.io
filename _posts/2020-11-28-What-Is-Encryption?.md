@@ -27,7 +27,11 @@ That was very simple! The shift of 3 gave us a completely different string that 
 
 ### You can read this
 
-So while being able to encode and decode a ceasear ciper is great, that doesn't help us out much with modern computing. The ceasar cipher is not secure anymore, and it won't help us secure data in transit. 
+So while being able to encode and decode a ceasear ciper is great, that doesn't help us out much with modern computing. The ceasar cipher is not secure anymore, and it won't help us secure data in transit or at rest. Ok....so what is modern encryption?!
+
+
+
+
 
 
 
