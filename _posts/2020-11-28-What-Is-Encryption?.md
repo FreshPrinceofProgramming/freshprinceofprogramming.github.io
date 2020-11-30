@@ -15,7 +15,15 @@ In order to understand encryption, we first need to understand the greater field
 **Note:** From here on out we will refer to the message we want to encrypt (in its non-encrypted form) as **plaintext**, and the encrypted form of the message as **ciphertext.**
 {: .notice--info}
 
-The way that a ceasar cipher works is through a series of shifts or substitutions of the alphabet to a fixed position. In other words, all you're doing is shifting the alphabet by a certain number of characters to come up with your encoded message. 
+The way that a ceasar cipher works is through a series of shifts or substitutions of the alphabet to a fixed position. In other words, all you're doing is shifting the alphabet by a certain number of characters to come up with your encoded message. For example, if we wanted to encode the plaintext, "Attack," here's what we would do:
+
+1. First, we need a shift value to use. Let's use 3 as an example. This means that we're going to shift the alphabet 3 places forward to get the corresponding letter that will replace the original letter. A encodes to D, B encodes to E, etc.
+
+2. Now let's take our phrase "Attack" and encode it using the shift. The result is "Dwwdfn." We now have our corresponding ciphertext
+
+3. Done
+
+That was very simple! The shift of 3 gave us a completely different string that can't immediately be deciphered as "Attack." The shift of 3 is also what I used in the subject title. If we work backwards, the corresponding plaintext value, "Can you read this?" is the result. As trivial as this encoding method is, history shows this is what Julius Ceasar was using to send messages to his military. Only the correct people knew the shift value and could decode the message appropriately.  
 
 
 
