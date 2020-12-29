@@ -29,7 +29,7 @@ So what is modern encryption?
 
 ### You can read this
 
-Well, we've already established a purpose or need for encryption; to keep data confidential. That is the main goal of any encryption scheme out there. As simple as it sounds, there have been countless hours put in by many smart people (mathematicians, computer scientists...the government) over the decades in order to create the encryption standards we use today. 
+Well, we've already established a purpose or need for encryption; to keep data confidential. Whether you're sending out battle plans across the globe to your military generals or just trying to buy some clothes online, that is the main goal of any encryption scheme out there. As simple as it sounds, there have been countless hours put in by many smart people (mathematicians, computer scientists...the government) over the decades in order to create the encryption standards we use today. 
 
 
 
