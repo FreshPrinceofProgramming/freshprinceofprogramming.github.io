@@ -23,7 +23,9 @@ The way that a ceasar cipher works is through a series of shifts or substitution
 
 3. Done
 
-That was very simple! The shift of 3 gave us a completely different string that can't immediately be deciphered as "Attack." The shift of 3 is also what I used in the subject title. If we work backwards, the corresponding plaintext value, "Can you read this?" is the result. As trivial as this encoding method is, history shows this is what Julius Ceasar was using to send messages to his military. Only the correct people knew the shift value and could decode the message appropriately. Cool! So while being able to encode and decode a ceasear ciper is great, it's nowhere near the level of appropriate encryption needed today to secure data. 
+That was very simple! The shift of 3 gave us a completely different string that can't immediately be deciphered as "Attack." The shift of 3 is also what I used in the subject title. If we work backwards, the corresponding plaintext value, "Can you read this?" is the result. As trivial as this encoding method is, history shows this is what Julius Ceasar was using to send messages to his military. Only the correct people knew the shift value and could decode the message appropriately. 
+
+Cool! So while being able to encode and decode a ceasear ciper is great, it's nowhere near the level of appropriate encryption needed today to secure data. 
 
 So what is modern encryption?
 
