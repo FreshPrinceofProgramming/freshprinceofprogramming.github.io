@@ -10,7 +10,7 @@ Encryption is one of the most fundamental parts of modern computing. It's the re
 
 ### Fdq brx uhdg wklv?
 
-In order to understand encryption, we first need to understand the greater field of **cryptography.** Cryptography, simply put, is the study/art of writing or solving codes. That's it. This fundamental idea of being able to either write and/or solve codes is the reason why modern computing exists in its current state. However, cryptography has existed thousands of years before any electronic computer was made. In the example above, I used a **ceasar ciper**, which you might guess is named after Julius Ceasar, in order to encrypt the subject title. While it may look cryptic (yes, pun intended), this cipher or encoding method, is very simple to solve.
+In order to understand encryption, we first need to understand the greater field of **cryptography.** Cryptography, simply put, is the study/art of writing or solving codes. That's it. This fundamental idea of being able to either write and/or solve codes is the reason why modern computing exists in its current state. However, cryptography has existed for thousands of years before any electronic computer was made. In the example above, I used a **ceasar ciper**, which you might guess is named after Julius Ceasar, in order to encrypt the subject title. While it may look cryptic (yes, pun intended), this cipher or encoding method, is very simple to solve.
 
 **Note:** From here on out we will refer to the message we want to encrypt (in its non-encrypted form) as **plaintext**, and the encrypted form of the message as **ciphertext.**
 {: .notice--info}
@@ -29,7 +29,7 @@ So what is modern encryption?
 
 ### You can read this
 
-Well, we've already established a purpose or need for encryption; to keep data confidential. Whether you're sending out battle plans across the globe to your military generals or just trying to buy some clothes online, that is the main goal of any encryption scheme out there. As simple as it sounds, there have been countless hours put in by many smart people (mathematicians, computer scientists...the government) over the decades in order to create the encryption standards we use today. 
+Well, we've already established a purpose or need for encryption; to keep data confidential. Whether you're sending out battle plans across the globe to your military generals or just trying to buy some clothes online, your data needs to be secured. As simple as it sounds, there have been countless hours put in by many smart people (mathematicians, computer scientists...the government) over the decades in order to create encryption standards that keep our data safe.
 
 
 
