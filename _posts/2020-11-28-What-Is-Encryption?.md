@@ -33,7 +33,11 @@ We've already established a purpose or need for encryption from the example abov
 
 We can break down modern encryption into two categories; **symmetric** and **asymmetric** encryption. While both have their pros and cons, these two types of encryption are responsible for securing data in the real world today. 
 
-One of the most important concepts of modern encryption is a **key**. This "key" can be any word, phrase or code that is responsible for encrypting plaintext and/or decrypting ciphertext. You can think of this key as like a lock box key. If you wanted to store somethign in the box and secure it, you would use the key you have to lock the box AND unlock it when you need to. 
+One of the most important concepts of modern encryption is a **key**. This "key" can be any word, phrase or code that is responsible for encrypting plaintext and/or decrypting ciphertext. As you may have guessed by the naming conventions, symmetric encryption is going to use the **same** key for encryption/decryption, while asymmetric encryption is going to use **different** keys for the same purpose. In the case of symmetric encryption, we want to be able to send a message to someone securely using only one key. How would we do so?
+
+Let's imagine that Alice wanted to send Bob a secure message, meaning that only Bob should be able to see what Alice sent. What might she do? Well, she could write her message, put it in a box, lock it with her key and then send it off to Bob. Once Bob has the box, he could unlock it by using the same key Alice used to lock it. This will have effectively have demonstrated symmetric encryption because the **same** key 
+
+
 
 
 
