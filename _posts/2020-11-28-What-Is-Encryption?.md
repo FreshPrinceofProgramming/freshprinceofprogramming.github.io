@@ -37,6 +37,10 @@ One of the most important concepts of modern encryption is a **key**. This "key"
 
 Let's imagine that Alice wanted to send Bob a secure message, meaning that only Bob should be able to see what Alice sent. What might she do? Well, she could write her message, put it in a box, lock it with her key and then send it off to Bob. Once Bob has the box, he could unlock it by using the same key Alice used to lock it. This will have effectively have demonstrated symmetric encryption because the same key was used to lock (encrypt) and unlock (decrypt) the box. In fact, the ceasar ciper above is another perfect example of symmetric encryption as well; the "key" being the known number of shifts to use to encrypt and decrypt the message.
 
+Now while this is great, there's a huge problem in the example above that you may have caught onto; it's Bob. How does Bob have Alice's key to unlock the box? More on that in a bit....
+
+
+
 
 
 
