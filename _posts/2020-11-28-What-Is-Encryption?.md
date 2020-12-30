@@ -35,7 +35,11 @@ We can break down modern encryption into two categories; **symmetric** and **asy
 
 One of the most important concepts of modern encryption is a **key**. This "key" can be any word, phrase or code that is responsible for encrypting plaintext and/or decrypting ciphertext. As you may have guessed by the naming conventions, symmetric encryption is going to use the **same** key for encryption/decryption, while asymmetric encryption is going to use **different** keys for the same purpose. In the case of symmetric encryption, we want to be able to send a message to someone securely using only one key. How would we do so?
 
-Let's imagine that Alice wanted to send Bob a secure message, meaning that only Bob should be able to see what Alice sent. What might she do? Well, she could write her message, put it in a box, lock it with her key and then send it off to Bob. Once Bob has the box, he could unlock it by using the same key Alice used to lock it. This will have effectively have demonstrated symmetric encryption because the **same** key 
+Let's imagine that Alice wanted to send Bob a secure message, meaning that only Bob should be able to see what Alice sent. What might she do? Well, she could write her message, put it in a box, lock it with her key and then send it off to Bob. Once Bob has the box, he could unlock it by using the same key Alice used to lock it. This will have effectively have demonstrated symmetric encryption because the same key was used to lock (encrypt) and unlock (decrypt) the box. In fact, the ceasar ciper above is another perfect example of symmetric encryption as well; the "key" being the known number of shifts to use to encrypt and decrypt the message.
+
+
+
+
 
 
 
