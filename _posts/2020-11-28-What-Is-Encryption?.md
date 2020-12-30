@@ -27,11 +27,16 @@ That was very simple! The shift of 3 gave us a completely different string that 
 
 Cool! So while being able to encode and decode a ceasear ciper is great, it's nowhere near the level of appropriate encryption needed today to secure data. 
 
-So what is modern encryption?
+We've already established a purpose or need for encryption from the example above; to keep data confidential. Whether you're sending out battle plans across the globe to your military generals or just trying to buy some clothes online, your data needs to be secured for privacy purposes. As simple as it sounds, there have been countless hours put in by many smart people (mathematicians, computer scientists...the government) over the decades in order to create encryption standards that keep our data safe. So how does it work?
 
-### You can read this
+### I'm the same as you! 
 
-Well, we've already established a purpose or need for encryption; to keep data confidential. Whether you're sending out battle plans across the globe to your military generals or just trying to buy some clothes online, your data needs to be secured. As simple as it sounds, there have been countless hours put in by many smart people (mathematicians, computer scientists...the government) over the decades in order to create encryption standards that keep our data safe.
+We can break down modern encryption into two categories; **symmetric** and **asymmetric** encryption. While both have their pros and cons, these two types of encryption are responsible for securing data in the real world today. 
+
+One of the most important concepts of modern encryption is a **key**. This "key" can be any word, phrase or code that is responsible for encrypting plaintext and/or decrypting ciphertext. You can think of this key as like a lock box key. If you wanted to store somethign in the box and secure it, you would use the key you have to lock the box AND unlock it when you need to. 
+
+
+
 
 
 
