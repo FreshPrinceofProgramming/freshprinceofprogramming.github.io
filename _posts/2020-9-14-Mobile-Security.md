@@ -10,4 +10,3 @@ Phone technology has transformed dramatically in the last 10-15 years. Not only 
 
 It's no secret that modern phones are just computers will satellite calling capabilities. That's literally it. It functions in many similiar ways to a laptop or a PC. You have programs/apps, an operating system and internet access at the very least. Unfortunately, this opens us up to a lot of the same vulnerabilities we see more traditionally with PC's or laptops. 
 
-
