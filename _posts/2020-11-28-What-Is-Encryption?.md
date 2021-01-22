@@ -47,6 +47,7 @@ Circling back to my previous statement at the end of the last section, there's a
 
 So we've already established that in order for Alice and Bob to communicate securely, both of them need to have the same key in order to lock and unlock the box. The problem is that the key needs to also be securely transmitted between both parties. How do we solve this?
 
+Let's imagine now that Bob buys a padlock and key. Bob then sends that padlock (unlocked) to Alice, while keeping the key secret to himself. Alice receives the padlock and places a copy of her symmetric key in a box. She then locks the padlock and sends it back to Bob. Because only Bob has the key to unlock his padlock, he can open it and receive the symmetric key. The two can now exchange messages securely by just using the same key to lock and unlock a box that works with the symmetric key. Seems pretty simple! 
 
 
 
