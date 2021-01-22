@@ -45,7 +45,7 @@ The power of symmetric key encryption lies in its simplicity and quickness to en
 
 Circling back to my previous statement at the end of the last section, there's an obvious problem with symmetric key encryption. Both parties must have a copy of the same key in order to encrypt and decrypt whatever message is being sent over. Not only that, but the key MUST be kept secret to the appropriate parties. In our above example of Alice and Bob, we assumed that Bob had the same key Alice did to unlock the box containing the message. But how? If you imagine the medium of travel for the box as the internet, this presents a security risk. Alice cant just send Bob her key over without it potentially being compromised by someone watching their communications. This is where asymmetric key encryption comes into play.
 
-So we've already established that in order for Alice and Bob to communicate securely, both of them need to have the same key in order to lock and unlock the box. The problem is that the key needs to also be securely transmitted between both parties. How do we solve this? Let's go back to our example:
+So we've already established that in order for Alice and Bob to communicate securely, both of them need to have the same key in order to lock and unlock the box. The problem is that the key needs to also be securely transmitted between both parties. How do we solve this?
 
 
 
