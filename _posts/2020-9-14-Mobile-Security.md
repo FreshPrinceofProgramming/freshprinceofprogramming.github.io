@@ -32,7 +32,7 @@ This also goes for phone software updates in general. If a hacker is able to fin
 
 Of course not everyone likes to play it safe, even if you aren't a hacker. You may just be interested in modifying your phone to see how much customization you can implement from a creative standpoint. This is where you might run into trouble...
 
-### Rooting vs Jailbreaking
+### Rooting and Jailbreaking
 
 
 
