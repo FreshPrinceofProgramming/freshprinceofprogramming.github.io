@@ -34,5 +34,5 @@ Of course not everyone likes to play it safe, even if you aren't a hacker. You m
 
 ### Rooting and Jailbreaking
 
-
+If these terms aren't familiar to you, it's because that's by design of the companies that create our mobile devices. If you are familiar with these terms, you've potentially done this to one of your iphones or androids in the past. I've definitely done it. But what the hell is rooting and jailbreaking? More importantly, why does this matter?
 
