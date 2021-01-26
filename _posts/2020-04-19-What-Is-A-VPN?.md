@@ -30,7 +30,7 @@ Your public IP is where things get a little tricky. Believe it or not, your LAN 
 
 #### What do IP Adresses look like?
 
-IP addresses are numerical values in the form "X.X.X.X" where X represents a value from 0-255 (because math, that's why). More specifically, this notation represents what we call an IPv4(Internet Protocol version 4) address. As stated above, this value is a unique identifier for a device on a network. Due to constraints on how many numerical values can be represented with IPv4, only 4,294,967,296 total addresses can be used on every single device out there in the world. Obviously, there are more than that amount of devices in existence. To combat this, there are certain reserved spaces for private and public IP addresses.
+IP addresses are numerical values in the form "X.X.X.X" where X represents a value from 0-255 (because math, that's why). More specifically, this notation represents what we call an **IPv4**(Internet Protocol version 4) address. As stated above, this value is a unique identifier for a device on a network. Due to constraints on how many numerical values can be represented with IPv4, only 4,294,967,296 total addresses can be used on every single device out there in the world. Obviously, there are more than that amount of devices in existence. To combat this, there are certain reserved spaces for private and public IP addresses.
 
 Here are the spaces reserved for private addresses:
 
