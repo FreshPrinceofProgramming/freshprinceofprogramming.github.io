@@ -30,11 +30,17 @@ Your public IP is where things get a little tricky. Believe it or not, your LAN 
 
 #### What do IP Adresses look like?
 
-IP addresses are numerical values in the form "X.X.X.X" where X represents a value from 0-255 (because math, that's why). More specifically, this notation represents what we call an **IPv4**(Internet Protocol version 4) address. As stated above, this value is a unique identifier for a device on a network. Due to constraints on how many numerical values can be represented with IPv4, only 4,294,967,296 total addresses can be used on every single device out there in the world. Obviously, there are more than that amount of devices in existence. To combat this, there are certain reserved spaces for private and public IP addresses.
+IP addresses are numerical values in the form "X.X.X.X" where X represents a value from 0-255 (because math, that's why). More specifically, this notation represents what we call an **IPv4**(Internet Protocol version 4) address. As stated above, this value is a unique identifier for a device on a network. Due to constraints on how many numerical values can be represented with IPv4, only 4,294,967,296 total addresses(2^32) can be used on every single device out there in the world. Obviously, there are more than that amount of devices in existence. To combat this, there are certain reserved spaces for private and public IP addresses.
 
 Here are the spaces reserved for private addresses:
 
 ![private IP]({{ site.url }}{{ site.baseurl }}/assets/images/privateip.jpg)
+
+If you ever see IP's that fall into these ranges, you are seeing a private IP used to identify yourself on a local network. You can check this value yourself by going into the network settings on your device. It is most likely in that location.
+
+With a few exceptions to some more ranges, every other IP address is used as a public IP, which NAT will automatically convert for you when you're trying to get on the internet. You can check your public IP by going to [sites like these](https://whatismyipaddress.com/). 
+
+Due to the limitation of IP's available for IPv4, **IPv6** is now starting to be implemented more widely in networking. IPv6 is cable of representing 2^128 numerical values, which is...a lot to say the least. In fact, you may see your public IPv6 address on the websites you use to look up your public IPv4 address. They look something like "X:X:X:X:X:X:X:X" Very cryptic looking, but it's the future, so we'll roll with it for now.
 
 
 ## So What the hell is a VPN??!!...forreal this time
