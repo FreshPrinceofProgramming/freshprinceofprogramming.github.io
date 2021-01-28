@@ -64,6 +64,10 @@ The reason why this method is successful in the real world is because both keys 
 
 Asymmetric key encryption is also very slow. As you can imagine, there are 4 keys we now have to deal with and the overhead for generating them can be quite computationally intensive. This is why asymmetric algortihms are hardly used for actually encrypting message data. They can however ensure a symmetric key is generated and encrypted to be securely sent over an insecure medium such as the internet. But the actual encryption of data uses symmetric algorithms for that purpose. 
 
+### Pros and cons of encryption
+
+Summing all of this up, I think we can all agree that encryption in general has provided enormous benefits for cyber security over a long period of time. 
+
 
 
 
