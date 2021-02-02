@@ -64,9 +64,15 @@ The reason why this method is successful in the real world is because both keys 
 
 Asymmetric key encryption is also very slow. As you can imagine, there are 4 keys we now have to deal with and the overhead for generating them can be quite computationally intensive. This is why asymmetric algortihms are hardly used for actually encrypting message data. They can however ensure a symmetric key is generated and encrypted to be securely sent over an insecure medium such as the internet. But the actual encryption of data uses symmetric algorithms for that purpose. 
 
-### Pros and cons of encryption
+### Putting it all together 
 
-Summing all of this up, I think we can all agree that encryption in general has provided enormous benefits for cyber security over a long period of time. 
+In the grand scheme of keeping things private, cryptography has a long history of people coming up with ways to securely be able to implement ways of doing so. In modern computing, it has allowed the secure transfer of data between unknown parties and has kept us relatively safe. However, encryption itself isn't completely secure. Think of it as a tool to achieve some goal. With any tool, if it's used properly you will see great results. But if used improperly, it can present high risk of being potentially exposed. 
+
+Encryption is like a two-way sword; when it works, it really works. But that may mean it works too well in cases where you need to possibly get beyond the encryption to access certain information. Let me give an example: 
+
+Let's say that you are an investigator trying to figure out information on a suspect's phone. The phone is locked with a passcode and there is a certain amount of attempts until the phone automatically wipes/locks itself permanently (a very common security measure for phones). To make matters worse, the suspect is deceased and nobody knows the passcode but them. Sounds like you have your work cut out for you. You cant just brute force your way into the phone, and the company that provided the phone has no way of accessing the data internally on it either. Sounds like a non-likely scenario, right?
+
+But [that is exactly what happened](https://www.wired.com/story/the-time-tim-cook-stood-his-ground-against-fbi/) a couple of years ago during the investigation into the shootings in San Bernadino, CA.  
 
 
 
