@@ -72,7 +72,11 @@ Encryption is like a two-way sword; when it works, it really works. But that may
 
 Let's say that you are an investigator trying to figure out information on a suspect's phone. The phone is locked with a passcode and there is a certain amount of attempts until the phone automatically wipes/locks itself permanently (a very common security measure for phones). To make matters worse, the suspect is deceased and nobody knows the passcode but them. Sounds like you have your work cut out for you. You cant just brute force your way into the phone, and the company that provided the phone has no way of accessing the data internally on it either. Sounds like a non-likely scenario, right?
 
-But [that is exactly what happened](https://www.wired.com/story/the-time-tim-cook-stood-his-ground-against-fbi/) a couple of years ago during the investigation into the shootings in San Bernadino, CA.  
+But [that is exactly what happened](https://www.wired.com/story/the-time-tim-cook-stood-his-ground-against-fbi/) a couple of years ago during the investigation into the shootings in San Bernadino, CA. Essentially, the FBI needed to get into the iphone of one of the suspects and pressured Apple to do so. Apple refused and the FBI became frustrated. Eventually they were able to get into the phone, but due to the strong encryption on the iphone itself, we can see how this created a problem in the first place. Nonetheless it proved that encryption works. 
+
+Trying to break various encryption protocols takes a lot of knowledge, time and persistance, but there are people who have proven it possible. The good news for us is that most high level encryption standards are still relatively safe. But remember, it's all about how you use encryption. If keys are improperly placed, key length is too short, or various other parts of the implementation are flawed, encryption will not help. 
+
+This is definitely a longer article, but thank you for reading! 
 
 
 
