@@ -60,6 +60,17 @@ Let's imagine now that Bob buys a padlock and key. Bob then sends that padlock (
 Bob sends Alice his padlock(unlocked) and keeps the key to it 
 ![asymmetrickey1]({{ site.url }}{{ site.baseurl }}/assets/images/alicebobasym1.jpg)
 
+Alice places a copy of her symmetric key in a box
+![asymmetrickey2]({{ site.url }}{{ site.baseurl }}/assets/images/alicebobasym2.jpg)
+
+Alice sends box locked with the padlock to Bob
+![asymmetrickey3]({{ site.url }}{{ site.baseurl }}/assets/images/alicebobasym3.jpg)
+
+Bob opens the padlock with his key and retrieves the copy of the symmetric key
+![asymmetrickey4]({{ site.url }}{{ site.baseurl }}/assets/images/alicebobasym4.jpg)
+
+Alice and Bob can now send secret messages to each other using the symmetric key to encrypt and decrypt  
+![asymmetrickey5]({{ site.url }}{{ site.baseurl }}/assets/images/alicebobasym5.jpg)
 
 If you noticed, we didn't really "encrypt" any actual message data. All we did was ensure that the symmetric key was able to be exchanged by using asymmetric methods. In this example, the padlock Bob had represented a **public key**, meaning that it is known to both parties (and anyone else who needs it), while the actual key to the padlock represented a **private key**, something only Bob knew and had. Asymmetric key encryption, also known as **public key cryptography**, uses the idea of a public and private key in order to encrypt and decrypt messages. 
 
