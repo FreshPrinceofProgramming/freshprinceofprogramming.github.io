@@ -75,9 +75,20 @@ Alice and Bob can now send secret messages to each other using the symmetric key
 
 If you noticed, we didn't really "encrypt" any actual message data. All we did was ensure that the symmetric key was able to be exchanged by using asymmetric methods. In this example, the padlock Bob had represented a **public key**, meaning that it is known to both parties (and anyone else who needs it), while the actual key to the padlock represented a **private key**, something only Bob knew and had. Asymmetric key encryption, also known as **public key cryptography**, uses the idea of a public and private key in order to encrypt and decrypt messages. 
 
-The reason why this method is successful in the real world is because both keys are mathematically linked to each other in a way that ensures that only the correct private/public key combination can be used to encrypt or decrypt messages. A user could use a recipients public key to encrypt a message, and only the recipients private key can be used to decrypt it, and vice versa. The most famous algorithm that uses asymmetric encryption is called **RSA**(Rivest–Shamir–Adleman). It has been around since the 1970's and still widely used today as a means to exchange symmetric keys between distant parties. It's the reason why your credit card data can be securely transmitted between the browser and server when you're shopping online. So it's very important to say the least. Like always, I highly suggest reading into how this is implemented in the real world and what's behind the algorithm. 
+The reason why this method is successful in the real world is because both keys are mathematically linked to each other in a way that ensures that only the correct private/public key combination can be used to encrypt or decrypt messages. A user could use a recipients public key to encrypt a message, and only the recipients private key can be used to decrypt it, and vice versa. The most famous algorithm that uses asymmetric encryption is called **RSA**(Rivest–Shamir–Adleman). It has been around since the 1970's and still widely used today as a means to exchange symmetric keys between distant parties. It's the reason why your credit card data can be securely transmitted between the browser and server when you're shopping online. So it's very important to say the least. Like always, I suggest reading into how this is implemented in the real world and what's behind the algorithm. 
 
-Asymmetric key encryption is also very slow. As you can imagine, there are 4 keys we now have to deal with and the overhead for generating them can be quite computationally intensive. This is why asymmetric algortihms are hardly used for actually encrypting message data. They can however ensure a symmetric key is generated and encrypted to be securely sent over an insecure medium such as the internet. But the actual encryption of data uses symmetric algorithms for that purpose. 
+Asymmetric key encryption is also very slow. As you can imagine, there are 4 keys(2 public and 2 private per 2 parties) we now have to deal with and the overhead for generating them can be quite computationally intensive. This is why asymmetric algortihms are hardly used for actually encrypting message data. They can however ensure a symmetric key is generated and encrypted to be securely sent over an insecure medium such as the internet. But the actual encryption of data uses symmetric algorithms for that purpose. 
+
+### Encryption visualized
+
+I think it would be beneficial to see encryption in a real life example before we wrap up in the next section. 
+
+I mentioned previously with asymmetric encryption (public key cryptography), that it can be used to ensure safe transaction of private data in the case of shopping online for example. You may heard the term **SSL**(Secure Socket Layer) or **TLS**(Transport Layer Security, aka the successor to SSL) mentioned when it comes to ensuring a website is secure. This is the "s" in HTTPS (hypertext transfer protocol secure). It is always encouraged that you only visit sites with https enabled, and encryption is the reason. 
+
+But did you know that each website (most of them) that offers SSL/TLS has a way to verify the legitimacy of itself? Sounds weird, I know. Amazon.com is just amazon.com. It's got to be legitimate already, right? That's where you would be wrong. This is where **digitial certificates** come in handy. You can think of a digital certificate as proof or legitimacy by the website, which will offer key identifiers for every device that connects to it to confirm that it is amazon.com that you are connecting to. One of these proofs is the public key of the website. And we all know what that is by now...
+
+
+
 
 ### Putting it all together 
 
@@ -91,7 +102,7 @@ But [that is exactly what happened](https://www.wired.com/story/the-time-tim-coo
 
 Trying to break various encryption protocols takes a lot of knowledge, time and persistance, but there are people who have proven it possible. The good news for us is that most high level encryption standards are still relatively safe. But remember, it's all about how you use encryption. If keys are improperly placed, key length is too short, or various other parts of the implementation are flawed, encryption will not help in trying to keep data private.
 
-Thank you for reading! 
+
 
 
 
