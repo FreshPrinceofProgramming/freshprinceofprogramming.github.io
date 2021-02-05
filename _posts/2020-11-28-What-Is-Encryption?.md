@@ -101,7 +101,7 @@ We can take the certificate a step further and looks at details:
 
 ![amazoncert3]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert3.jpg)
 
-See anything that looks familiar? The RSA public key! This isn't a hack or some lack of security. The public key is exactly what the name suggests, public. Anybody can see this. The private key is what is kept hidden and hopefully never exposed. I would look up more about digital certs and how websites use them. There have been [hacks against digital certifcates](https://resources.infosecinstitute.com/topic/cybercrime-exploits-digital-certificates/) in the past, and continues to be a potential avenue for hackers to exploit. Interesting stuff.
+See anything that looks familiar? The RSA public key! This isn't a hack or some lack of security. The public key is exactly what the name suggests, public. Anybody can see this. The private key is what is kept hidden and hopefully never exposed. I would look up more about digital certs and how websites use them. There have been [hacks against digital certificates](https://resources.infosecinstitute.com/topic/cybercrime-exploits-digital-certificates/) in the past, and continues to be a potential avenue for hackers to exploit. Interesting stuff.
 
 Now with all of that said, let's look at some Amazon encrypted traffic:
 
