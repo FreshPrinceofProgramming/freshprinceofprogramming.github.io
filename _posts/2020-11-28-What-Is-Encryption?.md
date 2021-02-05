@@ -103,8 +103,11 @@ We can take the certificate a step further and looks at details:
 
 See anything that looks familiar? The RSA public key! This isn't a hack or some lack of security. The public key is exactly what the name suggests, public. Anybody can see this. The private key is what is kept hidden and hopefully never exposed. I would look up more about digital certs and how websites use them. There have been [hacks against digital certifcates](https://resources.infosecinstitute.com/topic/cybercrime-exploits-digital-certificates/) in the past, and continues to be a potential avenue for hackers to exploit. Interesting stuff.
 
+Now with all of that said, let's look at some Amazon encrypted traffic:
 
+![amazoncert4]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert4.jpg)
 
+Can you figure out what I was doing on Amazon? No, and that's the point. I used a packet analyzer to look at the traffic between my machine and the amazon website. This is what your traffic gets turned into when encryption is enabled properly. Unless a hacker has Amazon's or my private key, they can't decrypt the traffic.
 
 ### Putting it all together 
 
