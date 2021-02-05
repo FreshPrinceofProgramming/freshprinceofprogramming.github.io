@@ -95,6 +95,16 @@ Here it is telling us that this website is secured, and we can even see the spot
 
 ![amazoncert2]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert2.jpg)
 
+This certificate is informing us that it proves its own identity as well as your identity when connecting to the website, which is owned by Amazon.com. It is very important that websites keep their certificates valid. They aren't cheap, but the benefits speak for itself. Hackers or bad actiors can use free certificates to make their websites look more legitimate and often can trick unsuspecting users to thinking the site is secure. 
+
+We can take the certificate a step further and looks at details:
+
+![amazoncert3]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert3.jpg)
+
+See anything that looks familiar? The RSA public key! This isn't a hack or some lack of security. The public key is exactly what the name suggests, public. Anybody can see this. The private key is what is kept hidden and hopefully never exposed. I would look up more about digital certs and how websites use them. There have been [hacks against digital certifcates](https://resources.infosecinstitute.com/topic/cybercrime-exploits-digital-certificates/) in the past, and continues to be a potential avenue for hackers to exploit. Interesting stuff.
+
+
+
 
 ### Putting it all together 
 
