@@ -91,6 +91,10 @@ I'm sure we've all seen the "lock" symbol at the top of the URL next to the site
 
 ![amazoncert1]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert1.jpg)
 
+Here it is telling us that this website is secured, and we can even see the spot for the certificate. If we click on the certificate, we get this page:
+
+![amazoncert2]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert2.jpg)
+
 
 ### Putting it all together 
 
