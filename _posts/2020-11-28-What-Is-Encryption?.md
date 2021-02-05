@@ -85,9 +85,10 @@ I think it would be beneficial to see encryption in a real life example before w
 
 I mentioned previously with asymmetric encryption (public key cryptography), that it can be used to ensure safe transaction of private data in the case of shopping online for example. You may heard the term **SSL**(Secure Socket Layer) or **TLS**(Transport Layer Security, aka the successor to SSL) mentioned when it comes to ensuring a website is secure. This is the "s" in HTTPS (hypertext transfer protocol secure). It is always encouraged that you only visit sites with https enabled, and encryption is the reason. 
 
-But did you know that each website (most of them) that offers SSL/TLS has a way to verify the legitimacy of itself? Sounds weird, I know. Amazon.com is just amazon.com. It's got to be legitimate already, right? That's where you would be wrong. This is where **digitial certificates** come in handy. You can think of a digital certificate as proof or legitimacy by the website, which will offer key identifiers for every device that connects to it to confirm that it is amazon.com that you are connecting to. One of these proofs is the public key of the website. And we all know what that is by now...
+But did you know that each website (most of them) that offers SSL/TLS has a way to verify the legitimacy of itself? Sounds weird, I know. Amazon.com is just amazon.com. It's got to be legitimate already, right? That's where you would be wrong. This is where **digitial certificates** come in handy. You can think of a digital certificate as proof or legitimacy by the website, which will offer key identifiers for every device that connects to it to confirm that it is actually amazon.com that you are connecting to. One of these proofs is the public key of the website. And we all know what that is by now...
 
-
+I'm sure we've all seen the "lock" symbol at the top of the URL next to the site we're connecting to. It looks like this:
+![amazoncert1]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert1.jpg)
 
 
 ### Putting it all together 
