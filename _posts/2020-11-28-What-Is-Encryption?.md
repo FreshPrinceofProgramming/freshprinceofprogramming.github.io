@@ -64,6 +64,7 @@ Alice places a copy of her symmetric key in a box
 ![asymmetrickey2]({{ site.url }}{{ site.baseurl }}/assets/images/alicebobasym2.jpg)
 
 Alice sends box locked with the padlock to Bob
+
 ![asymmetrickey3]({{ site.url }}{{ site.baseurl }}/assets/images/alicebobasym3.jpg)
 
 Bob opens the padlock with his key and retrieves the copy of the symmetric key
