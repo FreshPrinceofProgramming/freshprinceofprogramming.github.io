@@ -22,7 +22,7 @@ This leads me to my next point.
 
 ### Application/Software Updates
 
-While I'd like to think that downloading something bad on the internet is going to be the origin of compromise for most attacks to occur, your existing apps and operating system are probably going to be the #1 factor in your device being compromised. We've all gone through app and software updates on our mobile devices. They can be quite annoying and potentially take a long time to download. However, this is going to be the main defense in mitigating most cyber attacks for your phone. First let's talk about applications.
+While it's great to think that downloading something bad on the internet is going to be the only origin of compromise for most attacks to occur, your existing apps and operating system are probably going to be the #1 factor in your device being compromised. We've all gone through app and software updates on our mobile devices. They can be quite annoying and potentially take a long time to download. However, this is going to be the main defense in mitigating most cyber attacks for your phone. First let's talk about applications.
 
 Here's a sample scenario in how you might start your day: In the morning, you may take a quick glance at Instagram's app and post a story. Then you might pull up the weather app to see the weather for the day. Next, you open Google Maps to find out how to get to a certain location you're meeting a friend at. Each app has their own specific ways of functioning, and most importantly, their own ways in how they are securing the data **they are permitted to see** (more on this later). 
 
@@ -35,4 +35,21 @@ Of course not everyone likes to play it safe, even if you aren't a hacker. You m
 ### Rooting and Jailbreaking
 
 If these terms aren't familiar to you, it's because that's by design of the companies that create our mobile devices. If you are familiar with these terms, you've potentially done this to one of your iphones or androids in the past. I've definitely done it. But what the hell is rooting and jailbreaking? More importantly, why does this matter?
+
+Right now if I asked if you had complete control over your mobile device, what would your response be? Yes or no? For most normal iphone or android users, the question might sound a bit odd. Of course you have control over your device. You control what gets downloaded, what you share and everything else on your mobile device. If you're more tech savy, you definitely would not agree with the previous statement.
+
+The short objective answer is no, you do not control everything that happens on your phone. This is for good reason, which we'll get into shortly. Most people do not need to tap into the full capabilities of the operating system running their iphone or android, and probably never will. The added benefits of gaining access to these parts of your phone are based on subjective use cases (i.e overclocking the GPU, UI customization, adding third party app repositories, etc.). The possibilities are endless. However, when we root or jailbreak our mobile devices, we effectively bypass certain security controls that the operating system has in place. Let's take downloading apps as an example. 
+
+When you download an app, it's coming from either the Apple or Google Play store. All apps that make it onto those platforms are vetted by each company, meaning that not anyone can just upload an app with malware on it to the store. There's a proccess for each of these apps to be added for public downloads. This handled automatically by Apple and Google, so there isn't anything individual users have to do. You download the app and that's it.
+
+In contrast, let's say that you have a rooted or jailbroken phone. Instead of using the Apple or Google store to find apps, it is now possible to download apps through different hosts. Third party app hosters make plently of modified versions of apps available for people to download. Obviously, these are not vetted by Apple or Google, which means that someone could easily upload an app that is secretly malware/spyware/adware in disguise. Once you download the app, that could be an automatic compromise. 
+
+Needless to say, I don't think jailbreaking or rooting will be a problem for most users, but this is just another avenue for hackers to potentially get ahold of your device. I don't recommend it, but if you do decide to root or jailbreak your phone, please make sure you're as safe as possible. There are forums and guides out there that you can follow that are legitimate, and will guide you in the right direction. 
+
+### 
+
+
+
+
+
 
