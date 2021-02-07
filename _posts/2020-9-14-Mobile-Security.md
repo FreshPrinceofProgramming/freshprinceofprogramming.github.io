@@ -34,7 +34,7 @@ Of course not everyone likes to play it safe, even if you aren't a hacker. You m
 
 ### Rooting and Jailbreaking
 
-If these terms aren't familiar to you, it's because that's by design of the companies that create our mobile devices. If you are familiar with these terms, you've potentially done this to one of your iphones or androids in the past. I've definitely done it. But what the hell is rooting and jailbreaking? More importantly, why does this matter?
+If these terms aren't familiar to you, it's because that's by design of the companies that create our mobile devices. If you are familiar with these terms, you've potentially done this to one of your iphones or androids in the past. I've definitely done it. But what is rooting and jailbreaking? More importantly, why does this matter?
 
 Right now if I asked if you had complete control over your mobile device, what would your response be? Yes or no? For most normal iphone or android users, the question might sound a bit odd. Of course you have control over your device. You control what gets downloaded, what you share and everything else on your mobile device. If you're more tech savy, you definitely would not agree with the previous statement.
 
