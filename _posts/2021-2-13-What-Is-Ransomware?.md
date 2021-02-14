@@ -7,4 +7,6 @@ header:
   
 ---
 
-Ransomware has easily become one of the most popular cyber security threats over the last few years. It has affected every industry you can think of: education, finance, municipal, etc. and it doesn't look like attacks are slowing down anytime soon. In this article we will dive into what exactly ransomware is and how you can protect yourself from it. 
+Ransomware has easily become one of the most popular cyber security threats over the last few years. It has affected every industry you can think of: education, finance, municipal, etc. and it doesn't look like attacks are slowing down anytime soon. In this article we will dive into what exactly ransomware is, what it means for the future and how you can protect yourself from it. 
+
+
