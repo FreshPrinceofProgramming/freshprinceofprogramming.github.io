@@ -11,4 +11,4 @@ Ransomware has easily become one of the most popular cyber security threats over
 
 ### Ransom Note
 
-Probably somewhat of an obvious motivation for hackers is financial gain.
+Probably somewhat of an obvious motivation for hackers is financial gain. We've seen countless times in the news (or you may have experienced it yourself) when hackers have stolen credit card information, or other financial documents in order to get some sort of monetary value out of their hack. 
