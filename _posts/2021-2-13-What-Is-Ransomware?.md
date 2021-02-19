@@ -25,7 +25,5 @@ Your first reaction would probably be one of shock, but maybe disbelief. You the
 
 ### Get Your Files Back!
 
-There's a lot to unpack from the above screenshot. It claims you can get your files back if you **pay a certain amount in bitcoin**. It also claims the pay amount will raise after a certain amount of days, and after 7 days your files will be gone/unaccessible permanently. This sounds eerily like a normal kidnapping scenario. Do people still get kidnapped and held for ransom though? *shrugs*
-
-Much like a kidnapper would demand ransom for the person they just kidnapped, we can see the similiarties 
+There's a lot to unpack from the above screenshot. It claims you can get your files back if you **pay a certain amount in bitcoin**. It also claims the pay amount will raise after a certain amount of days, and after 7 days your files will be gone/unaccessible permanently. This sounds eerily like a normal kidnapping scenario. Much like a kidnapper would demand ransom for the person they just kidnapped, we can see the similiarties in how a hacker may do the exact same thing but with someone's computer files.
 
