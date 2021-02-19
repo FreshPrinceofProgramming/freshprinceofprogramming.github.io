@@ -17,7 +17,7 @@ Sure, a high profile person with wealth(Bill Gates, Elon Musk, etc.) might sound
 
 When it comes to hacking, we need to think more broadly about what represents value. Just like in the real world we have things that are worth value depending on who the thing belongs to; jewelry, artifacts, shoes, etc. If we're theives in the real world, this is what we may target. In cyber space things change a bit. Confidential documents and intellectual property may be the companies high valued assets, in which a hacker is going to try to target. Individuals are also at risk in cyber space, as we all have documents and things we want to protect.
 
-Let's say you woke up one day and were presented with this:
+Let's say you woke up one day and were presented with this screen at your desktop:
 
 ![Wanacry]({{ site.url }}{{ site.baseurl }}/assets/images/wanacry.png)
 
