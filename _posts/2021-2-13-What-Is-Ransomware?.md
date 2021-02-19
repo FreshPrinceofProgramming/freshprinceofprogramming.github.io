@@ -11,7 +11,7 @@ Ransomware has easily become one of the most popular cyber security threats over
 
 ### Ransom Note
 
-Probably somewhat of an obvious motivation for hackers is financial gain. We've seen countless times in the news (or you may have experienced it yourself) when hackers have stolen credit card information, or other financial documents in order to get some sort of monetary value out of their hack. In fact, it is estimated that by 2025 cybercrime is going to cost the world up to [10.5 trillion dollars annually](https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/). That's not a small number.
+Probably somewhat of an obvious motivation for hackers is financial gain. We've seen countless times in the news (or you may have experienced it yourself) when hackers have stolen credit card information, or other financial documents in order to get some sort of monetary value out of their hack. In fact, it is estimated that by 2025 cybercrime is going to cost the world up to [10.5 trillion dollars annually](https://cybersecurityventures.com/hackerpocalypse-cybercrime-report-2016/). That's not a small number. That's about roughly 1/9th of the world's GDP, and about **half of the United State's GDP**.
 
 Sure, a high profile person with wealth might be the best way to gain money very fast. However, the feasibility of erasing wealth from that one person is quite slim if they're aware of where their money is at all times. Instead, hackers are targeting organizations that are worth value in order to make money. How can you cripple an entire organization though? Well...by "kidnapping" their valued assets, they may be more receptive in paying the kidnappers to get them back.
 
