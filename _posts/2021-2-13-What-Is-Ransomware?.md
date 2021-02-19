@@ -15,6 +15,6 @@ Probably somewhat of an obvious motivation for hackers is financial gain. We've 
 
 Sure, a high profile person with wealth(Bill Gates, Elon Musk, etc.) might sound like the best target to gain a lot of money very fast. However, the feasibility of erasing wealth from that one person is quite slim if they're aware of where their money is at all times. Instead, hackers are targeting organizations that are worth value in order to make money. How can you cripple an entire organization though? Well...by "kidnapping" their valued assets, they may be more receptive in paying the kidnappers to get them back. So let's plan a kidnapping! 
 
-
+When it comes to hacking, we need to think more broadly about what represents value. Just like in the real world we have things that are worth value depending on who the thing belongs to; jewelry, artifacts, shoes, etc. In cyber space things change a bit. Now we're after things like confidential documents and intellectual property. All things that the company has deemed valuable to them and their needs.  
 
 
