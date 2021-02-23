@@ -33,13 +33,17 @@ The WannaCry ransomware attack was very unique in the fact that it used vulnerab
 
 The final component of all ransomware is the ransom part. Depending on the type of ransomware, you may see different amounts of money being asked for by the hackers. These ransoms can go from a couple hundred dollars to the hundreds of thousands(possibly millions). If a company has been breached, you have to think of the ransom in addition to the downtime the company experienced. For businesses, time is literally money. It may cost a comnpany more money to recover what they lost as opposed to the ransom payment itself. [Here's a great article](https://www.comparitech.com/antivirus/ransomware-statistics/) detailing ransomware specific attacks and the various entities it has affected. 
 
-All ransomware attacks will demand payment in the form of **cryptocurrency**. TL;DL, cryptocurrency is a form of online currency that can be used to purchase things. Bitcoin is a prime example of a well known cryptocurrency. Part of the lure of cryptocurrency is in its ability to keep a buyer/seller anonymnous in the transaction. While bitcoin itself is not anonymous, hackers will use methods to route their bitcoin through various places to throw investigators off. Remember, they're not trying to get caught, and precautions against that are necessary. 
+Most ransomware attacks will demand payment in the form of **cryptocurrency**. TL;DL, cryptocurrency is a form of online currency that can be used to purchase things. Bitcoin is a prime example of a well known cryptocurrency. Part of the lure of cryptocurrency is in its ability to keep a buyer/seller anonymnous in the transaction. While bitcoin itself is not anonymous, hackers will use methods to route their bitcoin through various places to throw investigators off. Remember, they're not trying to get caught, and precautions against that are necessary. 
 
 ### We caught you...
 
 While businesses have been prime targets for ransomware attacks for years, every day people are not immune either. When targeting individuals, a certain branch of ransomware called "fearware" may be used to socially engineer them to go through with the ransom. Take a look at this fearware example:
 
 ![FBI]({{ site.url }}{{ site.baseurl }}/assets/images/fbi.png)
+
+This is certainly a different message being shown to us than the WannaCry example. Now instead of holding your files hostage and demanding a ransom, they've added the possibility of being arrested for alleged serious crimes. To the unsuspecting person, the threat of an arrest may be just enough to get them to pay the ransom. This is similiar to phishing email where the user may be pretending to be an authorative figure to illicit a response. In this case however, they have locked you out of your computer completely, which is something you might think the FBI can actually do. 
+
+Nonetheless they ask you for payment in the form of either cryptocurrency or gift cards. This is where the suspicious side of you needs to kick in. The FBI would never announce an arrest of you if the charges they claimed in the details were true. They would also never ask for you money, especially a best buy gift card for example. If the FBI is out here scamming people so they could pay them money to buy electronics from best buy, we have whole bigger problem. The ridiculousness of the prompt SHOULD be proof you shouldn't pay the ransom. Even if you do pay it, there's no guarantee the hacker will unlock your files/computer.
 
 
 
