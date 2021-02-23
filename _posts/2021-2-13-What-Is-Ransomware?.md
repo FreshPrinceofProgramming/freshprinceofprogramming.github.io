@@ -73,6 +73,10 @@ Cons
 
 For individuals, backuping your important files such as photos or messages might just be as simple as using iCloud. For companies, a lot more needs to be put into the backup and recovery process. This is why it is pivital that there is a plan of action in case of emergencies such as ransomware or a natural disaster. 
 
+### You've been blocked
+
+
+
 
 
 
