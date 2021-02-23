@@ -59,7 +59,17 @@ Pros
 
 Cons
 1. If your only physical backup is compromised(breaks, stolen, etc.), you're screwed
-2. 
+2. No guarantee it will be fast recovery process
+
+Cloud Backup(Google, Dropbox, etc.)
+
+Pros
+1. Data can be accessed from anywhere that has internet access
+2. Buy the exact data storage you want, which may be very cheap
+
+Cons
+1. If the internet is not accessible, you cannot access your data
+2. Subject to potential cloud storage vulnerabilites on the internet
 
 
 
