@@ -37,7 +37,7 @@ Most ransomware attacks will demand payment in the form of **cryptocurrency**. T
 
 ### We caught you...
 
-While businesses have been prime targets for ransomware attacks for years, every day people are not immune either. When targeting individuals, a certain branch of ransomware called "fearware" may be used to socially engineer them to go through with the ransom. Take a look at this fearware example:
+While businesses have been prime targets for ransomware attacks for years, every day people are not immune either. When targeting individuals, a certain branch of ransomware called "**fearware**" may be used to socially engineer them to go through with the ransom. Take a look at this fearware example:
 
 ![FBI]({{ site.url }}{{ site.baseurl }}/assets/images/fbi.png)
 
