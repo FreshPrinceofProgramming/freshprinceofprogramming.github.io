@@ -55,7 +55,7 @@ Physical Backup(i.e external hard drive)
 
 Pros
 1. You own the device, which means nobody else can manipulate it unless they have physical access to it
-2. 
+2. You can buy hard drives for cheap
 
 
 
