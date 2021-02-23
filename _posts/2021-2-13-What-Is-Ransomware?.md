@@ -52,8 +52,9 @@ Unlike in the real world, having two of something very unique is trivial in cybe
 Whether you choose to use a physical backup or cloud, you should make sure those are kept properly secure:
 
 Physical Backup(i.e external hard drive)
+
 Pros
-1. You own the device, which means nobody else has access to it unless they are there within the physical space of it
+1. You own the device, which means nobody else can manipulate it unless they have physical access to it
 2. 
 
 
