@@ -35,6 +35,10 @@ The final component of all ransomware is the ransom part. Depending on the type 
 
 All ransomware attacks will demand payment in the form of **cryptocurrency**. TL;DL, cryptocurrency is a form of online currency that can be used to purchase things. Bitcoin is a prime example of a well known cryptocurrency. Part of the lure of cryptocurrency is in its ability to keep a buyer/seller anonymnous in the transaction. While bitcoin itself is not anonymous, hackers will use methods to route their bitcoin through various places to throw investigators off. Remember, they're not trying to get caught, and precautions against that are necessary. 
 
+### We caught you...
+
+
+
 
 
 
