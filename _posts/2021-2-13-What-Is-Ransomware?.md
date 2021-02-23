@@ -25,7 +25,7 @@ Your first reaction would probably be one of shock, but maybe disbelief. You the
 
 There's a lot to unpack from the above screenshot. It claims you can get your files back if you **pay a certain amount in bitcoin**. It also claims the pay amount will raise after a certain amount of days, and after 7 days your files will be gone/unaccessible permanently. This sounds eerily like a normal kidnapping scenario. Much like a kidnapper would demand ransom for the person they just kidnapped, we can see the similiarties in how a hacker may do the exact same thing but with someone's computer files. So how does ransomware work?
 
-We can break down ransomware by addressing its main component, encryption. If you want to learn more about encryption, check out my ["What is Encryption"](https://freshprinceofhacking.github.io/what%20the%20hack/What-Is-Encryption/) article. 
+We can break down ransomware by first addressing its main component, encryption. If you want to learn more about encryption, check out my ["What is Encryption"](https://freshprinceofhacking.github.io/what%20the%20hack/What-Is-Encryption/) article. Essentially, this is the hacker's way to control the entire situation. If they are able to encrypt your files, only they(presumably) would have the key to unlock them. Towards the end of my encryption article, I hinted that this is the main crux of encryption. When implemented correctly it works very well, which may have negative implications for people that need to access that information.
 
 
 
