@@ -19,7 +19,7 @@ Let's say you woke up one day and were presented with this screen at your deskto
 
 ![Wanacry]({{ site.url }}{{ site.baseurl }}/assets/images/wanacry.png)
 
-Your first reaction would probably be one of shock, but maybe disbelief. You then try to access files on your computer and they are all "locked" and now the panic sets in. You've been hit with ransomware. This is the exact prompt many companies and individuals were hit with back in 2017 when the **WannaCry Ransomware** attack made its way into the cyber world. This attack was highly distributed and just one of many ransomwares out there that have affected people. We'll break down the components of ransomware in the next section.
+Your first reaction would probably be one of shock, but maybe disbelief. You then try to access files on your computer and they are all "locked." You now realize that you've been hit with ransomware. This is the exact prompt many companies and individuals were hit with back in 2017 when the **WannaCry Ransomware** attack made its way into the cyber world. This attack was highly distributed and just one of many ransomwares out there that have affected people. We'll break down the components of ransomware in the next section.
 
 ### Get Your Files Back!
 
