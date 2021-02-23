@@ -27,7 +27,9 @@ There's a lot to unpack from the above screenshot. It claims you can get your fi
 
 We can break down ransomware by first addressing its main component, **encryption**. If you want to learn more about encryption, check out my ["What is Encryption"](https://freshprinceofhacking.github.io/what%20the%20hack/What-Is-Encryption/) article. Essentially, this is the hacker's way to control the entire situation. If they are able to encrypt your files, only they(presumably) would have the key to unlock them. Towards the end of my encryption article, I hinted that this is the main crux of encryption. When implemented correctly it works very well, which may have negative implications for people that need to access that information.
 
-Ransomware falls under the category of a virus. It's a specialized virus that is designed to search through your computer and encrypt as many files as possible. In addition, it also can include any necessary component to have the hack be succesful in the long run; for example this could include some kind of command and control install and a way to propagate throughout the network. 
+Ransomware falls under the category of a virus. It's a specialized virus that is designed to search through your computer and encrypt as many files as possible. In addition, it also can include any necessary component to have the hack be succesful in the long run; for example this could include some kind of command and control infrasturcture and a way to propagate throughout the network. The more sophisticated the ransomware, the more parts it will have to it. 
+
+The WannaCry ransomware attack was very unique in the fact that it used vulnerabilites and exploits **stolen from the NSA** to make itself very effective at spreading. If you want to read the details of the attack, check out [this article](https://www.csoonline.com/article/3227906/what-is-wannacry-ransomware-how-does-it-infect-and-who-was-responsible.html). 
 
 
 
