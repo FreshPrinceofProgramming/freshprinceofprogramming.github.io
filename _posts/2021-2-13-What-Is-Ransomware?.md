@@ -77,7 +77,11 @@ For individuals, backuping your important files such as photos or messages might
 
 Ok maybe you can't prevent a computer from getting a virus by putting a mask on it, but you can with an anti-virus/malware program. Over the years it has been increasingly difficult for anti-virus software to keep up with the number of threats out there. However, having an anti-virus program of some sort will still protect you from known threats, which is always a good thing. I'll have a more in depth article about what a virus is in general, but for now you can trust that you need anti-virus sofware as endpoint proctection in some capacity.
 
+### Don't touch that
 
+This has been talked about in many of my other articles, but is still relevant for this topic.
+
+Clicking on suspicious links in email or a sketchy website probably isn't the most ideal thing for your computer's overall hygiene. It is imperative that you are aware of what you are clicking on and verifying the source of the download/link redirect. Remember, hackers are trying to work less. If it means socially engineering you to click on a link to download a malicious program, then they will do it. Unless the particular piece of ransomware is spreading through exploits of a program (i.e. WannaCry), you more than likely will encounter ransomware by not adhering to common sense internet behavior
 
 
 
