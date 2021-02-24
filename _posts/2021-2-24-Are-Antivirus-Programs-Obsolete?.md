@@ -5,4 +5,3 @@ categories:
 ---
 
 TL;DR answer: No, but keep reading to find out why :p
-
