@@ -79,9 +79,11 @@ Ok maybe you can't prevent a computer from getting a virus by putting a mask on 
 
 ### Don't touch that
 
-This has been talked about in many of my other articles, but is still relevant for this topic.
+This has been talked about in many of my other articles, but is still relevant for this topic:
 
-Clicking on suspicious links in email or a sketchy website probably isn't the most ideal thing for your computer's overall hygiene. It is imperative that you are aware of what you are clicking on and verifying the source of the download/link redirect. Remember, hackers are trying to work less. If it means socially engineering you to click on a link to download a malicious program, then they will do it. Unless the particular piece of ransomware is spreading through exploits of a program (i.e. WannaCry), you more than likely will encounter ransomware by not adhering to common sense internet behavior
+Clicking on suspicious links in email or a sketchy website probably isn't the most ideal thing for your computer's overall hygiene. It is imperative that you are aware of what you are clicking on and verifying the source of the download/link redirect. Remember, hackers are trying to work less. If it means socially engineering you to click on a link to download a malicious program, then they will do it. Unless the particular piece of ransomware is spreading through exploits of a program (i.e. WannaCry), you more than likely will encounter ransomware by not adhering to common sense internet behavior.
+
+
 
 
 
