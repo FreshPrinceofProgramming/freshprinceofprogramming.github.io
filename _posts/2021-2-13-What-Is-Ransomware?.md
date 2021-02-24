@@ -75,7 +75,9 @@ For individuals, backuping your important files such as photos or messages might
 
 ### Wear a mask!
 
-Ok maybe you can't prevent a computer from getting a virus by putting a mask on it, but you can with an anti-virus/malware program. 
+Ok maybe you can't prevent a computer from getting a virus by putting a mask on it, but you can with an anti-virus/malware program. Over the years it has been increasingly difficult for anti-virus software to keep up with the number of threats out there. However, having an anti-virus program of some sort will still protect you from known threats, which is always a good thing. I'll have a more in depth article about what a virus is in general, but for now you can trust that you need anti-virus sofware as endpoint proctection in some capacity.
+
+
 
 
 
