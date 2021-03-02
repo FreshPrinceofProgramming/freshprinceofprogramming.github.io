@@ -13,3 +13,5 @@ We want to hack wifi. Pretty simple. Our target machine sits behind this wifi ac
 ### Concept
 
 Wifi networks are vulnerable to a variety of attacks. Most notably, the way in which we're going to be hacking wifi is through a semi-involved **dictionary attack**. Yes, bad passwords are going to be key for this attack to work. If you're unsure about password security in general, please read my ["How Safe is my Password"](https://freshprinceofhacking.github.io/privacy,%20security%20&%20safety/How-Safe-Is-My-Password/) article.
+
+Specifically, we are going to be targeting a **WPA2 access point**(Wi-Fi Protected Access). To keep it short, this particular security setting is used in many home network routers. It is an updated version of WPA, which allows for a stronger encryption standard to be used to secure your wifi connection. 
