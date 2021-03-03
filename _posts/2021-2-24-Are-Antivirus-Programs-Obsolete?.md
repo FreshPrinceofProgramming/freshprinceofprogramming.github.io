@@ -26,7 +26,7 @@ Heuristics can also generate more **false positvives** than intended. A false po
 
 So by now you know that antivirus programs use signature and heuristic based approaches to protect you from threats out there. What other ways are left to find threats? Let's talk about **behavioral based approaches**.
 
-
+First, let's back up and think about this more practically. If you were a detective trying to pinpoint a suspect, what might you do? You could look in your database and determine whether they 
 
 
 
