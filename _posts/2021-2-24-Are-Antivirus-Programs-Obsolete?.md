@@ -20,8 +20,10 @@ This kind of approach is similar to a signature based one, with a few exceptions
 
 This is very powerful, because now we can expand our antivirus program to detect a lot more "unknown" viruses that have not been fully studied and signatured. You might be thinking, "Ok, well it sounds like we're done here," but of course we aren't. Heuristic based approaches are not perfect either. Let's say this is a heuristic for a coding structure that is malicious: A-B-C-D. If the virus creator is smart and knows that's what the antivirus looking for, they can change the coding structure: A-C-D-B. Now our antivirus program will not pick up that virus with heuristics because that pattern doesn't exist in the database.
 
-Heuristics can also generate more **false positvives** than intended. A false positive, in the context of an antivirus, is what happens when something is identified as malicious, but it actually is harmless. There are viruses out there that mimic legitimate programs, and may cause the antivirus to think that the legitimate program is harmful. The silver lining is that antiviruses that use a combnination of both signature and heuristic based techniques can stop a quite a lot of bad stuff out there. We can stil do better though. But how...
+Heuristics can also generate more **false positvives** than intended. A false positive, in the context of an antivirus, is what happens when something is identified as malicious, but it actually is harmless. There are viruses out there that mimic legitimate programs, and may cause the antivirus to think that the legitimate program is harmful. The silver lining is that antiviruses that use a combnination of both signature and heuristic based techniques can stop a quite a lot of bad stuff out there. We can stil do better though. But how...?
 
 ### Your behavior is appalling
+
+So by now you know that antivirus programs use signature and heuristic based approaches to protect you from threats out there. As explicitly hinted, we can do better. 
 
 
