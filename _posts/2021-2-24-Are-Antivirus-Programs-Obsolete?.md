@@ -24,6 +24,10 @@ Heuristics can also generate more **false positvives** than intended. A false po
 
 ### Your behavior is appalling
 
-So by now you know that antivirus programs use signature and heuristic based approaches to protect you from threats out there. As explicitly hinted, we can do better. 
+So by now you know that antivirus programs use signature and heuristic based approaches to protect you from threats out there. What other ways are left to find threats? Let's talk about **behavioral based approaches**.
+
+
+
+
 
 
