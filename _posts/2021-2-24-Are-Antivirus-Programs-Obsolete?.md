@@ -12,4 +12,4 @@ In order for an antivirus program to be successful it needs to catch viruses. We
 
 Malware/virus researchers will try to reverse engineer a new virus they see, figure out its behavior and then create a signature for it. You can think of a signature like a footprint or some other labeling that can help to identify it in the future. A signature is usually made up of particular data points in the virus code that could contain the malicious behavior. The signature is then put into a database of other known viruses of the antivirus program. If this virus is seen in the future by the program, it will know to block it and/or remove it from your computer. 
 
-This is a great way to approach the problem of needing to block known threats. 
+This is a great way to approach the problem of needing to block known threats. However, this is not useful if a new virus comes in that has no signature in the database.
