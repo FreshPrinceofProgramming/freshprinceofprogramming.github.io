@@ -28,7 +28,8 @@ So by now you know that antivirus programs use signature and heuristic based app
 
 If you were investigating a crime and had a suspect, what might you do? You could potentially look them up in the police database and see if they have committed previous similar crimes. You might also interview the suspect to try to get an idea of what they were doing around the time of the crime. But let's say there was no direct evidence linked to the suspect at the time. However, you still have your suspicions. What might you do next?
 
-You could start to analyze the suspect's behavior to see if anything throws a red flag. This could include looking at phone records, surveillence cameras, wiretaps, etc. What you're trying to do is establish a baseline pattern for normal behavior and see if there are any **deviations from that pattern**. If we see the suspect behave abnormally(i.e. packing their belongings, revisiting the crime scence, etc.) we might have a good indicator that this is the person we're looking for that committed the crime.
+You could then start to analyze the suspect's behavior to see if anything throws a red flag. This could include looking at phone records, surveillence cameras, wiretaps, etc. What you're trying to do is establish a baseline pattern for normal behavior and see if there are any **deviations from that pattern**. If we see the suspect behave abnormally(i.e. packing their belongings and fleeing, revisiting the crime scence, etc.) we might have a good indicator that this is the person we're looking for that committed the crime.
 
+Although that was a simple example, this is the approach that antivirus programs and various cyber security tools are taking in the defense against malicious activity. We're far beyond just using signatures and heuristics to detect threats. For quite some time the threat landscape has shifted to more advanced viruses and malware that traditional detection tools can't pick up.
 
 
