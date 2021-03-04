@@ -20,14 +20,15 @@ This kind of approach is similar to a signature based one, with a few exceptions
 
 This is very powerful, because now we can expand our antivirus program to detect a lot more "unknown" viruses that have not been fully studied and signatured. You might be thinking, "Ok, well it sounds like we're done here," but of course we aren't. Heuristic based approaches are not perfect either. Let's say this is a heuristic for a coding structure that is malicious: A-B-C-D. If the virus creator is smart and knows that's what the antivirus looking for, they can change the coding structure: A-C-D-B. Now our antivirus program will not pick up that virus with heuristics because that pattern doesn't exist in the database.
 
-Heuristics can also generate more **false positvives** than intended. A false positive, in the context of an antivirus, is what happens when something is identified as malicious, but it actually is harmless. There are viruses out there that mimic legitimate programs, and may cause the antivirus to think that the legitimate program is harmful. The silver lining is that antiviruses that use a combnination of both signature and heuristic based techniques can stop a quite a lot of bad stuff out there. We can stil do better though. But how...?
+Heuristics can also generate more **false positvives** than intended. A false positive, in the context of an antivirus, is what happens when something is identified as malicious, but it actually is harmless. There are viruses out there that mimic legitimate programs, and may cause the antivirus to think that the legitimate program is harmful. The silver lining is that antiviruses that use a combnination of both signature and heuristic based techniques can stop a quite a lot of bad stuff out there. We can still do better though. But how...?
 
 ### Your behavior is appalling
 
-So by now you know that antivirus programs use signature and heuristic based approaches to protect you from threats out there. What other ways are left to find threats? Let's talk about **behavioral based approaches**.
+So by now you know that antivirus programs use signature and heuristic based approaches to protect you from threats out there. What other ways are left to find threats? Let's talk about **behavioral based approaches**. First, a real world sceneario:
 
-First, let's back up and think about this more practically. If you were a detective trying to pinpoint a suspect, what might you do? You could look in your database and determine whether they 
+If you were investigating a crime and had a suspect, what might you do? You could potentially look them up in the police database and see if they have committed previous similar crimes. You might also interview the suspect to try to get an idea of what they were doing around the time of the crime. But let's say there was no direct evidence linked to the suspect at the time. However, you still have your suspicions. What might you do next?
 
+You could start to analyze the suspect's behavior to see if anything throws a red flag. This could include looking at phone records, surveillence cameras, wiretaps, etc. What you're trying to do is establish a baseline pattern for normal behavior and see if there are any **deviations from that pattern**. If we see the suspect behave abnormally(i.e. packing their belongings, revisiting the crime scence, etc.) we might have a good indicator that this is the person we're looking for that committed the crime.
 
 
 
