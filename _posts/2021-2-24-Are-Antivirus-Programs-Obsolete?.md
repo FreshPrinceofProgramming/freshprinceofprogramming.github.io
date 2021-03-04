@@ -34,6 +34,6 @@ Although that was a simple example, this is the approach that some antivirus pro
 
 ### So...my antivirus program is useless?
 
-
+This is the $1 million question. No, your antivirus solution is not useless. In fact, it's probably one of your main lines of defenses when it comes to personal computer security. 
 
 
