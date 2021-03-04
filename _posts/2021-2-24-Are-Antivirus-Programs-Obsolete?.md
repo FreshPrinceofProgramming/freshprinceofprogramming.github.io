@@ -32,4 +32,8 @@ You could then start to analyze the suspect's behavior to see if anything throws
 
 Although that was a simple example, this is the approach that some antivirus programs and various cyber security tools are taking in the defense against malicious activity. We're far beyond just using signatures and heuristics to detect threats. For quite some time the threat landscape has shifted to more advanced viruses and malware that traditional detection tools can't pick up. With a behavioral based approach, we can detect more malicious activity by using advanced algorithms (i.e. machine learning and artificial intelligence) to get the job done.
 
+### So...my antivirus program is useless?
+
+
+
 
