@@ -36,6 +36,26 @@ To keep it short, the dark web can be accessed by using special software that is
 
 A question to ponder in the meantime, "Why would this software be available to download to the public if it's that bad?" All things will be explained in time...and in another article. 
 
+### Actual Dark Web websites
+
+Here are some screenshots and information about current(ish) and mostly former dark web web sites.
+
+The Hidden Wiki:
+![Hidden]({{ site.url }}{{ site.baseurl }}/assets/images/hidden.jpg)
+
+The Hidden Wiki was a place where people can come to find links to many different dark web sites hosting a variety of content. Think about it like a library of links. The singular site is since shut down, but forums like these exist in many parts of the dark web. 
+
+The Silk Road:
+![Silk]({{ site.url }}{{ site.baseurl }}/assets/images/silk.jfif)
+
+The Silk Road was a major dark web e-commerce site that specialized in the selling of illegal drugs and basically anything that people were willing to offer; fake passports, guns, etc. The deals were done in bitcoin and assured that there could be no trace back to the original buyer. It has been shut down for quite awhile after the [FBI managed to arrest the owner](https://www.usatoday.com/story/news/nation/2013/10/21/fbi-cracks-silk-road/2984921/). I recommend reading more about the site and how significant it actually was during its peak.
+
+Pink Meth:
+![Pink]({{ site.url }}{{ site.baseurl }}/assets/images/pinkmeth.png)
+
+
+
+
 ### Ok, But Does All This Really Matter?
 
 Umm...YES. People have their information compromised every day, but if we really spent all the time worrying about what was actually out there, we would curl up in a ball and cry nonstop. The best thing that we as good cyber citizens can do is at least know what is out there, but more importantly know how to protect ourselves. This brings me back to my first point at the beginning of the article. You probably have heard of some kind of "dark web scanning" offered by some security company that will inform you when your information has been seen on the dark web. This is great, but this does not protect your data once already compromised. 
