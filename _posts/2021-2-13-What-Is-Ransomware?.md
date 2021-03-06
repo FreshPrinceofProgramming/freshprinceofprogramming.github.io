@@ -45,7 +45,7 @@ This is certainly a different message being shown to us than the WannaCry exampl
 
 Nonetheless they ask you for payment in the form of either cryptocurrency or gift cards. This is where the suspicious side of you needs to kick in. The FBI would never announce an arrest of you if the charges they claimed in the details were true. They would also never ask for you money, especially a best buy gift card for example. If the FBI is out here scamming people so they could pay them money to buy electronics from best buy, we have whole bigger problem. The ridiculousness of the prompt SHOULD be proof you shouldn't pay the ransom. Even if you do pay it, there's no guarantee the hacker will unlock your files/computer. So how do you protect yourself from ransomware?
 
-### Back that A://SS up
+### Back that A:\SS up
 
 Unlike in the real world, having two of something very unique is trivial in cyber space. I can easily copy sensitive documents or entire hard drives of information and put it somewhere else. I cannot do this with a unique historical artifact for example. Having a backup of your files can make the difference between complete ruin and a simple system reimaging. Of course, backing up your files has more applications than just a reaction against ransomware. Part of having good cyber hygeine is keeping the availibility of your systems high. This way way if run an organization for example and you are hit with ransomware, you can easily reimage and transfer the backup(s) to the machine(s) involved. 
 
