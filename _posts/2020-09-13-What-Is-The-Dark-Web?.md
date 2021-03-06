@@ -53,8 +53,7 @@ The Silk Road was a major dark web e-commerce site that specialized in the selli
 Pink Meth:
 ![Pink]({{ site.url }}{{ site.baseurl }}/assets/images/pinkmeth.png)
 
-
-
+Pink Meth was a site that was dedicated to revenge porn. People would upload revealing pics of their exes for everyone else on the site to see. The exes would then be extorted into providing money otherwise their pics would get leaked to the greater internet. This site was also shut down by the FBI awhile ago, but it goes to show you that the stuff on the dark web is quite scary.
 
 ### Ok, But Does All This Really Matter?
 
