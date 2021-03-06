@@ -48,6 +48,7 @@ The Hidden Wiki was a place where people can come to find links to many differen
 
 
 The Silk Road:
+
 ![Silk]({{ site.url }}{{ site.baseurl }}/assets/images/silk.jfif)
 
 The Silk Road was a major dark web e-commerce site that specialized in the selling of illegal drugs and basically anything that people were willing to offer; fake passports, guns, etc. The deals were done in bitcoin and assured that there could be no trace back to the original buyer. It has been shut down for quite awhile after the [FBI managed to arrest the owner](https://www.usatoday.com/story/news/nation/2013/10/21/fbi-cracks-silk-road/2984921/). I recommend reading more about the site and how significant it actually was during its peak.
@@ -55,6 +56,7 @@ The Silk Road was a major dark web e-commerce site that specialized in the selli
 
 
 Pink Meth:
+
 ![Pink]({{ site.url }}{{ site.baseurl }}/assets/images/pinkmeth.png)
 
 Pink Meth was a site that was dedicated to revenge porn. People would upload revealing pics of their exes for everyone else on the site to see. The exes would then be extorted into providing money otherwise their pics would get leaked to the greater internet. This site was also shut down by the FBI awhile ago, but it goes to show you that the stuff on the dark web is quite scary.
