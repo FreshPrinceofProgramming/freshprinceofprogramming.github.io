@@ -26,7 +26,7 @@ Whenever you connect to a Wifi network, a lot has to happen in the background in
 
 Devices have to do this same kind of intro, but in a technical sense for many computer processes non-related to just accessing Wifi. However, the one thing that is passed over in this particular case during the handshake is the **preshared key**, aka the Wifi password. It turns out that if we can position ourselves inbetween the access point and a client device trying to authenticate, we can capture the handshake and try to crack the password hash that's in it. This can be done by using a wireless network card and a program capable of doing the dirty work. Let's get started...
 
-### Tools
+### Tools Used
 
 
 
