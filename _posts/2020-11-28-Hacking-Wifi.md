@@ -28,5 +28,12 @@ Devices have to do this same kind of intro, but in a technical sense for many co
 
 ### Tools Used
 
+* Operating System: Kali Linux
+* Virtualbox for emulation of Kali Linux
+* Wifite2: automated wifi hacking tool for linux systems
+* Aircrack: Wifi network security assesor 
+
+### The Attack
+
 
 
