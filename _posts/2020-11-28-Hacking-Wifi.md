@@ -30,11 +30,16 @@ Devices have to do this same kind of intro, but in a technical sense for many co
 
 * Operating System: Kali Linux
 * Virtualbox for emulation of Kali Linux
-* Wireless network card: TP-Link TL-WN722N
+* Wireless network adapter: TP-Link TL-WN722N
 * Wifite2: automated wifi hacking tool for linux systems
 * Aircrack: Wifi network security assesor 
 
 ### The Attack
+
+The first thing we'll need to do is fire up our Kali Linux box and run the wifite program. I don't believe wifite is part of Kali by default, but you can download it by [cloning their github page](https://github.com/derv82/wifite2) and following the directions. I'm assuming you'll also have a compatible wireless network adapter installed at this point. If you're unsure which one to buy [check these out](https://www.ign.com/articles/best-usb-wifi-adapter). You don't need to spend a lot of money on one.
+
+Once you have wifite installed and running, you should see this page:
+
 
 
 
