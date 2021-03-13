@@ -46,7 +46,7 @@ The great thing about wifite is that it will automatically put our wireless adap
 
 Wifite should automatically then start sniffing for wifi networks around you. Depending on the adapater you bought and where you are located, it may pull dozens of wifi networks around. Your screen should look like the following:
 
-![wifite2]({{ site.url }}{{ site.baseurl }}/assets/images/wifite2blur.png)
+![wifite2]({{ site.url }}{{ site.baseurl }}/assets/images/wifite2blur.jpg)
 
 
 
