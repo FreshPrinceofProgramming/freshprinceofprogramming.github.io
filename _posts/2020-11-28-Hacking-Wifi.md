@@ -40,6 +40,7 @@ The first thing we'll need to do is fire up our Kali Linux box and run the wifit
 
 Once you have wifite installed and running, you should see this page:
 
+![Wifite1]({{ site.url }}{{ site.baseurl }}/assets/images/wifite1.png)
 
 
 
