@@ -58,5 +58,7 @@ Continuing on, wifite will run through the wifi network lists until we give it a
 
 There's also a lot going on in this picture, but we'll break it down. Once a wifi network(s) is chosen, wifite will run attacks on the network based on the information it knows. The first attack it ran was a PMKID attack. To keep it short, this method of attack will not rely on any handshake to extract the preshared key password hash. Instead, it will try to get the hash from the access point itself. We'll skip this attack for today. Pressing Ctrl+c will move on to the next attack.
 
+Normally, in order to get a handshake we need to see client devices (i.e. phone, laptop, etc.) connect to the access point. This can be done by just waiting for a client device to come on the network, but if you're impatient there is a faster way. It turns out we can deauthenticate clients on the network and force them to reautenticate, which should give us the handshake we need.
+
 
 
