@@ -48,7 +48,7 @@ Wifite should automatically then start sniffing for wifi networks around you. De
 
 ![wifite2]({{ site.url }}{{ site.baseurl }}/assets/images/wifite2blur.jpg)
 
-For security reasons I have blurred out my neighbors' wifi networks and have only left my own. There's quite a bit to unpack here. Wifite has given me the name of the network (ESSID), the wifi channel, encryption type (WPA), signal strength, WPS enabled, and how many clients are on the network. All of this information is important in choosing to select a potential target, especially the encryption type, signal strength and if WPS is enabled.
+For security reasons I have blurred out my neighbors' wifi networks and have only left my own. There's quite a bit to unpack here. Wifite has given me the name of the network (ESSID), the wifi channel, encryption type (WPA), signal strength, if it's WPS enabled, and how many clients are on the network. All of this information is important in choosing to select a potential target, especially the encryption type, signal strength and if WPS is enabled.
 
 Our main goal is to try to hack a target wifi network in order to gain credentials into the network. The encryption type will let us know how to attack the network. The signal strength will tell us how close or far we are away from the target. We can't hack a wifi network if we're not in range. WPS is a potential seperate way to attack the wifi network and gain access, but we will touchbase on that at the end of the article. 
 
