@@ -48,6 +48,10 @@ Wifite should automatically then start sniffing for wifi networks around you. De
 
 ![wifite2]({{ site.url }}{{ site.baseurl }}/assets/images/wifite2blur.jpg)
 
+For security reasons I have blurred out my neighbors' wifi networks and have only left my own. There's quite a bit to unpack here. Wifite has given me the name of the network (ESSID), the wifi channel, encryption type (WPA), signal strength, WPS enabled, and how many clients are on the network. All of this information is important in choosing to select a potential target, especially the encryption type, signal strength and if WPS is enabled.
+
+Normall
+
 
 
 
