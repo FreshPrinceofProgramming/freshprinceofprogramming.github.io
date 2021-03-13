@@ -36,12 +36,14 @@ Devices have to do this same kind of intro, but in a technical sense for many co
 
 ### The Attack
 
-The first thing we'll need to do is fire up our Kali Linux box and run the wifite program. I don't believe wifite is part of Kali by default, but you can download it by [cloning their github page](https://github.com/derv82/wifite2) and following the directions. I'm assuming you'll also have a compatible wireless network adapter installed at this point. If you're unsure which one to buy [check these out](https://www.ign.com/articles/best-usb-wifi-adapter). You don't need to spend a lot of money on one, but if you want to do a variety of hacks it will need to be a card that you can put into "monitor mode," and a card capable of packet injection. 
+The first thing we'll need to do is fire up our Kali Linux box and run the wifite program. I don't believe wifite is part of Kali by default, but you can download it by [cloning their github page](https://github.com/derv82/wifite2) and following the directions. I'm assuming you'll also have a compatible wireless network adapter installed at this point. If you're unsure which one to buy [check these out](https://www.ign.com/articles/best-usb-wifi-adapter). You don't need to spend a lot of money on one, but if you want to do a variety of hacks it will need to be an adapter that you can put into "monitor mode," and capable of packet injection. 
 
 Once you have wifite installed and running, you should see this page:
 
 ![Wifite1]({{ site.url }}{{ site.baseurl }}/assets/images/wifite1.png)
 
-The great thing about Wig
+The great thing about wifite is that it will automatically put our wireless adapter into monitor mode. You can think of monitor mode like being able to listen to everything around you. The wireless adapter will be listening around to see which wireless networks are out there. You can put your adapater in and out of monitor mode as you see fit, but for these next few steps you'll need to keep it on.
+
+Once you've
 
 
