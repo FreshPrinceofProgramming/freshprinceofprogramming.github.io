@@ -52,6 +52,9 @@ For security reasons I have blurred out my neighbors' wifi networks and have onl
 
 Our main goal is to try to hack a target wifi network in order to gain credentials into the network. The encryption type will let us know how to attack the network. The signal strength will tell us how close or far we are away from the target. We can't hack a wifi network if we're not in range. WPS is a potential seperate way to attack the wifi network and gain access, but we will touchbase on that at the end of the article. 
 
-Continuing on, wifite will run through the wifi network lists until we give it a command to stop. If you press Ctrl-c, that should stop the search. You will then be asked to enter the number of the wifi network that you want to attack. Be careful, as you probably don't want to hack every wifi network in range. In this case, our network is located #6 on the list (channel of wifi has nothing to do with this number).
+Continuing on, wifite will run through the wifi network lists until we give it a command to stop. If you press Ctrl-c, that should stop the search. You will then be asked to enter the number of the wifi network that you want to attack. Be careful, as you probably don't want to hack every wifi network in range. In this case, our network is located #6 on the list (channel of wifi has nothing to do with this number). Entering in 6 will bring up this screen:
+
+![wifite3]({{ site.url }}{{ site.baseurl }}/assets/images/wifite3blur.jpg)
+
 
 
