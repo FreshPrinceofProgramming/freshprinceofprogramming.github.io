@@ -61,4 +61,6 @@ There's also a lot going on in this picture, but we'll break it down. Once a wif
 Normally, in order to get a handshake we need to see client devices (i.e. phone, laptop, etc.) connect to the access point. This can be done by just waiting for a client device to come on the network, but if you're impatient there is a faster way. It turns out we can deauthenticate clients on the network and force them to reautenticate, which should give us the handshake we need.
 
 
+**Warning:** From here on out we will refer to the message we want to encrypt (in its non-encrypted form) as **plaintext**, and the encrypted form of the message as **ciphertext.**
+{: .notice--danger}
 
