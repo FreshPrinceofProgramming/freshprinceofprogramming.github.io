@@ -44,6 +44,11 @@ Once you have wifite installed and running, you should see this page:
 
 The great thing about wifite is that it will automatically put our wireless adapter into monitor mode. You can think of monitor mode like being able to listen to everything around you. The wireless adapter will be listening around to see which wireless networks are out there. You can put your adapater in and out of monitor mode as you see fit, but for these next few steps you'll need to keep it on.
 
-Once you've
+Wifite should automatically then start sniffing for wifi networks around you. Depending on the adapater you bought and where you are located, it may pull dozens of wifi networks around. Your screen should look like the following:
+
+![wifite2]({{ site.url }}{{ site.baseurl }}/assets/images/wifite2blur.png)
+
+
+
 
 
