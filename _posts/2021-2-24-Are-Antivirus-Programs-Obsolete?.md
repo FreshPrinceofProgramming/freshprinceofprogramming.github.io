@@ -4,7 +4,7 @@ categories:
   - Privacy, Security & Safety
 ---
 
-As you're probably aware, cyber security has largely been commodified, which means there's a whole bunch of products that companies are selling to try to get you to enhance your cyber security posture. This includes things like antivirus software. But is antivirus software still relevant in 2021? And if so, which one should you buy? In this article, we'll go through what exactly these programs do to protect you, if you should buy one and the larger implications they have on cyber security. 
+It's no surprise that cyber security has largely been commodified, which means there's a whole bunch of products that companies are selling to try to get you to enhance your cyber security posture. This includes things like antivirus software. But is antivirus software still relevant in 2021? And if so, which one should you buy? In this article, we'll go through what exactly these programs do to protect you, if you should buy one and the larger implications they have on cyber security. 
 
 ### Can I have your signature?
 
@@ -12,7 +12,7 @@ In order for an antivirus program to be successful it needs to catch viruses. We
 
 Malware/virus researchers will try to reverse engineer a new virus they see, figure out its behavior and then create a signature for it. You can think of a signature like a footprint or some other labeling that can help to identify it in the future. A signature is usually made up of particular data points in the virus code that could contain the malicious behavior. The signature is then put into a database of other known viruses of the antivirus program. If this virus is seen in the future by the program, it will know to block it and/or remove it from your computer. 
 
-This is a great way to approach the problem of needing to block known threats. However, this is not useful if a new virus is introduced that has no signature in the database. You can probably imagine the amount of viruses that have no signature are pretty high. This is where signature based detection falls short. The databases for signatures are also constantly growing, so it is crucial to consistently have your antivirus progrm updated. As we can see, it's not feasible to keep this method as a main line of defense. How can we enhance our detection capabilities?  
+This is a great way to approach the problem of needing to block known threats. However, this is not useful if a new virus is introduced that has no signature in the database. You can probably imagine the amount of viruses that have no signature are pretty high. This is where signature based detection falls short. The databases for signatures are also constantly growing. This makes it crucial to consistently have your antivirus progrm updated, which is by virtue of how often the antivirus program chooses to update itself. As we can see, it's not feasible to keep this method as a main line of defense. How can we enhance our detection capabilities?  
 
 What if we could modify our antivirus to look at the suspected virus from the inside out? Remember, a virus is just computer code that has the rules and properties for how that particular virus is going to function. We could have the antivirus program analyze the coding structure and decide whether or not it is malicious based on what it finds. This is called a **heuristic based approach**. 
 
