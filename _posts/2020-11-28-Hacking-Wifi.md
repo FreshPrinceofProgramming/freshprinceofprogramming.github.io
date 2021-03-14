@@ -58,9 +58,16 @@ Continuing on, wifite will run through the wifi network lists until we give it a
 
 There's also a lot going on in this picture, but we'll break it down. Once a wifi network(s) is chosen, wifite will run attacks on the network based on the information it knows. The first attack it ran was a PMKID attack. To keep it short, this method of attack will not rely on any handshake to extract the preshared key password hash. Instead, it will try to get the hash from the access point itself. We'll skip this attack for today. Pressing Ctrl+c will move on to the next attack.
 
-Normally, in order to get a handshake we need to see client devices (i.e. phone, laptop, etc.) connect to the access point. This can be done by just waiting for a client device to come on the network, but if you're impatient there is a faster way. It turns out we can deauthenticate clients on the network and force them to reautenticate, which should give us the handshake we need.
+In order to get a handshake we need to see client devices (i.e. phone, laptop, etc.) connect to the access point. This can be done by just waiting for a device to come on the network, but if you're impatient there is a faster way. It turns out we can deauthenticate clients on the network and force them to reauthenticate, which should give us the handshake we need.
 
 
 **Warning:** This is the part of the hack that will get you into trouble. Technically, kicking someone off the network is considered a **denial of service** attack, and may interrupt necessary processes. This is also a very "loud" attack and system admins will be able to see this. Use with caution.
 {: .notice--danger}
+
+While waiting for client devices to join, wifite will attempt to deauthenticate devices on the network every 30 seconds. You can see in the picture that it's found 2 devices, and has captured a handshake. Once it has captured the handshake, it will try to start cracking it using a pre-existing dictionary file of plaintext passwords. For some reason when I tried doing it through wifite it wasn't able to crack it. No worries though, we have other programs that can help us out.
+
+We can use aircrack-ng to help us crack the password hash. You can run aircrack-ng with the -w option, which will take the path of the wordlist we want to use AND the path of the .cap file which contains the handshake. I used the same wordlist that wifite comes with just for consistency. We can see the results below:
+
+![aircrackblur]({{ site.url }}{{ site.baseurl }}/assets/images/aircrackblur.jpg)
+
 
