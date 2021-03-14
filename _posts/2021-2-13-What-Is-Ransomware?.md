@@ -55,7 +55,7 @@ Whether you choose to use a physical backup or cloud, you should make sure those
 
 Pros
 1. You own the device, which means nobody else can manipulate it unless they have physical access to it
-2. It is speedier to read/write from disk than over the internet with the cloud
+2. It is usually speedier to read/write from disk than download and upload over the internet with the cloud
 
 Cons
 1. If your only physical backup is compromised(breaks, stolen, etc.), you're screwed
