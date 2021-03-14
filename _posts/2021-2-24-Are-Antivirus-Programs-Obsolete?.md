@@ -34,6 +34,13 @@ Although that was a simple example, this is the approach that some antivirus pro
 
 ### So...my antivirus program is useless?
 
-This is the $1 million question. No, your antivirus solution is not useless. In fact, it's probably one of your main lines of defenses when it comes to personal computer security. 
+No, your antivirus solution is not useless. In fact, it's probably one of your main lines of defenses when it comes to personal computer security. I've mentioned in a previous article about **defense-in-depth**, which is essentially a strategy for securing your network at various levels. For individuals, having endpoint security (i.e. antivirus) has been the most basic form of cyber security that has been available to us for quite awhile. Companies like Norton and McAfee have been leaders in the antivirus software space for over 30 years. 
 
+If you want to protect your devices from common types of malware and virues, an antivirus program is definitely needed. The market has grown significantly to the point where there are antivirus programs for all operating systems(windows, mac, linux) and device types (laptop, phone, etc.). Doing a bit of research, you can find the right antivirus program for you. Many companies will also include extra things like VPN, password managers and firewalls in addition to the antivirus program. We've gone over some of those topics in other articles ;)
+
+The hard truth is that antivirus programs will not be able to stop everything. However, when it comes to evaluating risk and forming depth in your defenses, they are pretty damn good at what they do. [Here is a website](https://www.av-comparatives.org/) that evaluates different vendors and scores them based on their performance. You can get a sense of which antivirus programs are worth buying and how they stacked up against each other. As always, using proper cyber hygiene will reduce the risk of running into viruses out there on the internet. 
+
+Hopefully after reading this article you have a better sense of how antivirus software works. As new threats emerge, the market for these kinds of programs will have to shift to match the needs for cyber security. The technology itself wlll also have change to address these threats and properly be able to stop them from happening. Proactive threat responses are becoming normalized in the industry, whereas reactive responses are struggling to have a seat at the table. This isn't to say that reactive technology is useless, but more needs to be implemented to properly secure systems going forward in the future. 
+
+Thank you for reading! 
 
