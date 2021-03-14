@@ -47,7 +47,7 @@ Nonetheless they ask you for payment in the form of either cryptocurrency or gif
 
 ### Back that A:\SS up
 
-Unlike in the real world, having two of something very unique is trivial in cyber space. I can easily copy sensitive documents or entire hard drives of information and put it somewhere else. I cannot do this with a unique historical artifact for example. Having a backup of your files can make the difference between complete ruin and a simple system reimaging. Of course, backing up your files has more applications than just a reaction against ransomware. Part of having good cyber hygeine is keeping the availibility of your systems high. This way way if run an organization for example and you are hit with ransomware, you can easily reimage and transfer the backup(s) to the machine(s) involved. 
+Unlike in the real world, having two of something very unique is trivial in cyber space. I can easily copy sensitive documents or entire hard drives of information and put it somewhere else. I cannot do this with a historical artifact for example. Having a backup of your files can make the difference between complete ruin and a simple system reimaging. Of course, backing up your files has more applications than just a reaction against ransomware. Part of having good cyber hygeine is keeping the availibility of your systems high. This way way if you run an organization and are hit with ransomware, you can easily reimage and transfer the backup(s) to the machine(s) involved. 
 
 Whether you choose to use a physical backup or cloud, you should make sure those are kept properly secure:
 
@@ -55,17 +55,17 @@ Physical Backup(i.e external hard drive)
 
 Pros
 1. You own the device, which means nobody else can manipulate it unless they have physical access to it
-2. You can buy hard drives for cheap nowadays
+2. It is speedier to read/write from disk than over the internet with the cloud
 
 Cons
 1. If your only physical backup is compromised(breaks, stolen, etc.), you're screwed
-2. No guarantee it will be fast recovery process
+2. You many have to add more hardware to keep up with storage needs, which may be costly
 
 Cloud Backup(Google, Dropbox, etc.)
 
 Pros
 1. Data can be accessed from anywhere that has internet access
-2. Buy the exact data storage you want, which may be very cheap
+2. You don't have to manage your own hardware infrastructure, and simply pay a monthly fee for however much cloud storage you need
 
 Cons
 1. If the internet is not accessible, you cannot access your data
