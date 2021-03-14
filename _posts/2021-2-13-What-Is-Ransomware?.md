@@ -71,11 +71,11 @@ Cons
 1. If the internet is not accessible, you cannot access your data
 2. Subject to potential cloud storage vulnerabilites on the internet
 
-For individuals, backuping your important files such as photos or messages might just be as simple as using iCloud. For companies, a lot more needs to be put into the backup and recovery process. This is why it is pivital that there is a plan of action in case of emergencies such as ransomware or a natural disaster. 
+For individuals, backuping your important files such as photos or messages might just be as simple as using iCloud or another program. You can also buy an extended hard drive for your personal computer and backup all important files to it if you prefer having physical storage. For companies, a lot more needs to be put into the backup and recovery process. Ideally, using a hybrid method of physical and cloud storage is the preffered way to go. Data loss, in most cases, is a company's highest priority. This is why it is pivital that there is a plan of action in case of emergencies such as ransomware or a natural disaster. 
 
 ### Wear a mask!
 
-Ok maybe you can't prevent a computer from getting a virus by putting a mask on it, but you can with an anti-virus/malware program. Over the years it has been increasingly difficult for anti-virus software to keep up with the number of threats out there. However, having an anti-virus program of some sort will still protect you from known threats, which is always a good thing. I'll have a more in depth article about what a virus is in general, but for now you can trust that you need anti-virus sofware as endpoint proctection in some capacity.
+Ok maybe you can't prevent a computer from getting a virus by putting a mask on it, but you can with an antivirus/malware program. Over the years it has been increasingly difficult for antivirus software to keep up with the number of threats out there. However, having an antivirus program of some sort will still protect you from known threats, which is always a good thing. I'll have a more in depth article about what a virus is in general, but for now you can trust that you need antivirus sofware as endpoint proctection in some capacity.
 
 ### Don't touch that
 
