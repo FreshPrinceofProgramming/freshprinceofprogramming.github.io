@@ -70,4 +70,10 @@ We can use aircrack-ng to help us crack the password hash. You can run aircrack-
 
 ![aircrackblur]({{ site.url }}{{ site.baseurl }}/assets/images/aircrackblur.jpg)
 
+We can see towards the bottom that the key was found. It took less than 1 second to run through 4240 keys in the wordlist to find the matching password. Now we can log into the wifi network and start doing...things ;) 
+
+### Conclusion
+
+So now we've seen how easy it is to hack wifi. This doesn't take an overly skilled person to pull off, and it doesn't have to take a lot of time to accomplish. In this particular example I had already added my wifi network password to the wordlist. This made sure it was going to be found. However, we could have also used other password cracking programs to do a **brute force** attack against the handshake file. There are many possibilities.
+
 
