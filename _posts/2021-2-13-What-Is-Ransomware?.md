@@ -51,7 +51,7 @@ Unlike in the real world, having two of something very unique is trivial in cybe
 
 Whether you choose to use a physical backup or cloud, you should make sure those are kept properly secure:
 
-Physical Backup(i.e external hard drive)
+**Physical Backup(i.e external hard drive)**:
 
 Pros
 1. You own the device, which means nobody else can manipulate it unless they have physical access to it
@@ -61,7 +61,7 @@ Cons
 1. If your only physical backup is compromised(breaks, stolen, etc.), you're screwed
 2. You many have to add more hardware to keep up with storage needs, which may be costly
 
-Cloud Backup(Google, Dropbox, etc.)
+**Cloud Backup(Google, Dropbox, etc.)**:
 
 Pros
 1. Data can be accessed from anywhere that has internet access
