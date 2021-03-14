@@ -8,3 +8,4 @@ I didn't know at first how I wanted to structure this site, but I knew I wanted 
 
 If there are any specific topics you want me to cover, just let me know! Happy hacking! 
 
+![ed]({{ site.url }}{{ site.baseurl }}/assets/images/ed.gif)
