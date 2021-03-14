@@ -76,6 +76,12 @@ We can see towards the bottom that the key was found. It took less than 1 second
 
 So now we've seen how easy it is to hack wifi. This doesn't take an overly skilled person to pull off, and it doesn't have to take a lot of time to accomplish. In this particular example I had already added my wifi network password to the wordlist. This made sure it was going to be found. However, we could have also used other password cracking programs to do a **brute force** attack against the handshake file. There are many possibilities.
 
-The big question though is "Why would anyone hack my wifi?" And for all intents and purposes, you more than likely don't have to worry this will happen....that is if you use long and complex passwords for all of your logins. Once a hacker has a handshake file, they no longer have to be online or near your access point to crack the password. They can take all of the time they need to crack the hash elsewhere. However, there's no way they're cracking a 20 character alphanumeric password with symbols in this lifetime, even with a powerful computer. 
+The big question though is, "Why would anyone hack my wifi?" 
+
+The reason why people would hack wifi are all for different purposes. And more than likely don't have to worry this will happen....that is if you use long and complex passwords for all of your logins. Once a hacker has a handshake file, they no longer have to be online or near your access point to crack the password. They can take all of the time they need to crack the hash elsewhere. However, there's no way they're cracking a 20 character alphanumeric password with symbols in this lifetime, even with a powerful computer.
 
 Having weak wifi authentication can cause unwanted devices potentially on your network that could eat up bandwidth and/or be malicious in intent. For home networks, securing your wifi connection can be as easy as logging into your router and changing the password. If you don't know how to do that, google is your friend. You also are going to want to **turn off WPS** if it is enabled. We breifly mentioned WPS when we saw that wifite told us whether WPS was enabled or not. To keep it brief, WPS is another way to access a wifi network. There is an 8 digit pin number that needs to be used in order to authenticate using WPS. It turns out that there are attacks against this in order to brute force the 8 digit code. Turn it off! 
+
+Hopefully after reading this article you have a better sense of some tools used IRL to hack wifi, and how you can protect yourself at home. Thanks for reading!
+
+**small note**: no that is not the name or password of my current wifi...in case it wasn't obvious :P
