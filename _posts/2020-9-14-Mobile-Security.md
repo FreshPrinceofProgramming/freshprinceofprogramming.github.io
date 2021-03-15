@@ -49,9 +49,13 @@ Ah good ol' app permissions. They're the reason why apps have information such a
 
 Data privacy concerns have been at the forefront of cyber security for quite some time. Every so often you'll see Facebook, Google or (enter your favorite tech company) in the news about some kind of [data privacy violation or change](https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/#:~:text=What%20is%20the%20Facebook%20data,strategic%20communication%20firm%20Cambridge%20Analytica.) that affects its users. This goes far beyond what's just on your phone. When it comes to making apps, phones need to ask for your permission to access certain kinds of information it can use for certain features (i.e. the camera). This is where things get dicey.
 
-I'm sure we've all seen screens that look like this on our phones:
+I'm sure we've all seen screens that look like this on our phones(andriod users we'll get to you in a second):
 
 ![location]({{ site.url }}{{ site.baseurl }}/assets/images/map.png)
+
+You can replace "Maps" with any other app that uses your location. If you click "allow," you have essentially given the app permission to see where you are in the world. This goes for any other permission that you allow. Apps appear to have more invasive permissions that they immediately need as compared to their desktop equivalent. For example, facebook the website does not require full access to your photos on your local desktop in order for you upload something. However, the app does require access to all of your photos. 
+
+Apple has more or less always been upfront about which permissions it needs when an app is requesting them for use. Android has not always followed suit. Luckily, android has changed their permissions scheme as of version 6.0. In previous versions, the user would have to allow ALL permissions in order to use the app, which is problematic. Both companies have significantly improved the way in which they allow users to control which permissions the apps are allowed to have.
 
 
 
