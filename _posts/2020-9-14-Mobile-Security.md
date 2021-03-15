@@ -45,7 +45,14 @@ Needless to say, I don't think jailbreaking or rooting will be a problem for mos
 
 ### App Permissions
 
-Ah good ol' app permissions. They keep our applications running seamlessly. But what if apps have too many permissions? What is a permission you ask? 
+Ah good ol' app permissions. They're the reason why apps have information such as your GPS location, phone contacts and mic/camera access. Although these permissions seem like a no brainer when it comes to what these apps need, they too present risk. Let's pretend that the app you're using is pretty secure. This means that there are little to no major vulnerabilities that can be exploited practically by a hacker. However, there are still privacy concerns that you may need to be weary of. 
+
+Data privacy concerns have been at the forefront of cyber security for quite some time. Every so often you'll see Facebook, Google or (enter your favorite tech company) in the news about some kind of [data privacy violation or change](https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/#:~:text=What%20is%20the%20Facebook%20data,strategic%20communication%20firm%20Cambridge%20Analytica.) that affects its users. This goes far beyond what's just on your phone. When it comes to making apps, phones need to ask for your permission to access certain kinds of information it can use for certain features. This is where things get dicey.
+
+I'm sure we've all seen screens that look like this on our phones:
+
+![location]({{ site.url }}{{ site.baseurl }}/assets/images/map.png)
+
 
 
 
