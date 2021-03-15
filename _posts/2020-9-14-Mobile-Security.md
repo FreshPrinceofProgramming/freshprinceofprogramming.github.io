@@ -8,17 +8,14 @@ Phone technology has transformed dramatically in the last 10-15 years. Not only 
 
 ### Most of the Same
 
-It's no secret that modern phones are just computers will satellite calling capabilities. That's literally it. It functions in many similiar ways to a laptop or a PC. You have programs/apps, an operating system and internet access at the very least. Unfortunately, this opens us up to a lot of the same vulnerabilities we see more traditionally with PC's or laptops. All a hacker has to do is find that one place where security is lacking and you could potentially be compromised. Let's explore some common places where we might see points of entry on a phone, and what you can do to keep yourself safe.
+Modern phones are just computers will satellite calling capabilities. That's literally it. It functions in many similiar ways to a laptop or a PC. You have programs/apps, an operating system and internet access at the very least. Unfortunately, this opens us up to a lot of the same vulnerabilities we see more traditionally with PC's or laptops. All a hacker has to do is find that one place where security is lacking and you could potentially be compromised. Let's explore some common places where we might see points of entry on a phone, and what you can do to keep yourself safe.
 
 ### The Internet
 
-I think this is probably the most self explanatory. I remember the days when cell phones didn't have internet, or if they did it cost extra money to use it, so nobody used it haha. This notion of being able to access anything online was only really relevant for laptops and desktops. Now our phones can connect to the internet with ease, and all phones require some type of internet connection to even be able to update their software and do most functions. It's the new normal, and has been so for quite some time. This means that you can run into malicious websites, like you would on a laptop or desktop. 
+I think this is probably the most self explanatory. I remember the days when cell phones didn't have internet, or if they did it cost extra money to use it, so nobody used it haha. This notion of being able to access anything online was only really relevant for laptops and desktops. Now our phones can connect to the internet with ease, and all phones require some type of internet connection to even be able to update their software and do most functions. This means that you can run into a variety of malicious content on the internet through your phone.
 
-The number of bad things out there waiting for your device to download them is unimaginable. The one saving grace of mobile phones on the internet though is probably the fact that if you are going to get a virus of some kind, it's not going to be easy for these things to make it on your phone. All viruses/malware are not universally compatible with every device. What may be able to harm your desktop, may not necessarily be able to affect your mobile device. 
+Adware, spyware and malware are all still fair game, even on mobile devices. All it takes is a visit to the wrong website, and you could inadvertently download one of these viruses. For the most part, I'd say it is pretty hard to get one of these on your phone unless you have poor cyber hygeine. It can be tempting to click on all the things your phone screen is showing, but visting legitimate sites and downloading from trusted sources reduces risk. 
 
-Because viruses are specifically tailored to exploit certain programs on certain operating systems, I'd say it's quite hard to get one on your device. Now of course you can inadvertently download something through being phished through email for example, or download a sketcky app, but as long as you use some common sense it's not going to be something to worry too deeply about.
-
-This leads me to my next point.
 
 ### Application/Software Updates
 
