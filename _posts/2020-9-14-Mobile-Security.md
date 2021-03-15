@@ -43,7 +43,11 @@ In contrast, let's say that you have a rooted or jailbroken phone. Instead of us
 
 Needless to say, I don't think jailbreaking or rooting will be a problem for most users, but this is just another avenue for hackers to potentially get ahold of your device. I don't recommend it, but if you do decide to root or jailbreak your phone, please make sure you're as safe as possible. There are forums and guides out there that you can follow that are legitimate, and will guide you in the right direction. 
 
-### Phone Permissions
+### App Permissions
+
+Ah good ol' app permissions. They keep our applications running seamlessly. But what if apps have too many permissions? What is a permission you ask? 
+
+
 
 
 
