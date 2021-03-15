@@ -111,7 +111,7 @@ Can you figure out what I was doing on Amazon? No, and that's the point. I used 
 
 ### Putting it all together 
 
-In the grand scheme of keeping things private, cryptography has a long history of people coming up with ways to securely be able to implement ways of doing so. In modern computing, it has allowed the secure transfer of data between unknown parties and has kept us relatively safe. However, encryption itself isn't completely secure. Think of it as a tool to achieve some goal. With any tool, if it's used properly you will see great results. But if used improperly, it can present high risk of being potentially exposed. 
+In the grand scheme of keeping things private, cryptography has a long history of people coming up with ways to securely be able to implement ways of doing so. In modern computing, it has allowed the secure transfer of data between unknown parties and has kept us relatively safe. However, encryption itself isn't completely secure. Think of it as a tool to achieve some goal. With any tool, if it's used properly you will see great results. But if used improperly, it can present high risk of being potentially exposed and therefore useless. 
 
 Encryption is like a two-way sword; when it works, it really works. But that may mean it works too well in cases where you need to possibly get beyond the encryption to access certain information. Let me give an example: 
 
