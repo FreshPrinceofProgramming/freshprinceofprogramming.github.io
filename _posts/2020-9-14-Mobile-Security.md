@@ -49,7 +49,7 @@ Ah good ol' app permissions. They're the reason why apps have information such a
 
 Data privacy concerns have been at the forefront of cyber security for quite some time. Every so often you'll see Facebook, Google or (enter your favorite tech company) in the news about some kind of [data privacy violation or change](https://www.techrepublic.com/article/facebook-data-privacy-scandal-a-cheat-sheet/#:~:text=What%20is%20the%20Facebook%20data,strategic%20communication%20firm%20Cambridge%20Analytica.) that affects its users. This goes far beyond what's just on your phone. When it comes to making apps, phones need to ask for your permission to access certain kinds of information it can use for certain features (i.e. the camera). This is where things get dicey.
 
-I'm sure we've all seen screens that look like this on our phones(andriod users we'll get to you in a second):
+If you have an Iphone, I'm sure you've seen this screen:
 
 ![location]({{ site.url }}{{ site.baseurl }}/assets/images/map.png)
 
