@@ -55,7 +55,13 @@ I'm sure we've all seen screens that look like this on our phones(andriod users 
 
 You can replace "Maps" with any other app that uses your location. If you click "allow," you have essentially given the app permission to see where you are in the world. This goes for any other permission that you allow. Apps appear to have more invasive permissions that they immediately need as compared to their desktop equivalent. For example, facebook the website does not require full access to your photos on your local desktop in order for you upload something. However, the app does require access to all of your photos. 
 
-Apple has more or less always been upfront about which permissions it needs when an app is requesting them for use. Android has not always followed suit. Luckily, android has changed their permissions scheme as of version 6.0. In previous versions, the user would have to allow ALL permissions in order to use the app, which is problematic. Both companies have significantly improved the way in which they allow users to control which permissions the apps are allowed to have.
+Apple has more or less been upfront about which permissions it needs when an app is requesting them for use. Android has not always followed suit. Luckily, android has changed their permissions scheme as of version 6.0. In previous versions, the user would have to allow ALL permissions in order to use the app, which is problematic. Both companies in general have significantly improved the way in which they allow users to control which permissions the apps are allowed to have. 
+
+It's very important to look and see which permissions are needed for certain apps. For example, if you're downloading a calculator app, there's no good reason it needs to know your location and/or contact information. As we deal with more complicated applications, we need to do our due diligence in understanding what is happening with our data on these apps. I'm willing to bet none of us have ever read the privacy policy that companies make available. I sure as hell haven't. This creates an implicit trust that we give to companies in how they are managing our data.
+
+Hopefully after reading this article you have a better sense of mobile security from a practicial standpoint. There are many layers involved in protecting our data on our phones, but if we can do the bare minimum, we'll be able to thwart most attacks. Obviously, there are more ways than described in this article to do so, but that's where the outside research part comes in. Good luck!
+
+Thank you for reading! 
 
 
 
