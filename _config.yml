@@ -49,7 +49,7 @@ include:
 #   - vendor/ruby/
 
 # Plugins (previously gems:)
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
