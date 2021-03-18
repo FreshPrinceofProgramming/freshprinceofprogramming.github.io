@@ -22,10 +22,10 @@ If we can manage to come up with a way to maintain the integrity of data in cybe
 
 If you can't tell what the password is, then good(Hint: it's 'password'). As a matter of fact, this is what your password is converted to when it is stored on a database. This gibberish is called a **hash**. A hash is an alphanumeric string that is a mathematical representation of a piece of data. Hash algorithms are **one-way functions** that will take in some input and output a string. This is different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). There are many different hashing algorithms in existence. The above example is called an [MD5 hash](https://searchsecurity.techtarget.com/definition/MD5). 
 
-Hashes have important properities that they must abide by in order to be considered secure:
+Hashes have certain properities that they must abide by in order to be considered secure:
 
 * Given a hash, it should be computationally difficult to decipher the original data. Remember, hashes are one way functions. There is no "dehash" method.
-* Hashing should **always** produce unique strings. This means that given 2 unique inputs, the resulting hashes should be different. Even if one character of data is changed, the hash will be different. 
+* Given a hash, it should be hard to find a different input with the same resulting hash. Hashing is unique in the fact that adding or subtracting even one 1 byte of data from the input can dramatically change the entire hash string output.
 
 There are other properties to hashes, but we will focus on these two.
 
@@ -49,14 +49,12 @@ Wow that was just the first property. All this hacking and failing may leave the
 
 ### Password: CanYouPassTheSalt?156*&
 
-The second property is where things get tricky. Maybe while reading this you thought, "Well ok, if hashing is supposed to produce different strings, what if two people share the same password? Wouldn't the hashes be the same?" And you're right! They would be the same. How do we fix this?
-
-In order to make the second property hold, we need to get a bit creative. We know a couple of things about hashes already that can help us out. We know that any slight change to a string is going to dramatically change the entire hash. We also know that from the first property it should be difficult to decipher the orginal message. In the case where two people have the same password, which is more common than you think, the original hashes produced will be the same.
+The second property is where things get tricky. Imagine you had a password database full of hashes. It wouldn't be unfair to say that at least two people more than likely share the same password. How could you tell? If you trust the second property holds, you know that if you happen to see at least two of the same hash, it probably means it's the same exact input. This means a hacker could see this as well. Obviosuly, this is bad. Let's look at the case where Alice and Bob share the same password:
 
 * Alice's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 * Bob's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 
-If a hacker compromised this database and saw two or more matching hashes, they know that if they crack the hash they now have access to an X amount of accounts. In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. What we could do to change the hashes is add a bit of **salt**(some pre-computed value) to the original password in order to change the hash entirely. We can prepend OR append this value to the original password.
+In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. How can we address this issue of two people sharing the same password? Trusting the second property again, what we could do to change the hashes is add a bit of **salt**(some pre-computed value) to the original password in order to change the hash entirely. Remember, adding just 1 byte of data to the input will change the hash. We can prepend OR append this value to the original password.
 
 * Salt value: dontcrackme3456
 * Alice's password with salt: (dontcrackme3456password) 760271f1349c0484a4ecaf53e161253e
@@ -65,6 +63,8 @@ If a hacker compromised this database and saw two or more matching hashes, they 
 As we can now see, we've effectively solved the problem of two people sharing the same password. In Alice's case, the salt value was prepended to her password, whereas Bob's was appended. Both hashes are different, and there's no way a hacker would be able to know these two people shared the same password, let alone use a dictionary or brute force attack in any reasonable time to crack the password. Take that statement with a grain of salt...haha ;) 
 
 This example was pretty simple and defintely not indicative of any real industry security standard for actual salt + hashing techniques for safely storing passwords. However, this is what SHOULD happen to your password on the backend when you create one for a websie. Different salts are used for every user and are generated randomly and securely. This is why password cracking is incredibly difficult, but not impossible. 
+
+If you're interested.
 
 ### Ok...but is my password safe?
 
