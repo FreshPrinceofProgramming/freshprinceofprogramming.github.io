@@ -64,8 +64,6 @@ As we can now see, we've effectively solved the problem of two people sharing th
 
 This example was pretty simple and defintely not indicative of any real industry security standard for actual salt + hashing techniques for safely storing passwords. However, this is what SHOULD happen to your password on the backend when you create one for a websie. Different salts are used for every user and are generated randomly and securely. This is why password cracking is incredibly difficult, but not impossible. 
 
-If you're interested.
-
 ### Ok...but is my password safe?
 
 Whew...ok now we get to the actual point of the article. The answer is, it depends....
