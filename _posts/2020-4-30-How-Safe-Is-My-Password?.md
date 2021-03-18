@@ -49,7 +49,7 @@ Wow that was just the first property. All this hacking and failing may leave the
 
 ### Password: CanYouPassTheSalt?156*&
 
-The second property to hashing also seems pretty straigtforward, but maybe while reading this you thought of the question, "Well ok, if hashing is supposed to produce different strings, what if two people share the same password? Wouldn't the hashes be the same?" And you're right! They would be the same. How do we fix this?
+The second property is where things get tricky. Maybe while reading this you thought, "Well ok, if hashing is supposed to produce different strings, what if two people share the same password? Wouldn't the hashes be the same?" And you're right! They would be the same. How do we fix this?
 
 In order to make the second property hold, we need to get a bit creative. We know a couple of things about hashes already that can help us out. We know that any slight change to a string is going to dramatically change the entire hash. We also know that from the first property it should be difficult to decipher the orginal message. In the case where two people have the same password, which is more common than you think, the original hashes produced will be the same.
 
