@@ -2,6 +2,8 @@
 title: "Are Antivirus Programs Obsolete?"
 categories:
   - Privacy, Security & Safety
+header:
+  image: assets/images/beback2.jpg
 ---
 
 It's no surprise that cyber security has largely been commodified. This means there's a whole bunch of products that companies are selling to try to get you to enhance your cyber security posture. This includes things like antivirus software. But is antivirus software still relevant in 2021? And if so, which one should you buy? In this article, we'll go through what exactly these programs do to protect you, if you should buy one and the larger implications they have on cyber security. 
