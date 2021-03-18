@@ -31,7 +31,7 @@ There are other properties to hashes, but we will focus on these two.
 
 ### Password: BruteForce/DictionaryAttack45@@@
 
-The first property seems pretty straightforward. Nobody should be able to dicipher the orginal message given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and compare known hash values to their corresponding plaintext strings. 
+The first property seems pretty straightforward. Nobody should be able to dicipher the orginal data given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and compare known hash values to their corresponding plaintext strings. 
 
 Let's say a hacker was able to obtain hundreds of hashed passwords from a database. The goal is to try to crack these passwords in order to obtain the true password for a given username. Typical hacker business. The hacker sees the hash for 'password' (5f4dcc3b5aa765d61d8327deb882cf99) in the database. How do they crack it? Well, one thing they could do is generate hashes in real time of every possible combination of letters/symbols. They then could compare the hash that they're trying to crack with one of the hashes they just generated. When it matches, they can see which plaintext combination caused the hit. This is called a **brute force** attack. It's exactly how it sounds. You're going to try EVERY single combination in order to eventually get the result you want. 
 
