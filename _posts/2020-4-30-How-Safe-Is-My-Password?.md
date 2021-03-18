@@ -20,7 +20,7 @@ If we can manage to come up with a way to maintain the integrity of data in cybe
 
 ### Password: 5f4dcc3b5aa765d61d8327deb882cf99
 
-If you can't tell what the password is, then good(Hint: it's 'password'). As a matter of fact, this is what your password is converted to when it is stored on a database. This gibberish is called a **hash**. A hash is an alphanumeric string that is a mathematical representation of a piece of data. Hash algorithms are **one-way functions** that will take in some input and output a string. This is different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). There are many different hashing algorithms that exist to serve this purpose. The above example is called an MD5 hash. 
+If you can't tell what the password is, then good(Hint: it's 'password'). As a matter of fact, this is what your password is converted to when it is stored on a database. This gibberish is called a **hash**. A hash is an alphanumeric string that is a mathematical representation of a piece of data. Hash algorithms are **one-way functions** that will take in some input and output a string. This is different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). There are many different hashing algorithms in existence. The above example is called an [MD5 hash](https://searchsecurity.techtarget.com/definition/MD5). 
 
 Hashes have important properities that they must abide by in order to be considered secure:
 
