@@ -36,14 +36,14 @@ To keep it short, the dark web can be accessed by using special software that is
 
 Here are some screenshots and information about current(ish) and mostly former dark web web sites.
 
-The Hidden Wiki:
+**The Hidden Wiki**:
 ![Hidden]({{ site.url }}{{ site.baseurl }}/assets/images/hidden.jpg)
 
 The Hidden Wiki was a place where people can come to find links to many different dark web sites hosting a variety of content. Think about it like a library of links. The singular site is since shut down, but forums like these exist in many parts of the dark web. 
 
 
 
-The Silk Road:
+**The Silk Road**:
 
 ![Silk]({{ site.url }}{{ site.baseurl }}/assets/images/silk.jfif)
 
@@ -51,7 +51,7 @@ The Silk Road was a major dark web e-commerce site that specialized in the selli
 
 
 
-Pink Meth:
+**Pink Meth**:
 
 ![Pink]({{ site.url }}{{ site.baseurl }}/assets/images/pinkmeth.png)
 
