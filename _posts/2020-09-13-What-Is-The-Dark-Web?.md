@@ -66,7 +66,7 @@ Suppose Company X has their data stolen and it gets hosted on the dark web. If y
 If anything, there's more pressure on companies to protect your information more so than the user, and there definitely should be. We trust these companies with our personal information that can be used to essentially ruin our lives if used in a nefarious way. As the threats evolve in cyber space, more money and resources are going to have to go towards security programs for these companies to ensure that your data is secure. We can't control companies being compromised. However, we can be safe while browsing the web in a myriad of ways; 
 
 * Having good passwords, 
-* Not clicking on random links/attachments in emails
+* Not clicking on random links/attachments on emails
 * Viewing/downloading content from trusted sites 
 * Use some damn common sense
 
