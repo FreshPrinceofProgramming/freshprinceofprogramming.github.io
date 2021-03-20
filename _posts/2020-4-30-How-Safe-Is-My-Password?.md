@@ -75,7 +75,7 @@ The shorter and less complex your password is, the easier it is to potentially c
 ![aint]({{ site.url }}{{ site.baseurl }}/assets/images/aint.jpeg)
 
 
-It can be really hard to come up with a long and complex password that you'll A) remember and B) know is secure. This is why it is highly recommened that you get a **password manager** in order to increase your own security posture. Not only will a password manager make your life easier in storing all of your passwords, they also can be used to generate secure passwords based on any criteria needed by the user. This also makes it easier to change passwords if there is any kind of compromise on a website, which you should already be doing every couple of months to keep your accounts safe. Easier said than done :p Consider getting one! 
+It can be really hard to come up with a long and complex password that you'll A) remember and B) know is secure. This is why it is highly recommened that you get a **password manager** in order to increase your own security posture. Not only will a password manager make your life easier in storing all of your passwords, they also can be used to generate secure passwords based on any criteria needed by the user. Consider getting one! 
 
 Some popular password managers:
 
