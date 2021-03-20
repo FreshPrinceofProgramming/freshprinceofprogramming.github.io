@@ -2,6 +2,9 @@
 title: "Stealing Facebook Credentials"
 categories:
   - Hacking
+header:
+  image: assets/images/hack.jpg
+
 ---
 
 In this article we're going to see how we can use some hacking tools to create a fake website in order to gain user credentials for Facebook.
