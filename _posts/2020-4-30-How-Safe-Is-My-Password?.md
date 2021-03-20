@@ -70,7 +70,7 @@ Whew...ok now we get to the actual point of the article. The answer is, it depen
 
 In the attacks for cracking passwords, I mentioned that length of your password was something that hackers don't always have prior knowledge of. This is very important. As computing power becomes more powerful and accessible to the public, password cracking is becoming faster. It's not a coincidence that websites have requirements for passwords such as 8 characters upper and lower case + numbers + symbols for example. What they're really trying to do is increase the computational complexity that a computer has to go through if it's attempting to generate a hash to crack the passwords. 
 
-The shorter and less complex your password is, the easier it is to potentially crack. In our example with 'password' as an 8 character all lower case string, it actually won't take that long to bruteforce its hash. It would take about 4 hours or less with an average GPU. However, if you use a 20 character alphanumeric + symbols password, you've exponentially increased the time it would take to crack that hash. And of course....
+The shorter and less complex your password is, the easier it is to potentially crack. In our example with 'password' as an 8 character all lower case string, it actually won't take that long to bruteforce its hash. It would take about 4 hours or less with an average GPU. However, if you use a 20 character alphanumeric + symbols password, you've exponentially increased the time it would take to crack that hash. And for malicious hackers...
 
 ![aint]({{ site.url }}{{ site.baseurl }}/assets/images/aint.jpeg)
 
