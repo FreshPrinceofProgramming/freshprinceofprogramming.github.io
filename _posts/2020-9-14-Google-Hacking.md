@@ -1,7 +1,7 @@
 ---
 title: "Google Hacking"
 categories:
-  - Hackin
+  - Hacking
 header:
   image: assets/images/hack.jpg
 
