@@ -2,6 +2,9 @@
 title: "Let's Hack Wifi"
 categories:
   - Hacking
+header:
+  image: assets/images/hack.jpg
+
 ---
 
 Well just like the title says, we're going to hack wifi in this article. It's a lot easier than you'd think. Remember, this is just a proof of concept. I'll be hacking my own wifi connection.
