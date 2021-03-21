@@ -20,6 +20,8 @@ Assuming our database is secure, our passwords still need to be stored in a prop
 
 If you can't tell what the password is, then good (Hint: it's 'password'). As a matter of fact, this is what your password is converted to when it is stored on a database. This gibberish is called a **hash**. A hash is an alphanumeric string that is a mathematical representation of a piece of data. Hash algorithms are **one-way functions** that will take in some input and output a string. There are various hashing algorithms in existence, and hashing has [many applications beyond just password security](https://www.geeksforgeeks.org/applications-of-hashing/). The above example is called an [MD5 hash](https://searchsecurity.techtarget.com/definition/MD5). 
 
+![hash]({{ site.url }}{{ site.baseurl }}/assets/images/hash.jpg)
+
 Hashes have certain properities that they must abide by in order to be considered secure:
 
 * Given a hash, it should be computationally difficult to decipher the original data. Remember, hashes are one way functions. There is no "dehash" method.
