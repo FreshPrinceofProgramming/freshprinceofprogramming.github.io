@@ -25,7 +25,7 @@ Hashes have certain properities that they must abide by in order to be considere
 * Given a hash, it should be computationally difficult to decipher the original data. Remember, hashes are one way functions. There is no "dehash" method.
 * Given a hash, it should be hard to find a different input with the same resulting hash. Hashing is unique in the fact that adding or subtracting even one 1 byte of data from the input can dramatically change the entire hash string output.
 
-This is drastically different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). Having encryption literally means the data can be decrypted. We don't want this for our password. We want to keep the password in form that cannot be reversed in any way.
+This is drastically different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). Having encryption literally means the data can be decrypted. We don't want this for our password. We want to keep the password in a form that cannot be reversed in any way.
 
 ### Password: BruteForce/DictionaryAttack45@@@
 
