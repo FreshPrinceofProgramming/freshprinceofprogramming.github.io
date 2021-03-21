@@ -60,7 +60,7 @@ In defenses against hackers, our goal is to frustrate them as much as possible a
 
 As we can now see, we've effectively solved the problem of two people sharing the same password. In Alice's case, the salt value was prepended to her password, whereas Bob's was appended. Both hashes are different, and there's no way a hacker would be able to know these two people shared the same password, let alone use a dictionary or brute force attack in any reasonable time to crack the password. Take that statement with a grain of salt...haha ;) 
 
-This example was pretty simple and defintely not indicative of any real industry security standard for actual salt + hashing techniques for safely storing passwords. However, this is what SHOULD happen to your password on the backend when you create one for a website. Different salts are used for every user and are generated randomly and securely. This is why password cracking is incredibly difficult, but not impossible. 
+This example was pretty simple and defintely not indicative of any real industry security standard for actual salt + hashing techniques for safely storing passwords. That is left up to the database designers. However, this is what should happen to your password on the backend when you create one for a website. When you input your password trying to log in, it is converted to a hash with its given salt and compared to the one stored on the database with your username. If they match, then you will be authenticated.
 
 ### Ok...but is my password safe?
 
