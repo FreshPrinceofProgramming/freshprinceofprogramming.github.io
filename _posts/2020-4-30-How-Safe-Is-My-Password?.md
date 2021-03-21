@@ -29,6 +29,9 @@ Hashes have certain properities that they must abide by in order to be considere
 
 This is drastically different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). Having encryption literally means the data can be decrypted. We don't want this for our password. We want to keep the password in a form that cannot be reversed in any way.
 
+![encrypting]({{ site.url }}{{ site.baseurl }}/assets/images/encrypting.jpg)
+
+
 ### Password: BruteForce/DictionaryAttack45@@@
 
 The first property seems pretty straightforward. Nobody should be able to dicipher the orginal data given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and **compare known hash values to their corresponding plaintext strings**. 
