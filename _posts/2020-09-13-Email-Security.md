@@ -62,7 +62,7 @@ I'll have a seperate article on encryption and what this all actually does for d
 
 ### How to Stay Safe
 
-The three examples above are just a small amount of the kinds of phishing attempts out there. In more sophisticated attacks, you may see an email come from somone you know and trust. This attempt is called a **spoof**. Phishing is a form of spoofing but, but in spoofing the bad person usually will have compromised a legit email account. This makes it harder to differentiate the bad actor from the actual person. You'll typically see these kinds of attacks on companies, which may target high profile people in order to gain very sensitive information. Here are some things you can do to protect yourself on email to stay safe:
+The three examples above are just a small amount of the kinds of phishing attempts out there. In more sophisticated attacks, you may see an email come from somone you actually know and trust. This attempt is called a **spoof**. Phishing is a form of spoofing but, but in spoofing the bad person usually will have compromised a legit email account. This makes it harder to differentiate the bad actor from the actual person. You'll typically see these kinds of attacks on companies, which may target high profile people in order to gain very sensitive information. Here are some things you can do to protect yourself on email to stay safe:
 
 * Do not click on any links or attachments from emails you aren't expecting to receive or that look suspicious
 * Always check the senders email address/email header information if you are suspicious about a particular email
