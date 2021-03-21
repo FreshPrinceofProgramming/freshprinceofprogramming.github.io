@@ -72,14 +72,13 @@ The shorter and less complex your password is, the easier it is to potentially c
 
 ![aint]({{ site.url }}{{ site.baseurl }}/assets/images/aint.jpeg)
 
-
 It can be really hard to come up with a long and complex password that you'll A) remember and B) know is secure. This is why it is highly recommened that you get a **password manager** in order to increase your own security posture. Not only will a password manager make your life easier in storing all of your passwords, they also can be used to generate secure passwords based on any criteria needed by the user. Consider getting one! 
 
 Some popular password managers:
 
-* KeepassX
-* LastPass
-* 1Password
+* [KeepassX](https://keepass.info/)
+* [LastPass](https://www.lastpass.com/)
+* [1Password](https://1password.com/)
 
 I recommened looking these up and see which one works for you. Most have free versions and are compatible with most OS's. There may even be a mobile app version as well. 
 
