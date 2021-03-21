@@ -12,26 +12,24 @@ This question is probably one that is most asked when it comes to ensuring your 
 
 I think we can all agree that using "password" for your password is not a good idea. Most websites won't even let you use that password without throwing in some numbers and symbols. But how are hackers able to figure out your password? It seems every other month there is a major security breach at a company, and millions of peoples' information is compromised, including site passwords. How is the website actually storing these passwords for protection?
 
-When we talk about cyber security, one aspect of it that we are concerned about is the integrity of data. This means that we expect the orginal data that was sent, to be the exact same data that is received on the other end. If you've played the game "Telephone" as a kid in school, this is exactly the purpose of the game. The orginal phrase is passed down from kid to kid, and the last person has to relay the same information to see if the orginal phrase held true. Sounds easy, right?(Hint: It's not) Similar to how kids will purposely alter the phrase to be funny, hackers will alter data in mid transit to corrupt the integrity of the data for their personal benefit.
+Are websites keeping the passwords in **plaintext**(the original form)? Are they encrypting them? Where are the passwords being held? These are important questions think about considering the vast amount of services you may have accounts with. It would be great if we knew passwords were stored in a manner that A) made them difficult to get to, and B) even if they were compromised, the hacker still couldn't decipher the passwords easily.
 
-What does this have to do with passwords though? 
-
-If we can manage to come up with a way to maintain the integrity of data in cyber space, we can effectively ensure that the data is kept in its original form without fear of it being altered OR diciphered. Let's talk about hashing...
+Assuming our database is secure, our passwords still need to be stored in a proper form to ease our concerns about a potential compromise. Encrytion sounds like the right answer, but let's talk about hashing for a bit...
 
 ### Password: 5f4dcc3b5aa765d61d8327deb882cf99
 
-If you can't tell what the password is, then good(Hint: it's 'password'). As a matter of fact, this is what your password is converted to when it is stored on a database. This gibberish is called a **hash**. A hash is an alphanumeric string that is a mathematical representation of a piece of data. Hash algorithms are **one-way functions** that will take in some input and output a string. This is different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). There are many different hashing algorithms in existence. The above example is called an [MD5 hash](https://searchsecurity.techtarget.com/definition/MD5). 
+If you can't tell what the password is, then good (Hint: it's 'password'). As a matter of fact, this is what your password is converted to when it is stored on a database. This gibberish is called a **hash**. A hash is an alphanumeric string that is a mathematical representation of a piece of data. Hash algorithms are **one-way functions** that will take in some input and output a string. There are many different hashing algorithms in existence. The above example is called an [MD5 hash](https://searchsecurity.techtarget.com/definition/MD5). 
 
 Hashes have certain properities that they must abide by in order to be considered secure:
 
 * Given a hash, it should be computationally difficult to decipher the original data. Remember, hashes are one way functions. There is no "dehash" method.
 * Given a hash, it should be hard to find a different input with the same resulting hash. Hashing is unique in the fact that adding or subtracting even one 1 byte of data from the input can dramatically change the entire hash string output.
 
-There are other properties to hashes, but we will focus on these two.
+This is drastically different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). Having encryption literally means the data can be decrypted. We don't want this for our password. We want to keep the password in form that cannot be reversed in any way.
 
 ### Password: BruteForce/DictionaryAttack45@@@
 
-The first property seems pretty straightforward. Nobody should be able to dicipher the orginal data given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and compare known hash values to their corresponding plaintext strings. 
+The first property seems pretty straightforward. Nobody should be able to dicipher the orginal data given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and **compare known hash values to their corresponding plaintext strings**. 
 
 Let's say a hacker was able to obtain hundreds of hashed passwords from a database. The goal is to try to crack these passwords in order to obtain their plaintext form for a given username. Typical hacker business. The hacker sees the hash for 'password' (5f4dcc3b5aa765d61d8327deb882cf99) in the database. How do they crack it? 
 
