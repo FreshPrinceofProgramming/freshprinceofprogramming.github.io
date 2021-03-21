@@ -12,7 +12,7 @@ This question is probably one that is most asked when it comes to ensuring your 
 
 I think we can all agree that using "password" for your password is not a good idea. Most websites won't even let you use that password without throwing in some numbers and symbols. But how are hackers able to figure out your password? It seems every other month there is a major security breach at a company, and millions of peoples' information is compromised, including site passwords. How is the website actually storing these passwords for protection?
 
-Are websites keeping the passwords in **plaintext**(the original form)? Are they encrypting them? Where are the passwords being held? These are important questions think about considering the vast amount of services you may have accounts with. It would be great if we knew passwords were stored in a manner that A) made them difficult to get to, and B) even if they were compromised, the hacker still couldn't decipher the passwords easily.
+Are websites keeping the passwords in **plaintext** (the original form)? Are they encrypting them? Where are the passwords being held? These are important questions think about considering the vast amount of services you may have accounts with. It would be great if we knew passwords were stored in a manner that A) made them difficult to get to, and B) even if they were compromised, the hacker still couldn't decipher the passwords easily.
 
 Assuming our database is secure, our passwords still need to be stored in a proper form to ease our concerns about a potential compromise. Encrytion sounds like the right answer, but let's talk about hashing for a bit...
 
