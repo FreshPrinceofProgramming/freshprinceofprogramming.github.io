@@ -14,11 +14,11 @@ We want to gain a user's Facebook login credentials. If we get these credentials
 
 ### Concept
 
-**Social engineering** is the art using deception for the purpose of fraudulently gaining sensitive information. An example of social engineering is pretending to be someone in order to illicit a certain response. This can be in real life OR in cyber space. 
+**Social engineering** is the art of using deception for the purpose of fraudulently gaining sensitive information. An example of social engineering is pretending to be someone in order to illicit a certain response. This can be in real life or in cyber space. 
 
 Example: If I'm working in the front building of a company, I may let through a wide variety of people throughout the day. Suppose a hacker came into the building, announced to me that they were trying to get further into the building to find a server room to do their malicious deed. I'm probably not going to let them through, and most likely I'm going to call the police. 
 
-Now let's say this same hacker pretended to be a UPS delivery driver. They could easily walk in and say they have to deliver a package for a certain floor. If I'm not doing my job correctly and verifying their identity properly, they could gain access. They would have effectively bypassed the physical security protocol of not allowing any unauthorized people in the building. 
+Now let's say this same hacker pretended to be a UPS delivery driver. They could easily walk in and say they have to deliver a package for a certain floor. If I'm not doing my job correctly by verifying their identity properly, they could gain access. They would have effectively bypassed the physical security protocol of not allowing any unauthorized people in the building. 
 
 Of course there are more clever ways of using social engineering. In this case, we want to fool the user in believing that the request for logging into their facebook account looks legitimate. Easier said that done...
 
@@ -87,15 +87,15 @@ We're done! But let's unpack what we just did...
 
 Hopefully now you're able to see how easy it is to set up a fake website to solicit credential information. As mentioned before, this is strictly a proof of concept. There's a lot the actual social engineering piece that we didn't go over. The reason for this is because there are quite a few different scenarios that we could have presented to our victim to get them to actually go to our website. 
 
-As it stands now, this attack will only work on the LAN that you are on. This means that people that are not connected to the wifi you're on (the greater internet), will not be able to see the site. This isn't very useful if your target isn't in the same geographical location. Here's what an attacker might do to make this look more legitimate:
+As it stands now, this attack will only work on the LAN that you are on. This means that people that are not connected to the wifi you're on (the greater internet), will not be able to see the site. This isn't very useful if your target isn't in the same geographical location. However, setting up port forwarding and making a few more configuratios can expand this attack.
 
-1. This is the perfect scenario for a phishing attempt. An attacker may buy and/or create a fake email domain that looks like it's coming from facebook. Remember, in social engineering we're trying to pretend to look like a legitimate source. If we can get a hold of a compromised facebook email or create one that looks good enough, it may be our ticket to getting the victim to trust us. 
+Here's what an attacker might do in a real world scenario:
 
-2. The attacker will also probably utilize a bunch of different website domains to shuffle through to point their publicly facing attack server, which can then be used as the connecting site for the victim to go to. Often times for attackers, it's in their advantage to have a variety of website domains to cycle through in case they get shut down for whatever reason. They can also utilize compromised machines to do various activities as well, so the possibilities are endless. 
+1. This is the perfect scenario for a phishing attempt. An attacker may buy and/or create a fake email domain that looks like it's coming from facebook. Remember, in social engineering we're trying to pretend to look like a legitimate source. If we can get a hold of a compromised facebook email account or create one that looks good enough, it may be our ticket to getting the victim to trust us. 
 
-3. The attacker will craft the email to make it look like the victim needs to login to facebook for some purpose. If this is wide ranged attack, SET can also be used to mass send emails to many different people. A common phishing attempt may look like it's coming from the security or IT team from that organization claiming that you need to enter in your credentials for them to help. 
+2. The attacker could use a variety of tactics to host their malicious website on the internet. This could include everything from hijacking existing domains, to using registered domains they've bought. They can also utilize compromised machines to do various activities as well, so the possibilities are endless. 
 
-4. Once the victim clicks on the link (attacker could also obscure the link to not have it seem as obvious as a fake website) and enters their information, it's over. 
+3. The attacker will craft the email to make it look like the victim needs to login to facebook for some purpose. If this is wide ranged attack, SET can also be used to mass send emails to many different people. A common phishing attempt may look like it's coming from the security or IT team from that organization claiming that you need to enter in your credentials for them to help. They can obfuscate their malicious website link with a link that looks more legitimate. The link will then redirect the user to the malicious website. 
 
 This is just one scenario of many that could be used to conduct these attacks. In any case, it doesn't take an advanced hacker to be able to get these attacks out there. The best way to defend against any of these attempts is to first always verify the website you are connecting to. If you do not see "https" in the browser, do not authenticate to that site, even if it claims it's legitimate. The second thing to do is never click on any links or attachments in emails that you do not trust. I have an [email security](https://freshprinceofhacking.github.io/privacy,%20security%20&%20safety/Email-Security/) article that goes into how to spot these kinds of emails. The last thing to do is always be aware of what you're doing. Common sense goes a long way protecting yourself agains cyber attacks. Hopefully by reading the other articles in this blog, you'll have a better understanding of what to look out for. 
 
