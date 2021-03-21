@@ -38,7 +38,7 @@ Decryption of our string:
 
 ### Password: BruteForce/DictionaryAttack45@@@
 
-The first property seems pretty straightforward. Nobody should be able to dicipher the orginal data given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and **compare known hash values to their corresponding plaintext strings**. 
+The first property of hashing seems pretty straightforward. Nobody should be able to dicipher the orginal data given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and **compare known hash values to their corresponding plaintext strings**. 
 
 Let's say a hacker was able to obtain hundreds of hashed passwords from a database. The goal is to try to crack these passwords in order to obtain their plaintext form for a given username. Typical hacker business. The hacker sees the hash for 'password' (5f4dcc3b5aa765d61d8327deb882cf99) in the database. How do they crack it? 
 
@@ -61,7 +61,7 @@ The second property is where things get tricky. Imagine you had a password datab
 * Alice's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 * Bob's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 
-In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. How can we address this issue of two people sharing the same password? Trusting the second property again, what we could do to change the hashes is add a bit of **salt**(some pre-computed value) to the original password in order to change the hash entirely. Remember, adding just 1 byte of data to the input will change the hash. We can prepend OR append this value to the original password.
+In defenses against hackers, our goal is to frustrate them as much as possible and not give obvious hints where and how to attack. How can we address this issue of two people sharing the same password? Trusting the second property again, what we could do to change the hashes is add a bit of **salt** (some pre-computed value) to the original password in order to change the hash entirely. Remember, adding just 1 byte of data to the input will change the hash. We can prepend or append this value to the original password.
 
 * Salt value: dontcrackme3456
 * Alice's password with salt: (dontcrackme3456password) 760271f1349c0484a4ecaf53e161253e
