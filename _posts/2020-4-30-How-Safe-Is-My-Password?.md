@@ -36,7 +36,6 @@ Encryption of our string:
 Decryption of our string:
 ![decrypting]({{ site.url }}{{ site.baseurl }}/assets/images/d1.jpg)
 
-
 ### Password: BruteForce/DictionaryAttack45@@@
 
 The first property seems pretty straightforward. Nobody should be able to dicipher the orginal data given a hash string. However, while hackers can't reverse engineer a hashed password, they can be clever and **compare known hash values to their corresponding plaintext strings**. 
