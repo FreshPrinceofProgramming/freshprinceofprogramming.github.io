@@ -86,7 +86,7 @@ More so than just accessing region-locked Netflix content, VPN's can also be use
 
 #### Protection on Public Wifi
 
-We've all used public wifi before, but what devices are actually on that public wifi LAN? At home it's more or less easy to know what devices are part of your home network, but in public places, this constantly changes. Think about the hundreds, if not thousands of people going in and out of coffe shops, airports, malls, etc. There's no way to personally know every device on that wifi.
+We've all used public wifi before, but what devices are actually on that public wifi LAN? At home it's more or less easy to know what devices are part of your home network, but in public places, this constantly changes. Think about the hundreds, if not thousands of people going in and out of coffee shops, airports, malls, etc. There's no way to personally know every device on that wifi.
 
 Let's suppose someone were able to sit on a public wifi and "listen" to all of the traffic over it. What information could they see? They could potentially see what websites you are visiting, and any personal information being sent over wifi that is not encrypted. 
 
