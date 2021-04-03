@@ -82,6 +82,8 @@ Remember, your public IP address is how you are identified on the internet. When
 
 It is not uncommon for content on the internet to be region locked. In fact, Netflix is a great example of content that is given to the user based on region. There are shows in other parts of the world that we cannot access here in the United States. VPN's solve this issue. Say goodbye to region locked content on Netflix! 
 
+More so than just accessing region-locked Netflix content, VPN's can also be used to potentially view any content that is restricted by your ISP. This has come up largely when dealing with countries that restrict certain parts of the internet from their citizens. China is a great example of this particular problem. There are many things online that are restricted by the Chinese government, and therefore not reachable by the user. If you're someone who wants to view more content or get around the restrictions in place, a VPN might be your best bet.
+
 #### Protection on Public Wifi
 
 We've all used public wifi before, but what devices are actually on that public wifi LAN? At home it's more or less easy to know what devices are part of your home network, but in public places, this constantly changes. Think about the hundreds, if not thousands of people going in and out of coffe shops, airports, malls, etc. There's no way to personally know every device on that wifi.
