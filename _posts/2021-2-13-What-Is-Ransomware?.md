@@ -47,7 +47,7 @@ Nonetheless they ask you for payment in the form of either cryptocurrency or gif
 
 ### Back that A:\SS up
 
-Unlike in the real world, having two of something very unique is trivial in cyber space. I can easily copy sensitive documents or entire hard drives of information and put it somewhere else. I cannot do this with a historical artifact for example. Having a backup of your files can make the difference between complete ruin and a simple system reimaging. Of course, backing up your files has more applications than just a reaction against ransomware. Part of having good cyber hygeine is keeping the availibility of your systems high. This way way if you run an organization and are hit with ransomware, you can easily reimage and transfer the backup(s) to the machine(s) involved. 
+Unlike in the real world, having two of something very unique is trivial in cyber space. I can easily copy sensitive documents or entire hard drives of information and put it somewhere else. I cannot do this with a historical artifact for example. Having a backup of your files can make the difference between complete ruin and a simple system reimaging. Of course, backing up your files has more applications than just a reaction against ransomware. Part of having good cyber hygeine is keeping the availibility of your systems high. This way way if you run an organization and are hit with ransomware or another disaster, you can easily reimage and transfer the backup(s) to the machine(s) involved. 
 
 Whether you choose to use a physical backup or cloud, you should make sure those are kept properly secure:
 
