@@ -6,11 +6,11 @@ header:
   image: assets/images/nickyoung.jpg  
 ---
 
-Encryption is one of the most fundamental parts of modern computing. It's the reason why your credit card information isn't stolen every time you buy something online (well at least as infrequently as possible). So what is it? How does it work? Hopefully after reading this, you'll understand what it is, and why it matters when it comes to cyber security.  
+Encryption is one of the most fundamental parts of modern computing. It's the reason why your credit card information isn't stolen every time you buy something online. So what is it? How does it work? Hopefully after reading this, you'll understand what it is, and why it matters when it comes to cyber security.  
 
 ### Fdq brx uhdg wklv?
 
-In order to understand encryption, we first need to understand the greater field of **cryptography.** Cryptography, simply put, is the study/art of writing or solving codes. That's it. This fundamental idea of being able to either write and/or solve codes is the reason why modern computing exists in its current state. However, cryptography has existed for thousands of years before any electronic computer was made. In the example above, I used a **ceasar cipher**, which you might guess is named after Julius Ceasar, in order to encrypt the subject title. While it may look cryptic (yes, pun intended), this cipher is very simple to solve.
+In order to understand encryption, we first need to understand the greater field of **cryptography.** Cryptography, simply put, is the study/art of writing or solving codes. This fundamental idea of being able to either write and/or solve codes is the reason why modern computing exists in its current state. However, cryptography has existed for thousands of years before any electronic computer was made. In the example above, I used a **ceasar cipher**, which you might guess is named after Julius Ceasar, in order to encrypt the subject title. While it may look cryptic (yes, pun intended), this cipher is very simple to solve.
 
 **Note:** From here on out we will refer to the message we want to encrypt (in its non-encrypted form) as **plaintext**, and the encrypted form of the message as **ciphertext.**
 {: .notice--info}
@@ -77,7 +77,7 @@ If you noticed, we didn't really "encrypt" any actual message data. All we did w
 
 The reason why this method is successful in the real world is because both keys are mathematically linked to each other in a way that ensures that only the correct private/public key combination can be used to encrypt or decrypt messages. A user could use a recipients public key to encrypt a message, and only the recipients private key can be used to decrypt it, and vice versa. The most famous algorithm that uses asymmetric encryption is called **RSA**(Rivest–Shamir–Adleman). It has been around since the 1970's and still widely used today as a means to exchange symmetric keys between distant parties. It's the reason why your credit card data can be securely transmitted between the browser and server when you're shopping online. So it's very important to say the least. Like always, I suggest reading into how this is implemented in the real world and what's behind the algorithm. 
 
-Asymmetric key encryption is also very slow. As you can imagine, there are 4 keys(2 public and 2 private per 2 parties) we now have to deal with and the overhead for generating them can be quite computationally intensive. This is why asymmetric algortihms are hardly used for actually encrypting message data. They can however ensure a symmetric key is generated and encrypted to be securely sent over an insecure medium such as the internet. But the actual encryption of data uses symmetric algorithms for that purpose. 
+As great as asymmetric encryption is, it does have its drawbacks. Mainly, asymmetric key encryption is very slow compared to symmetric encryption. There are more keys we now have to deal with, and the overhead for generating them can be quite computationally intensive. It would be highly inefficient to generate a private/public key pair everytime just to encrypt data at rest. This is why asymmetric algortihms are hardly used for actually encrypting message data. They can however ensure a symmetric key is generated and encrypted to be securely sent over an insecure medium such as the internet. But the actual encryption of data uses symmetric algorithms for that purpose. 
 
 ### Encryption visualized
 
@@ -85,7 +85,7 @@ I think it would be beneficial to see encryption in a real life example before w
 
 I mentioned previously with asymmetric encryption (public key cryptography), that it can be used to ensure safe transaction of private data in the case of shopping online for example. You may heard the term **SSL**(Secure Socket Layer) or **TLS**(Transport Layer Security, aka the successor to SSL) mentioned when it comes to ensuring a website is secure. This is the "s" in HTTPS (hypertext transfer protocol secure). It is always encouraged that you only visit sites with https enabled, and encryption is the reason. 
 
-But did you know that each website (most of them) that offers SSL/TLS has a way to verify the legitimacy of itself? Sounds weird, I know. Amazon.com is just amazon.com. It's got to be legitimate already, right? That's where you would be wrong. This is where **digitial certificates** come in handy. You can think of a digital certificate as proof or legitimacy by the website, which will offer key identifiers for every device that connects to it to confirm that it is actually amazon.com that you are connecting to. One of these proofs is the public key of the website. And we all know what that is by now...
+But did you know that each website (most of them) that offers SSL/TLS has a way to verify the legitimacy of itself? Sounds weird, I know. Amazon.com is just amazon.com. It's got to be legitimate already, right? That's where you would be wrong. This is where **digitial certificates** come in handy. You can think of a digital certificate as proof or legitimacy by the website, which will offer key identifiers for every device that connects to it to confirm that it is actually amazon.com that you are connecting to. One of these proofs is the public key of the website. And we all know what that is by now!
 
 I'm sure we've all seen the "lock" symbol at the top of the URL next to the site we're connecting to. It looks like this:
 
@@ -95,13 +95,13 @@ Here it is telling us that this website is secured, and we can even see the spot
 
 ![amazoncert2]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert2.jpg)
 
-This certificate is informing us that it proves its own identity as well as your identity when connecting to the website, which is owned by Amazon.com. It is very important that websites keep their certificates valid. They aren't cheap, but the benefits speak for itself. Hackers or bad actiors can use free certificates to make their websites look more legitimate and often can trick unsuspecting users to thinking the site is secure. 
+This certificate is informing us that it proves its own identity, as well as your identity when connecting to the website, which is owned by Amazon.com. It is very important that websites keep their certificates valid. They can be purchased and renewed through online certificate vendors. They require very speficic identification in order to buy, such as documenation proving your company's legitimacy. Hackers or bad actiors will often use free certificates to make their websites look more legitimate, and often can trick unsuspecting users to thinking the site is secure. 
 
 We can take the certificate a step further and looks at details:
 
 ![amazoncert3]({{ site.url }}{{ site.baseurl }}/assets/images/amazoncert3.jpg)
 
-See anything that looks familiar? The RSA public key! This isn't a hack or some lack of security. The public key is exactly what the name suggests, public. Anybody can see this. The private key is what is kept hidden and hopefully never exposed. I would look up more about digital certs and how websites use them. There have been [hacks against digital certificates](https://resources.infosecinstitute.com/topic/cybercrime-exploits-digital-certificates/) in the past, and continues to be a potential avenue for hackers to exploit. Interesting stuff.
+See anything that looks familiar? The RSA public key! This isn't a hack or some lack of security. The public key is exactly what the name suggests, public. Anybody can see this. The private key is what is kept hidden and hopefully never exposed. There have been [hacks against digital certificates](https://resources.infosecinstitute.com/topic/cybercrime-exploits-digital-certificates/) in the past, and continues to be a potential avenue for hackers to exploit. Interesting stuff.
 
 Now with all of that said, let's look at some Amazon encrypted traffic:
 
