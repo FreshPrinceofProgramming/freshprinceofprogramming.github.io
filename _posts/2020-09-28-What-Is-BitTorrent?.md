@@ -60,15 +60,15 @@ While its main use has been based on illegal downloads, the actual protocol itse
 
 ### Why Is My Computer Slow? :(
 
-Suppose you didn't care at all about getting caught and you want to download the latest version of Microsoft Office from a torrent. Everything is going great. There are a bunch of seeders and you get the whole program in no time at all. Once you install the software and run the program for awhile, things start to get a little strange. You notice a slowdown in your computer speed, as well as unwanted popups that appear randomly. Well...you're probably infected with malware.
+Suppose you didn't care at all about getting caught and you want to download the latest version of Microsoft Office for free. This is where you could turn to torrenting to find it. Everything is going great; There are a bunch of seeders and you get the whole program in no time at all. Once you install the software and run the program for awhile, things start to get a little strange. You notice a slowdown in your computer speed, as well as unwanted popups that appear randomly. Well...you're probably infected with malware.
 
 "How?? This is a legitimate program, not a random unknown file."
 
-Well that's what you in fact just downloaded, a random file. Sure, it may be "Mircrosoft Office," but loaded within that program is a bunch of malicious code that serves to do some bad stuff. When you think about how hackers can spread malware, what better way to do that than by loading their code into legitimate applications where they've found **vulnerabilities** to exploit? They then can upload this as a torrent, knowing that the whole concept of P2P networks is to share with EVERYONE!   
+Well that's what you in fact just downloaded, a random file. Sure, it may be "Mircrosoft Office," but loaded within that program is a bunch of malicious code that serves to do some bad stuff. When you think about how hackers can spread malware, what better way to do that than by loading their code into legitimate applications where they've found **vulnerabilities** to exploit? They then can upload this as a torrent, knowing that the whole concept of P2P networks is to share with EVERYONE! This makes spreading malware very easy, especially if the torrent file is popular.    
 
 ![Oprah]({{ site.url }}{{ site.baseurl }}/assets/images/oprah2.jpeg)
 
-This is also a main reason why torrenting is probably not the best every day practice in general. The amount of bad things that are in files on the internet, which also won't be detected by your antivirus program, is scary as hell. Unless you know the source of the torrent(i.e. hosted by the main website itself), and can confirm the file is legitimate (i.e. checking the **hash** against the main website), then you probably don't need to intentionally torrent anything ever. Here's a quick example of a legitimate torrent:
+This is also a main reason why torrenting is probably not the best every day practice in general. The amount of bad things that are in files on the internet, which also won't be detected by your antivirus program, is scary as hell. Unless you know the source of the torrent (i.e. hosted by the main website itself), and can confirm the file is legitimate (i.e. checking the **hash** against the main website), then you probably don't need to intentionally torrent anything ever. Here's a quick example of a legitimate torrent:
 
 ![kalicheck]({{ site.url }}{{ site.baseurl }}/assets/images/hashcheck.png)
 
