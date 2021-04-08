@@ -28,7 +28,7 @@ Hashes have certain properities that they must abide by in order to be considere
 * Given a hash, it should be computationally difficult to decipher the original data. Remember, hashes are one way functions. There is no "dehash" method.
 * Given a hash, it should be hard to find a different input with the same resulting hash. Hashing is unique in the fact that adding or subtracting even one 1 byte of data from the input can dramatically change the entire hash string output.
 
-This is drastically different from encryption algortihms, which are **two-way functions**(encrypt and decrypt). Having encryption literally means the data can be decrypted. We don't want this for our password. We want to keep the password in a form that cannot be reversed in any way.
+This is drastically different from encryption algortihms, which are **two-way functions** (encrypt and decrypt). Having encryption literally means the data can be decrypted. We don't want this for our password. We want to keep the password in a form that cannot be reversed in any way.
 
 Encryption of our string:
 ![encrypting]({{ site.url }}{{ site.baseurl }}/assets/images/e1.jpg)
@@ -56,7 +56,7 @@ Wow that was just the first property. All this hacking and failing may leave the
 
 ### Password: CanYouPassTheSalt?156*&
 
-The second property is where things get tricky. Imagine you had a password database full of hashes. It wouldn't be unfair to say that at least two people more than likely share the same password. How could you tell? If you trust the second property holds, you know that if you happen to see at least two of the same hash, it probably means it's the same exact input. This means a hacker could see this as well. Obviosuly, this is bad. Let's look at the case where Alice and Bob share the same password:
+The second property is where things get tricky. Imagine you were a system administrator and had a password database full of hashes. It wouldn't be unfair to say that at least two people more than likely share the same password. How could you tell? If you trust the second property holds, you know that if you happen to see at least two of the same hash, it probably means it's the same exact input. This means a hacker could see this as well if they compromised the database. Obviosuly, this is bad. Let's look at the case where Alice and Bob share the same password:
 
 * Alice's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
 * Bob's password: (password) 5f4dcc3b5aa765d61d8327deb882cf99
@@ -69,11 +69,11 @@ In defenses against hackers, our goal is to frustrate them as much as possible a
 
 As we can now see, we've effectively solved the problem of two people sharing the same password. In Alice's case, the salt value was prepended to her password, whereas Bob's was appended. Both hashes are different, and there's no way a hacker would be able to know these two people shared the same password, let alone use a dictionary or brute force attack in any reasonable time to crack the password. Take that statement with a grain of salt...haha ;) 
 
-This example was pretty simple and defintely not indicative of any real industry security standard for actual salt + hashing techniques for safely storing passwords. That is left up to the database designers. However, this is what should happen to your password on the backend when you create one for a website. When you input your password trying to log in, it is converted to a hash with its given salt and compared to the one stored on the database with your username. If they match, then you will be authenticated.
+This example was pretty simple and defintely not indicative of any real industry security standard for actual salt + hashing techniques for safely storing passwords. However, this is what should happen to your password on the backend when you create one for a website. When you input your password on a login screen, it is converted to a hash with its given salt and compared to the one stored on the database with your username. If they match, then you will be authenticated. If they don't match, you can't login! 
 
 ### Ok...but is my password safe?
 
-Whew...ok now we get to the actual point of the article. The answer is, it depends...
+Whew ok now we get to the actual point of the article. The answer is, it depends...
 
 In the attacks for cracking passwords, I mentioned that length of your password was something that hackers don't always have prior knowledge of. This is very important. As computing power becomes more powerful and accessible to the public, password cracking is becoming faster. It's not a coincidence that websites have requirements for passwords such as 8 characters upper and lower case + numbers + symbols for example. What they're really trying to do is increase the computational complexity that a computer has to go through if it's attempting to generate a hash to crack the passwords. 
 
