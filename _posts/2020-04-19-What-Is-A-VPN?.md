@@ -30,7 +30,7 @@ Your public IP is where things get a little tricky. Believe it or not, your LAN 
 
 #### What do IP Adresses look like?
 
-IP addresses are numerical values in the form "X.X.X.X" where X represents a value from 0-255. More specifically, this notation represents what we call an **IPv4** (Internet Protocol version 4) address. As stated above, this value is a unique identifier for a device on a network. Due to constraints on how many numerical values can be represented with IPv4, only 4,294,967,296 total addresses (2^32) can be used on every single device out there in the world. Obviously, there are more than that amount of devices in existence. To combat this, there are certain reserved spaces for private and public IP addresses.
+IP addresses are numerical values in the form "X.X.X.X" where X represents a value from 0-255. More specifically, this notation represents what we call an **IPv4** (Internet Protocol version 4) address. As stated above, this value is a unique identifier for a device on a network. Due to constraints on how many numerical values can be represented with IPv4, only 4,294,967,296 total addresses (2^32) can be used on every single device out there in the world. Obviously, there are more than that amount of devices in existence. To combat this, there are certain reserved spaces for private and public IP addresses. In fact, this is why NAT was invented.
 
 Here are the spaces reserved for private addresses:
 
@@ -95,7 +95,7 @@ Let's suppose someone were able to sit on a public wifi and "listen" to all of t
 
 "How the hell is that possible?" 
 
-Remember, information over the internet and beyond is sent in network packets. These packets effectively contain all of the information associated with the content you are either sending or receiving. From a network management perpsective, it would be nice to be able to see these packets in transit in order to see what is actually going during these connections. There are packet analyzing tools for this exact purpose. A hacker could use one of these tools to sniff traffic over wifi and steal information. I'll have an article about this in the future, but for now let's shift back to VPNs. 
+Remember, information over the internet and beyond is sent in network packets. These packets effectively contain all of the information associated with the content you are either sending or receiving. From a network management perpsective, it would be nice to be able to see these packets in transit in order to see what is actually going during these connections. There are packet analyzing tools for this exact purpose. A hacker could use one of these tools to sniff traffic over wifi and steal information. 
 
 One thing that is important for any VPN to have is a strong encryption standard. VPN's will use a variety of ways to further encrypt traffic, which for us is important if we want to be able to stay secure on non-safe networks. VPN's will encrypt our data before reaching the VPN server itself. Any attempt to sniff the traffic will be seen as giberrish, and might deter a hacker from attempting to target your machine. 
 
