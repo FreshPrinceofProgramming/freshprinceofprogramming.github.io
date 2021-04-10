@@ -1,5 +1,5 @@
 ---
-title: "Splash Page"
+title: "Hella Hacks"
 layout: splash
 permalink: /splash-page/
 header:
