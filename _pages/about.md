@@ -1,5 +1,4 @@
 ---
-permalink: /about/
 title: "About"
 ---
 My name is Taylor, and I'm a cyber security analyst trying to learn as much as I can. My main goal is to become a penetration tester eventually.
