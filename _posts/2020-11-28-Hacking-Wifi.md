@@ -81,7 +81,7 @@ So now we've seen how easy it is to hack wifi. This doesn't take an overly skill
 
 The big question is, "Why would anyone hack my wifi?" 
 
-**Wardriving** is a popular way for attackers to find potentially vulnerable networks and devices. The way they perform this is by literally driving or walking around with special software running that will identify vulnerable targets. Think of all the places they have access to. This could include public wifi spots, and even your neighborhood potentially. If your network at home is not secured, they might consider you a target for future hacking endeavours. 
+**Wardriving** is a popular way for attackers to find potentially vulnerable networks and devices. The way they perform this is by literally driving or walking around with special software running that will identify vulnerable targets. Think of all the places they have access to. This could include public wifi spots and even houses in your neighborhood. If your network at home is not secured, they might consider you a target for future hacking endeavours. 
 
 It's not all bad news though! More than likely you don't have to worry this will even happen....that is if you use a long and complex password for your wifi network. Once a hacker has a handshake file, they no longer have to be online or near your access point to crack the password. They can take all of the time they need to crack the hash elsewhere. However, there's no way they're cracking a 20 character alphanumeric password with symbols in this lifetime, even with a powerful computer.
 
