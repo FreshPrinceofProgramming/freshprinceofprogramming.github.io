@@ -1,7 +1,7 @@
 ---
 title: "Are Antivirus Programs Obsolete?"
 categories:
-  - Privacy, Security &amp; Safety
+  - Privacy, Security & Safety
 header:
   image: assets/images/beback2.jpg
 ---
