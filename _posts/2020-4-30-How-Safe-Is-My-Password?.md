@@ -1,7 +1,7 @@
 ---
 title: "How Safe is my Password?"
 categories:
-  - Privacy, Security & Safety
+  - Privacy, Security &amp; Safety
 header:
   image: assets/images/4eseqn.jpg
 ---
