@@ -1,7 +1,7 @@
 ---
 title: "Email Security"
 categories:
-  - Privacy, Security &amp; Safety
+  - Privacy, Security and Safety
 header:
   image: assets/images/email.jpg
 ---
