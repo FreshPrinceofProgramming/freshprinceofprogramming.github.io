@@ -1,7 +1,7 @@
 ---
 title: "Setting up your Environment"
 categories:
-  - Capture The Flag/Pentesting
+  - Capture The Flag and Pentesting
 ---
 
 # Programs you will need
