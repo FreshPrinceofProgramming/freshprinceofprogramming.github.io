@@ -1,5 +1,5 @@
 ---
-title: "Ports & Protocols"
+title: "Ports and Protocols"
 categories:
    - Capture The Flag/Pentesting
 ---
